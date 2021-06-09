@@ -1,0 +1,354 @@
+---
+# API
+enter_email_code: Enter code from mail
+incorrect_new_password: Incorrect new password!
+incorrect_current_password: Entered current password incorrect!
+name_unavialable: Nickname unavialable, try another.
+error_read_rules: Error! Please, follow rules writen below!
+email_unavialable: E-Mail unavialable, try another.
+email_already: This E-Mail already connected with this account.
+permission_denied: Permission denied, contact support team.
+no_method: No method defined!
+unknown_method: Unknown method!
+incorrect_credentials: Incorrect credentials!
+no_cookie: Auth cookie is absent!
+invalid_cookie: Invalid cookie
+redirect_to_personal: You will be redirected to your personal account within 5 seconds.
+authentication_success: Authentication success!
+failed_to_register: Failed to register. Please try again later.
+failed_to_find_such_user: Failed to find such user.
+activation_success: Activation completed successfully!
+activation_failed: Wrong activation code! Please try again.
+checkbox_failed: You must check at least one checkbox.
+bug_report_success: Your report has been sent! Thank you for contributing!
+bug_report_failed: Something went wrong. Please try again.
+bug_report_no_mistakes: Select at least one type of bug, please.
+# Text
+days_text: days
+verify_msg: Please verify you are a human.
+join_discord: Join <a href="https://discord.com/invite/bwsFBeh" target="_blank">Discord</a> server (not necessary).
+installed_original_version: Installed original version of game 2011-2013 years, update <span class="strong">"New Origin"</span>.
+improved_graphics: <span class="strong">Improved graphics</span> in towns and continuing improvement in other places.
+secure_from_hacking_game_client: <span class="strong">Secure from hacking game client.</span>
+combined_server: Combined server for <span class="strong">european and russian</span> players.
+players_support: Quick <span class="strong">players support</span> over ticket system.
+opened_to_suggestions: <span class="strong">Opened to suggestions</span> for improving the game the development team, and that is not all!
+when_registering_right_now: When registering <span class="strong">right now</span> you will get a free riding mount and a ball of friendship!
+in_the_window_that_appears_enter_the_username_and_password: In the window that appears, enter the username and password, indicated at registration on <a href="/">Dragonica website</a>.
+launch_the_game_text: Launch the game. Wait a few seconds until the game's start window appears on the screen
+if_you_want_to_start_the_game_text: If you want to start the game right now, press the button "Game start"
+after_you_enter_all_the_data_text: After you enter all the data, you need to click the "Enter" button and start creating the character
+this_is_really_fast_source_text: This is really fast source. If you don't have torrent-client, download
+description: Dragon Saga is a fast action 3D side-scroller MMORPG that attracts casual gamers with quest based leveling system, while challenging the hardcore gamers with 6 different PVP modes and multi-level instance dungeons. The partner, friends, and marriage systems in-game make it extremely easy for any gamer to make new friends!
+keywords: Dragon Saga, Dragonica, MMORPG, fast action, 3D side-scroller MMORPG, casual gamers, quest based leveling system, hardcore gamers, PVP, PVE, different PVP modes, multi-level instance dungeons, partner system, friends system, marriage systems, easy to make new friends
+processing_of_personal_data_text: I, the subject of personal data, in accordance with the Russian Federal Law of July 27, 2006 No. 152 "On Personal Data" and EU GDPR I provide to the website volia.biz (hereinafter - the Operator), consent to the processing of personal data specified by me in the registration form on the website, owned by the Operator.
+processing_of_personal_data_list_items: <li>The composition of my personal data is as follows&colon; E-Mail address.</li><li>Other my personal data&colon; IP-address to provide technically ability access to the game, it can not be used for any other goals; E-Mail for sending transactional and marketing letters (with the possibility of rejecting).</li><li>The purposes of processing my personal data are&colon; notifications about technical support responses, new personal messages and Operator's news, as well as providing the possibility to restore and change the password and E-Mail on the Operator's website.</li><li>In case of partial or complete unavailability of the game service for all players through the fault of the Operator, compensation and gifts to the players can be sent within 24 hours from the moment of problem resolve.</li><li>I understand that all data sended between my device and this website is encrypted with SSL.</li><li>Consent is granted for the following actions (operations) with the personal data specified in this consent&colon; collection, systematization, accumulation, storage, clarification (updating, modification), use, transfer (provision, access), blocking, removal, destruction, using automation tools (automated processing) and without using such tools (manual processing).</li><li>I understand and agree that providing the Operator with any information about myself that is not related to the purposes of this consent, as well as providing information related to state, banking and/or commercial secrets, information about the race and/or national affiliation, political views, religious or philosophical convictions, health status, intimate life is prohibited.</li><li>If I make a decision to provide the Operator with any information (any data), I undertake to provide only accurate and up-to-date information and do not have the right to mislead the Operator about my identity, to report false or unreliable information about myself.</li><li>I understand and agree that the Operator does not verify the authenticity of the personal data provided by me and does not have the ability to assess my legal capacity and assumes that I provide reliable personal data and maintain such data up-to-date.</li><li>Consent shall be effective upon the achievement of treatment objectives or in the event of the loss of the need to achieve these goals, unless otherwise provided by federal law.</li>
+1_st_place: 1-st place "Hot Lava"
+2_nd_place: 2-nd place "Dangerous Goo"
+3_rd_place: 3-rd place "Deep Ocean"
+# Events
+attack: Kill Monster
+ratnoe: Ratnoe Dungeon
+race: Race 
+# Slots
+ITEM_NONE: "-"
+ITEM_PAINT: Paint
+ITEM_HAIR: Hair
+ITEM_FACE: Face
+ITEM_SHOULDER: Shoulders
+ITEM_MANTLE: Mantle
+ITEM_GLASSES: Glasses
+ITEM_WEAPON: Weapon
+ITEM_SHIELD: Shield
+ITEM_NECKLESS: Neck
+ITEM_EARRING: Earring
+ITEM_RING: Ring
+ITEM_BELT: Belt
+ITEM_OTHER: Other
+ITEM_HELM: Helm
+ITEM_JACKET: Jacket
+ITEM_PANTS: Pants
+ITEM_SHOES: Shoes
+ITEM_GLOVES: Gloves
+ITEM_CARD: Card
+ITEM_PET: Pet
+ITEM_FURNITURE: Furniture
+# Pagenames
+pagename_index: Main
+# Classes
+CLASS_0: All classes
+CLASS_1: Swordsman
+CLASS_2: Mage
+CLASS_3: Archer
+CLASS_4: Thief
+CLASS_5: Knight
+CLASS_6: Gladiator
+CLASS_7: Cleric
+CLASS_8: Wizard
+CLASS_9: Hunter
+CLASS_10: Mercenary
+CLASS_11: Jester
+CLASS_12: Assassin
+CLASS_13: Paladin
+CLASS_14: Myrmidon
+CLASS_15: Priest
+CLASS_16: Archmage
+CLASS_17: Pathfinder
+CLASS_18: Gunslinger
+CLASS_19: Harlequin
+CLASS_20: Ninja
+CLASS_21: Guardian
+CLASS_22: Champion
+CLASS_23: Bishop
+CLASS_24: Heretic
+CLASS_25: Scout
+CLASS_26: Destroyer
+CLASS_27: Joker
+CLASS_28: Shadow
+# Grade
+grade_0: Regular
+grade_1: Regular
+grade_2: Advanced 
+grade_3: Special 
+grade_4: Artifact
+# Items Stats
+ITEM_STAT_2051: Effect
+ITEM_STAT_1005: Extra gold
+ITEM_STAT_3171: 3171
+ITEM_STAT_3912: Final block success rate against enemy weapons
+ITEM_STAT_3914: Chance to block 100% physical attack damage
+ITEM_STAT_3915: Chance to block 100% magic attack damage
+ITEM_STAT_3920: Increasing Damage during attack Normal monsters
+ITEM_STAT_3921: Increasing Damage during attack Upgraded monsters
+ITEM_STAT_3922: Increasing Damage during attack Elite monsters
+ITEM_STAT_3923: Increasing Damage during attack Boss
+ITEM_STAT_3930: Enchant Success Rate
+ITEM_STAT_3931: SoulCraft Success Rate
+ITEM_STAT_3932: Soul consumption reduction for SoulCraft
+ITEM_STAT_7001: HP
+ITEM_STAT_7002: HP
+ITEM_STAT_7012: HP Recovery Speed
+ITEM_STAT_7021: MP
+ITEM_STAT_7022: MP
+ITEM_STAT_7032: MP Recovery Speed
+ITEM_STAT_7041: Strength
+ITEM_STAT_7042: STR Up
+ITEM_STAT_7051: Intelligence
+ITEM_STAT_7052: INT Up
+ITEM_STAT_7061: Health
+ITEM_STAT_7071: Agility
+ITEM_STAT_7072: AGI Up
+ITEM_STAT_7081: Movement Speed
+ITEM_STAT_7082: Movement Speed
+ITEM_STAT_7091: Def
+ITEM_STAT_7092: Def
+ITEM_STAT_7101: Mdef
+ITEM_STAT_7102: Mdef
+ITEM_STAT_7112: ATK Speed
+ITEM_STAT_7121: Final Block Success Rate
+ITEM_STAT_7122: Absolute Def Rate
+ITEM_STAT_7131: Evade Rate
+ITEM_STAT_7132: Evade Rate
+ITEM_STAT_7141: Critical Rate
+ITEM_STAT_7142: Critical Rate
+ITEM_STAT_7151: Critical Damage
+ITEM_STAT_7152: Critical Damage
+ITEM_STAT_7182: Attack Range
+ITEM_STAT_7192: HP Recovery
+ITEM_STAT_7202: MP Recovery
+ITEM_STAT_7221: Max Physical Attack
+ITEM_STAT_7222: Max Physical Attack
+ITEM_STAT_7223: ATK
+ITEM_STAT_7231: Min Physical Attack
+ITEM_STAT_7232: Min Physical Attack
+ITEM_STAT_7233: ATK
+ITEM_STAT_7281: MATK
+ITEM_STAT_7282: MATK
+ITEM_STAT_7283: MATK
+ITEM_STAT_7291: ATK
+ITEM_STAT_7292: ATK
+ITEM_STAT_7293: ATK
+ITEM_STAT_7311: Aim Rate
+ITEM_STAT_7312: Aim Rate
+ITEM_STAT_7331: Max Magic Attack
+ITEM_STAT_7332: Max Magic Attack
+ITEM_STAT_7333: MATK
+ITEM_STAT_7341: Min Magic Attack
+ITEM_STAT_7342: Min Magic Attack
+ITEM_STAT_7343: MATK
+ITEM_STAT_7351: Physical Damage Drop
+ITEM_STAT_7352: Physical Damage Drop
+ITEM_STAT_7361: Magic Damage Drop
+ITEM_STAT_7362: Magic Damage Drop
+ITEM_STAT_7821: Block Damage
+ITEM_STAT_8001: Success rate in evading Move Freezing
+ITEM_STAT_8011: Success rate in evading Ice Freezing
+ITEM_STAT_9001: Final Aim Rate
+ITEM_STAT_9011: Final Evade rate
+ITEM_STAT_9021: Final Block Success Rate
+ITEM_STAT_9031: Final Critical Success Rate
+ITEM_STAT_9061: Critical Defense
+ITEM_STAT_9071: Critical resistance
+ITEM_STAT_9081: Penetrate Block
+ITEM_STAT_9091: Debuff resistance
+ITEM_STAT_9101: Debuff success rate
+ITEM_STAT_9111: Poisoning time decrease
+ITEM_STAT_9121: Poisoning time increase
+ITEM_STAT_9131: Penetrate Defense
+ITEM_STAT_30011: Fire element attack
+ITEM_STAT_30012: Ice element attack
+ITEM_STAT_30013: Nature element attack
+ITEM_STAT_30014: Dark element attack
+ITEM_STAT_30015: Demolition element attack
+ITEM_STAT_30021: Increase Fire element attack
+ITEM_STAT_30021: Increase Fire element attack
+ITEM_STAT_30022: Increase Ice element attack
+ITEM_STAT_30022: Increase Ice element attack
+ITEM_STAT_30023: Increase Nature element attack
+ITEM_STAT_30023: Increase Nature element attack
+ITEM_STAT_30024: Increase Dark element attack
+ITEM_STAT_30024: Increase Dark element attack
+ITEM_STAT_30025: Increase Demolition element attack
+ITEM_STAT_30025: Increase Demolition element attack
+ITEM_STAT_30031: Bonus Fire element attack (Phy)
+ITEM_STAT_30031: Bonus Fire element attack (Phy)
+ITEM_STAT_30032: Bonus Ice element attack (Phy)
+ITEM_STAT_30032: Bonus Ice element attack (Phy)
+ITEM_STAT_30033: Bonus Nature element attack (Phy)
+ITEM_STAT_30033: Bonus Nature element attack (Phy)
+ITEM_STAT_30034: Bonus Dark element attack (Phy)
+ITEM_STAT_30034: Bonus Dark element attack (Phy)
+ITEM_STAT_30035: Bonus Demolition element attack (Phy)
+ITEM_STAT_30035: Bonus Demolition element attack (Phy)
+ITEM_STAT_30041: Bonus Fire element attack (Mag)
+ITEM_STAT_30042: Bonus Ice element attack (Mag)
+ITEM_STAT_30043: Bonus Nature element attack (Mag)
+ITEM_STAT_30044: Bonus Dark element attack (Mag)
+ITEM_STAT_30045: Bonus Demolition element attack (Mag)
+ITEM_STAT_30051: Fire element resistance
+ITEM_STAT_30052: Ice element resistance
+ITEM_STAT_30053: Nature element resistance
+ITEM_STAT_30054: Dark element  resistance
+ITEM_STAT_30055: Demolition element  resistance
+ITEM_STAT_30061: Increase Fire element resistance
+ITEM_STAT_30061: Increase Fire element resistance
+ITEM_STAT_30062: Increase Ice element resistance
+ITEM_STAT_30062: Increase Ice element resistance
+ITEM_STAT_30063: Increase Nature element resistance
+ITEM_STAT_30063: Increase Nature element resistance
+ITEM_STAT_30064: Increase Dark element resistance
+ITEM_STAT_30064: Increase Dark element resistance
+ITEM_STAT_30065: Increase Demolition element resistance
+ITEM_STAT_30065: Increase Demolition element resistance
+ITEM_STAT_30071: Bonus Fire element resistance (Phy)
+ITEM_STAT_30071: Bonus Fire element resistance (Phy)
+ITEM_STAT_30072: Bonus Ice element resistance (Phy)
+ITEM_STAT_30072: Bonus Ice element resistance (Phy)
+ITEM_STAT_30073: Bonus Nature element resistance (Phy)
+ITEM_STAT_30073: Bonus Nature element resistance (Phy)
+ITEM_STAT_30074: Bonus Dark element resistance (Phy)
+ITEM_STAT_30074: Bonus Dark element resistance (Phy)
+ITEM_STAT_30075: Bonus Demolition element resistance (Phy)
+ITEM_STAT_30075: Bonus Demolition element resistance (Phy)
+ITEM_STAT_30081: Bonus Fire element resistance (Mag)
+ITEM_STAT_30082: Bonus Ice element resistance (Mag)
+ITEM_STAT_30083: Bonus Nature element resistance (Mag)
+ITEM_STAT_30084: Bonus Dark element resistance (Mag)
+ITEM_STAT_30085: Bonus Demolition element resistance (Mag)
+ITEM_STAT_30180: Four elements attack
+ITEM_STAT_30181: Five elements attack
+ITEM_STAT_30190: Increase Four elements attack
+ITEM_STAT_30190: Increase Four elements attack
+ITEM_STAT_30191: Increase Five elements attack
+ITEM_STAT_30200: Bonus Four elements attack (Phy)
+ITEM_STAT_30200: Bonus Four elements attack (Phy)
+ITEM_STAT_30201: Bonus Five elements attack (Phy)
+ITEM_STAT_30210: Bonus Four elements attack (Mag)
+ITEM_STAT_30211: Bonus Five elements attack (Mag)
+ITEM_STAT_30220: Four elements resistance
+ITEM_STAT_30220: Four elements resistance
+ITEM_STAT_30221: Five elements resistance
+ITEM_STAT_30230: Increase Four elements resistance
+ITEM_STAT_30231: Increase Five elements resistance
+ITEM_STAT_30240: Bonus Four elements resistance (Phy)
+ITEM_STAT_30240: Bonus Four elements resistance (Phy)
+ITEM_STAT_30241: Bonus Five elements resistance (Phy)
+ITEM_STAT_30250: Bonus Four elements resistance (Mag)
+ITEM_STAT_30251: Bonus Five elements resistance (Mag)
+ITEM_STAT_53000: 53000
+# items denials
+ITEM_DENIAL_1: sold at shop
+ITEM_DENIAL_2: trade
+ITEM_DENIAL_4: guild vault
+ITEM_DENIAL_8: mail attachment
+ITEM_DENIAL_16: destroy
+ITEM_DENIAL_32: registered at open market
+ITEM_DENIAL_64: use in PvP
+ITEM_DENIAL_128: enchant
+ITEM_DENIAL_256: soulcraft
+ITEM_DENIAL_512: create socket
+ITEM_DENIAL_1024: use
+ITEM_DENIAL_2048: seal
+ITEM_DENIAL_4096: lottery
+ITEM_DENIAL_8192: repair
+ITEM_DENIAL_16384: account vault
+ITEM_DENIAL_0: unknown
+# items sources
+ITEM_SOURCE_change: Exchange with NPC
+ITEM_SOURCE_roulette: Big Wheel
+ITEM_SOURCE_superdospeh: Mix Board
+ITEM_SOURCE_gameroulette: Slot Machine
+ITEM_SOURCE_shopingame: Purchase from NPC
+ITEM_SOURCE_emporiareward: Emporia Reward
+ITEM_SOURCE_cashshop: Item Mall
+ITEM_SOURCE_event: Event
+ITEM_SOURCE_arena: BSQ Reward
+ITEM_SOURCE_f7: Loot F7
+ITEM_SOURCE_f6: Loot F6
+ITEM_SOURCE_remeslo1: Gathering
+ITEM_SOURCE_remeslo2: Production
+ITEM_SOURCE_remeslo3: Windy Farm
+ITEM_SOURCE_chest: Chest
+ITEM_SOURCE_craft: Craft
+ITEM_SOURCE_mission: WarPath
+ITEM_SOURCE_dungeon: Dungeon loot
+ITEM_SOURCE_drop_monster: Loot from monster
+ITEM_SOURCE_drop_boss: Loot from boss
+ITEM_SOURCE_drop_map: Loot at location
+ITEM_SOURCE_mission_rank: Mission Rank
+ITEM_SOURCE_quest: Quest
+ITEM_SOURCE_achievement: Achievement
+ITEM_SOURCE_monsterkill: Monster Count
+ITEM_SOURCE_roulette_old: Was in Big Wheel
+ITEM_SOURCE_superdospeh_old: Was in Mix Board
+ITEM_SOURCE_gameroulette_old: Was in Slot Machine
+ITEM_SOURCE_quest_drop: Quest Loot
+ITEM_SOURCE_registration: Ragistration Bonus
+ITEM_SOURCE_mailer: Event by mail
+ITEM_SOURCE_promo: Event by Promo
+ITEM_SOURCE_wheel: Wheel of Luck
+ITEM_SOURCE_wheel_old: Was in Wheel of Luck
+# Dungeon levels
+DUNGEON_NORMAL: Normal (F1)
+DUNGEON_RARE: Rare (F2)
+DUNGEON_HERO: Hero (F3) 
+DUNGEON_LEGEND: Legend (F4)
+# Emporia rewards
+WinnerItem: 1-st place of Emporia
+SecondItem: 2-nd place of Emporia
+SemiItem: Semifinal of Emporia
+QuarterItem: Quarterfinals of Emporia
+Grade1_Item: Emporia, 1 star
+Grade2_Item: Emporia, 2 stars
+Grade3_Item: Emporia, 3 stars
+# Mistakes
+mistake_armory_item_name: Name
+mistake_armory_item_description: Description
+mistake_armory_item_translation: Translation
+mistake_armory_item_source: Where to get
+mistake_armory_item_stat: Item stats
+mistake_armory_quest_name: Name
+mistake_armory_quest_description: Description
+mistake_armory_quest_translation: Translation
+mistake_armory_quest_reward: Reward
+mistake_armory_quest_npc: NPC
