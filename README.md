@@ -10,3 +10,4 @@ The most active users can be rewarded by Volia support team,
 just send them a list of your combined PRs. 
 
 **Thanks for your cooperation!**
+
