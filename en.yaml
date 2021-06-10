@@ -1,6 +1,6 @@
 ---
 # API
-enter_email_code: Enter code from mail
+enter_email_code: Enter code from E-Mail
 incorrect_new_password: Incorrect new password!
 incorrect_current_password: Entered current password incorrect!
 name_unavialable: Nickname unavialable, try another.
