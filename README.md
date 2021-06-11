@@ -15,7 +15,7 @@ Just contact us and we'll send you a file with the translation that you can corr
 
 **You can contact us in the following ways:**
 
-1. Support Team
+1. Our Support Team
 2. Leave us your E-Mail using a "Report a bug" button on the website.
 3. Our E-Mail: info@volia.biz
 
