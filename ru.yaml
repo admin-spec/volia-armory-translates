@@ -336,6 +336,13 @@ Grade2_Item: Эмпорий, 2 звезды
 Grade3_Item: Эмпорий, 3 звезды
 The armory is in test mode. We welcome bug reports from players. Please use a dedicated button.: Оружейная находится в состоянии активной разработки. Для сообщения об ошибках используйте специальную кнопку или обращайтесь в службу поддержки.
 Reset: Сброс
+#Shop
+Buy currency: Купить валюту
+Premium: Премиум
+Kits: Наборы
+Character: Персонаж
+Other: Другое
+Free of charge: Бесплатные услуги
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
