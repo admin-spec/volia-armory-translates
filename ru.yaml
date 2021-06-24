@@ -357,7 +357,6 @@ buy_cash: Купить "Cash" валюту
 Buy: Купить
 Combat Points: Очки Боя
 Premium Diamond: Алмазная премиум-система
-
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!

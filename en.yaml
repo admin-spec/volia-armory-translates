@@ -343,8 +343,8 @@ Grade1_Item: Emporia, 1 star
 Grade2_Item: Emporia, 2 stars
 Grade3_Item: Emporia, 3 stars
 #Shop
-purchase_cash: Purchase "Cash" currency for your account. Delivered instantly.
-purchase_cp: Purchase "CP" currency for any of your characters. Delivered instantly.
+purchase_cash: Buy "Cash" currency for your account. Delivered instantly.
+purchase_cp: Buy "CP" currency for any of your characters. Delivered instantly.
 buy_cash: Buy "Cash" currency
 buy_cp: Buy "CP" currency
 # Mistakes
