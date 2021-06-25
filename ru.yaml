@@ -432,6 +432,19 @@ Which character lost the item: Какой персонаж потерял пре
 Up to: До
 days from the removal of the item: дней от удаления предмета
 Change name: Сменить имя / название
+Choose a service: Выберите услугу
+Change pet name: Сменить имя питомца
+Change character name: Сменить имя персонажа
+Change guild name: Сменить название гильдии
+Character gender reassignment: Смена пола персонажа
+Choose a character to change gender: Выберите персонажа для смены пола
+Change the gender of your character. Realize your fantasies. Exit from the game is required.: Смена пола Вашего персонажа. Реализуйте свои фантазии. Требуется выход из игры.
+Decrease character level: Снижение уровня персонажа
+How many levels you want to decrease: На сколько уровней снизить
+Decrease from 1 to 10 levels for the character. A service for characters level 60 and above.: Снижение от 1 до 10 уровней у персонажа. Услуга для персонажей 60 уровня и выше.
+How many attempts would you like to acquire: Сколько попыток Вы желаете приобрести
+attempts1: попытки
+attempts2: попыток 
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
