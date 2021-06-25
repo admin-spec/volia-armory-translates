@@ -446,6 +446,32 @@ How many attempts would you like to acquire: Сколько попыток Вы 
 attempts1: попытки
 attempts2: попыток
 Extra attempts for roulette. Cost: Дополнительные попытки для рулетки. Стоимость
+Choose a character to change appearance: Выберите персонажа для смены внешности
+Inventory / Slot: Инвентарь / Слот
+Chest: Грудь
+Legs: Ноги
+Hands: Руки
+Shoes: Обувь
+Your style: Ваш стиль
+Regular: Обычный
+Standard: Стандартный
+More ...: Подробно ...
+No item!: Нет предмета!
+How it works: Как это работает
+place_items: Установить можно предметы в ячейки&colon; Грудь, Руки, Ноги, Обувь.
+can_place: Игрок может установить на внешний вид персонажа любой из надетых в соответствующей ячейке предмет (Обычный или Cash).
+Placed items do not give characteristics and become visible only when the display of regular and Cash items in the corresponding slots is turned off.: Установленные предметы не дают характеристики и становятся видны только при отключении отображения обычных и Cash предметов в соответствующих ячейках.
+While using the service, the user should not be on the game server.: Во время пользования услугой, пользователь не должен находиться на игровом сервере.
+After setting the item to the appearance, you can enter the game and remove the copied item. It will be displayed on the character until it is replaced by another.: После установки предмета на внешний вид, можно войти в игру и снять копируемый предмет. Он будет отображаться на персонаже до тех пор, пока не будет заменён другим.
+You can return the standard appearance to the character.: Можно вернуть стандартный внешний вид персонажу.
+Is your character stuck: Ваш персонаж застрял
+Free teleportation to Odelia.: Бесплатное возвращение персонажа в Оделию
+Play and get gifts!: Играй и получай подарки!
+Select a character to participate: Выберите персонажа для участия
+Day: День
+pc.: шт.
+It is absolutely FREE! Participate in the daily event and get free items!: Это абсолютно БЕСПЛАТНО! Участвуйте в ежедневных событиях и получайте бесплатные предметы!
+Read more about the event here ...: Подробнее о мероприятии можно прочесть здесь ...
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!

@@ -348,6 +348,8 @@ purchase_cash: Buy "Cash" currency for your account. Delivered instantly.
 purchase_cp: Buy "CP" currency for any of your characters. Delivered instantly.
 buy_cash: Buy "Cash" currency
 buy_cp: Buy "CP" currency
+place_items: You can place items in the slots&colon; Chest, Hands, Legs and Shoes.
+can_place: The player can place any item (regular or Cash) worn in the corresponding slot to the character's appearance..
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description
