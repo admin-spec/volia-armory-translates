@@ -485,6 +485,7 @@ Deposit: Пополнить
 qiwi_service: Платежный сервис "Qiwi"
 top_up_qiwi: Пополните счет через платежный сервис "Qiwi" без комиссии.
 webmoney_service: Платежный сервис "WebMoney"
+top_up_webmoney: Пополните счет через платежный сервис "WebMoney" без комиссии.
 robokassa_service: Платежный сервис "Robokassa"
 Top up balance using VISA, MasterCard, Mir bank cards, etc.: Пополнение баланса с помощью банковских карт VISA, MasterCard, Мир и др.
 Pay from your phone using mobile payments.: Оплата с телефона с помощью мобильных платежей.
