@@ -342,7 +342,7 @@ QuarterItem: Quarterfinals of Emporia
 Grade1_Item: Emporia, 1 star
 Grade2_Item: Emporia, 2 stars
 Grade3_Item: Emporia, 3 stars
-#Shop
+# Shop
 curr: $
 purchase_cash: Buy "Cash" currency for your account. Delivered instantly.
 purchase_cp: Buy "CP" currency for any of your characters. Delivered instantly.
@@ -350,8 +350,8 @@ buy_cash: Buy "Cash" currency
 buy_cp: Buy "CP" currency
 place_items: You can place items in the slots&colon; Chest, Hands, Legs and Shoes.
 can_place: The player can place any item (regular or Cash) worn in the corresponding slot to the character's appearance.
-#Shop Payment Methods
-# iomoney_service: "IOMoney" payment service
+# Shop Payment Methods
+iomoney_service: "IOMoney" payment service
 # top_up_iomoney: Top up your account through the "IOMoney" payment service without commission.
 # qiwi_service: "Qiwi" payment service
 # top_up_qiwi: Top up your account through the "Qiwi" payment service without commission.
