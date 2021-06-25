@@ -400,8 +400,11 @@ for: за
 Next: Далее
 First you need to: Сначала Вам необходимо
 replenish your account!: пополнить счет!
-Replenishment of Cash currency for your account. Delivered instantly.: Пополнение Cash валюты для Вашей учетной записи. Доставляется мгновенно.
+Replenishment of Cash currency for your account. Delivered instantly.: Пополнение "Cash" валюты для Вашей учетной записи. Доставляется мгновенно.
 Back to services: Вернуться к выбору услуг
+Which character should be credited with CP: Какому персонажу зачислить ОБ?
+CP: ОБ
+Replenishment of CP currency for your account. Delivered instantly.: Пополнение "ОБ" валюты для Вашей учетной записи. Доставляется мгновенно.
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
