@@ -382,7 +382,7 @@ Items recovery: Восстановление предметов
 Restoration of destroyed items in the last 25 days.: Восстановление уничтоженных предметов за последние 25 дней.
 Сhanging the name of a character, guild or pet: Смена имени персонажа, гильдии или питомца
 from: от
-Change the name of your character, guild or pet.: Смените имя своего персонажа, гильдии или питомца.
+Change the name of your character, guild or pet.: Смените имя своего персонажа, питомца или название гильдии.
 Сhanging the gender of the character: Смена пола персонажа
 Realize your fantasies.: Реализуйте свои фантазии. 
 Decrease in character level: Снижение уровня персонажа
@@ -423,6 +423,15 @@ The cost of the service is: Стоимость услуги
 The kit includes: В наборе Вы найдете
 Blast-off Kit: Набор "Взлет"
 Money: Деньги
+deleted: удален
+Name the character *: Назовите персонажа
+The name must not be occupied by a character or pet.: Имя не должно быть занято персонажем или питомцем.
+The name must contain between 3 and 10 letters.: Имя должно содержать от 3 до 10 букв.
+The deleted character name may already be taken by another player.: Имя удалённого персонажа может быть уже занято другим игроком.
+Which character lost the item: Какой персонаж потерял предмет
+Up to: До
+days from the removal of the item: дней от удаления предмета
+Change name: Сменить имя / название
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
