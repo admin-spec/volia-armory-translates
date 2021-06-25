@@ -350,6 +350,14 @@ buy_cash: Buy "Cash" currency
 buy_cp: Buy "CP" currency
 place_items: You can place items in the slots&colon; Chest, Hands, Legs and Shoes.
 can_place: The player can place any item (regular or Cash) worn in the corresponding slot to the character's appearance..
+#Shop Payment Methods
+iomoney_service: "IOMoney" payment service
+top_up_iomoney: Top up your account through the "IOMoney" payment service without commission.
+qiwi_service: "Qiwi" payment service
+top_up_qiwi: Top up your account through the "Qiwi" payment service without commission.
+webmoney_service: "WebMoney" payment service
+top_up_webmoney: Top up your account through the "WebMoney" payment service without commission.
+robokassa_service: "Robokassa" payment service
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description
