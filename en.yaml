@@ -357,7 +357,6 @@ qiwi_service: Payment service "Qiwi"
 top_up_qiwi: Top up your account through the "Qiwi" payment service without commission.
 webmoney_service: Payment service "WebMoney"
 top_up_webmoney: Top up your account through the "WebMoney" payment service without commission.
-robokassa_service: Payment service "Robokassa"
 yoomoney_copyright: 2021 "YooMoney", NBCO LLC. License for performing banking transactions No. 3510-K
 support_service1: support service
 support_service2: support service

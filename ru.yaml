@@ -507,21 +507,8 @@ In the case of sending funds from the terminal, you must send a request to the: 
 specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!: с указанием времени и высланной суммы. Также служба поддержки может запросить фотографию чека, сохраните его!
 Account numbers for transfer: Номера счетов для перевода
 The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.: Воспроизводимые на данном сайте торговые марки WEBMONEY и WEBMONEY TRANSFER используются держателями сайта с разрешения правообладателя.
-Qiwi Wallet: Qiwi Кошелек
-Elecsnet Terminals: Терминалы Элекснет
 YooMoney: ЮMoney
-Elecsnet Wallet: Элекснет Кошелек
 Bank сards: Банковские карты
-Beeline: Билайн
-Megafon: Мегафон
-MTS: МТС
-Svyaznoy: Связной
-OCEAN BANK (JSC), non-exclusive rights to use: ОКЕАН БАНК (АО), неисключительные права пользования
-Internet Payments Center: Центр Интернет Платежей
-CJSC.: (ЗАО).
-Payment security is guaranteed by THAWTE and PCI certificates.: Безопасность платежей гарантируется сертификатами THAWTE и PCI.
-View certificates for: Посмотреть сертификаты
-details: подробнее
 According to the: В соответствии с
 promotion: акцией
 you will receive a 35% bonus using this deposit method!: вы получите бонус 35%, используя этот метод пополнения!
@@ -533,6 +520,8 @@ Be prepared to name the time, amount of replenishment and wallet to send.: Бу�
 The exchange rate is in constant motion, you can track the current rate by following the: Курс находится в постоянном движении, отслеживать актуальный курс можно
 link1: ссылка
 link2: по ссылке
+Deposit user account: Пополнение счета пользователя
+Dragonica Volia QR Code: QR-код Драконика Воля
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
