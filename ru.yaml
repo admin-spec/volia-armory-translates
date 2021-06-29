@@ -477,7 +477,6 @@ Read more about the event here ...: Подробнее о мероприятии
 #Shop Payment Methods
 Shop | Deposit: Магазин | Пополнение счета
 Deposit with no fees: Пополнение счета без комиссии
-Universal payment methods: Универсальные способы оплаты
 Deposit using cryptocurrency: Пополнение счета с помощью криптовалюты
 iomoney_service: Платежный сервис "ЮMoney"
 top_up_iomoney: Пополните счет через платежный сервис "ЮMoney" без комиссии. 
@@ -492,6 +491,50 @@ Pay from your phone using mobile payments.: Оплата с телефона с 
 Сryptocurrencies BTC, ETH, XMR: Криптовалюты BTC, ETH, XMR
 Bonus: Бонус
 Get a bonus - 35% using this deposit method!: Получите бонус - 35% используя данный метод пополнения счета!
+Back to pay methods: Вернуться к способам оплаты
+yoomoney_copyright: 2021 ООО НКО «ЮМани». Лицензия Банка России № 3510‑К
+Legal information: Юридическая информация
+Account number for transfer: Номер счета для перевода
+Russian flag: Российский флаг
+When sending funds from a computer, be sure to specify the text: При отправке средств с компьютера, необходимо обязательно указать текст
+in the comment to the transfer!: в комментарии к переводу!
+Go to QIWI.com: Перейти на сайт QIWI.com
+Crediting funds to the account takes from 10 minutes to several hours. In case of a delay in crediting, send a request to the: Зачисление средств на счет длится от 10 минут до нескольких часов. В случае задержки зачисления отправьте запрос в
+support_service1: служба поддержки
+support_service2: службу поддержки
+be ready to name the time, the amount of replenishment and the sending wallet.: будьте готовы назвать время, сумму пополнения и кошелек отправки.
+In the case of sending funds from the terminal, you must send a request to the: В случае отправки средств с терминала, необходимо отправить запрос в
+specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!: с указанием времени и высланной суммы. Также служба поддержки может запросить фотографию чека, сохраните его!
+Account numbers for transfer: Номера счетов для перевода
+The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.: Воспроизводимые на данном сайте торговые марки WEBMONEY и WEBMONEY TRANSFER используются держателями сайта с разрешения правообладателя.
+Qiwi Wallet: Qiwi Кошелек
+Elecsnet Terminals: Терминалы Элекснет
+YooMoney: ЮMoney
+Elecsnet Wallet: Элекснет Кошелек
+Bank сards: Банковские карты
+Beeline: Билайн
+Megafon: Мегафон
+MTS: МТС
+Svyaznoy: Связной
+OCEAN BANK (JSC), non-exclusive rights to use: ОКЕАН БАНК (АО), неисключительные права пользования
+Internet Payments Center: Центр Интернет Платежей
+CJSC.: (ЗАО).
+Payment security is guaranteed by THAWTE and PCI certificates.: Безопасность платежей гарантируется сертификатами THAWTE и PCI.
+View certificates for: Посмотреть сертификаты
+details: подробнее
+Сryptocurrencies BTC, ETH, XMR: Криптовалюты BTC, ETH, XMR
+Bonus: Бонус
+According to the: В соответствии с
+promotion: акцией
+you will receive a 35% bonus using this deposit method!: вы получите бонус 35%, используя этот метод пополнения!
+Wallets numbers for transfer: Номера кошельков для перевода
+Send the desired top-up amount to the specified address and notify the: Отправьте желаемую сумму пополнения на указанный адрес и сообщите об этом в
+Current exchange rate: Текущий курс
+This is an example, you can deposit your account with any amount.: Это пример, вы можете пополнить счёт на любую сумму.
+Be prepared to name the time, amount of replenishment and wallet to send.: Будьте готовы назвать время, сумму пополнения и кошелек отправки.
+The exchange rate is in constant motion, you can track the current rate by following the: Курс находится в постоянном движении, отслеживать актуальный курс можно
+link1: ссылка
+link2: ссылке
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
