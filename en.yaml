@@ -362,6 +362,10 @@ support_service1: support service
 support_service2: support service
 link1: link
 link2: link
+# Personal account
+evans_quests: Evan's quests
+buy_2: Buy
+consumable_scroll: Consumable" > "Scrolls
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description
