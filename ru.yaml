@@ -564,8 +564,8 @@ fill_and_press_next: Заполните все поля и нажмите кно
 Your nickname will be displayed when communicating on the forum and must be different from your username. You can change your nickname at any time, without any additional confirmation.: Ваш никнейм будет отображаться при общении на форуме и должен отличаться от Вашего логина. Вы можете изменить никнейм в любой момент, без каких-либо дополнительных подтверждений.
 The nickname must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin) and Russian alphabets, as well as numbers.: Никнейм должен быть уникальным, составлять в длине от 2 до 15 символов и может содержать буквы английского (латинского) и русского алфавитов, а также цифры.
 Change Your E-Mail: Смена Вашего E-Mail
-Enter your new E-Mail: Введите Ваш новый E-Mail
-Re-enter your new E-Mail: Введите Ваш новый E-Mail повторно
+Enter your new E-Mail: Введите новый E-Mail
+Re-enter your new E-Mail: Повторите новый E-Mail
 We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.: На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений. Будьте внимательны, убедитесь в том, что новый E-Mail существует и Вам принадлежит.
 in_case_cant_find_mail: В случае если письмо с подтверждением изменений не приходит, проверьте папку "Спам" и не подпадает ли оно под какие-либо почтовые фильтры (напр. "Покупки" или "Соц. сети"). В случае если после вышеуказанных действий Вы все равно не обнаружите письмо, обратитесь в 
 support team: службу поддержки
