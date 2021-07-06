@@ -526,7 +526,7 @@ Dragonica Volia QR Code: QR-код Драконика Воля
 Personal account: Личный кабинет
 Personal data: Личные данные
 Your ID: Ваш ID
-Nickname: Псевдоним
+Nickname: Никнейм
 Security: Безопасность
 Change password: Сменить пароль
 Daily event: Ежедневное событие
@@ -558,6 +558,65 @@ Character Slot Expansion: Активатор доп. ячейки
 in the Cash-shop: в Cash-магазине
 category: раздел
 consumable_scroll: Расход" > "Свитки
+Your nickname change: Смена Вашего никнейма
+Enter a new nickname: Введите новый никнейм
+fill_and_press_next: Заполните все поля и нажмите кнопку "Далее".
+Your nickname will be displayed when communicating on the forum and must be different from your username. You can change your nickname at any time, without any additional confirmation.: Ваш никнейм будет отображаться при общении на форуме и должен отличаться от Вашего логина. Вы можете изменить никнейм в любой момент, без каких-либо дополнительных подтверждений.
+The nickname must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin) and Russian alphabets, as well as numbers.: Никнейм должен быть уникальным, составлять в длине от 2 до 15 символов и может содержать буквы английского (латинского) и русского алфавитов, а также цифры.
+Change Your E-Mail: Смена Вашего E-Mail
+Enter your new E-Mail: Введите Ваш новый E-Mail
+Re-enter your new E-Mail: Введите Ваш новый E-Mail повторно
+We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.: На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений. Будьте внимательны, убедитесь в том, что новый E-Mail существует и Вам принадлежит.
+in_case_cant_find_mail: В случае если письмо с подтверждением изменений не приходит, проверьте папку "Спам" и не подпадает ли оно под какие-либо почтовые фильтры (напр. "Покупки" или "Соц. сети"). В случае если после вышеуказанных действий Вы все равно не обнаружите письмо, обратитесь в 
+support team: службу поддержки
+Change Your Password: Смена Вашего пароля
+Current password: Текущий пароль
+New password: Новый пароль
+New password again: Новый пароль еще раз
+We will send confirmation mail to your current E-Mail.: На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений.
+Password can contain only english letters and numbers.: Пароль может состоять из букв английского алфавита и цифр.
+Password length must be from 5 to 20 symbols.: Длина пароля должна составлять от 5 до 20 символов.
+Game visits: Посещения игры
+min: мин
+Learn more about the event ...: Подробности акции ...
+Change Your Avatar: Смена Вашего аватара
+Your avatar: Ваш аватар
+Maximum file size: Максимальный размер файла
+Usage forbidden: К использованию запрещаются
+Foul language: Нецензурная лексика
+materials_blocked: Материалы, запрещенные законодательством РФ&colon; порнография, нацисткая символика и т.д.
+Materials infringing on the rights of any social groups: Материалы, ущемляющие права каких-либо cоциальных групп
+acceptance_of_the_rules: Изображения, нарушающие правила, будут удалены а пользователь может быть заблокирован. Нажатие кнопки "Вперед", означает Ваше согласие с правилами.
+Green alchemical chest: Зеленый алхимический сундук
+The chest includes: Сундук содержит
+cant_afford_chest: Вам пока недоступен этот сундук.
+Yellow alchemical chest: Желтый алхимический сундук
+Orange alchemical chest: Оранжевый алхимический сундук
+Red alchemical chest: Красный алхимический сундук
+How to receive the rewards: Как получить награды
+each_25_evan_progress: По достижению каждых 25 процентов уровня профиля, Вы будете получать доступ к особенным сундукам. Для повышения уровня достаточно в любом порядке выполнять задачи из списка ниже. Также, вы можете нажать на сундуки, чтобы узнать их содержимое.
+Task list: Список заданий, повышающих уровень Вашего профиля
+Finish tutorial: Пройдите обучение
+Set up forum name: Установите имя на форуме
+Read and like game server rules: Поставьте лайк правилам проекта
+Set up avatar: Установите аватарку на форуме
+Achieve the first profession in the game: Получите одним из персонажей первую профессию
+Achieve the second profession in the game: Получите одним из персонажей вторую профессию
+Achieve the third profession in game: Получите одним из персонажей третью профессию
+Change character gender: Смените пол персонажу
+Change character name: Смените имя персонажу
+Change pet name: Смените имя питомцу
+Stay in the game for 300 hours: Проведите в игре 300 часов
+get_continental_explorer: Получите достижение "Исследователь континентов"
+get_total_control: Получите достижение "Полный контроль"
+Get achievement on 1000 gold: Получите достижение "Триллионер"
+Die or kill 50 times at arena: Умрите или убейте 50 раз на арене
+Open your own shop on the game market: Откройте свой Магазин на рынке
+Learn two professions: Изучите две мирные профессии
+Buy 100 Cash package: Купите пакет на 100 Cash
+Buy 400 Cash package: Купите пакет на 400 Cash
+Play 5 times in roulette: Сыграйте 5 раз в рулетку
+Read more about rewards system: Узнать подробнее о системе наград
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
