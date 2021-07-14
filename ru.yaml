@@ -617,9 +617,9 @@ Buy 100 Cash package: Купите пакет на 100 Cash
 Buy 400 Cash package: Купите пакет на 400 Cash
 Play 5 times in roulette: Сыграйте 5 раз в рулетку
 Read more about rewards system: Узнать подробнее о системе наград
-# Messages & Support
+# Messaging
 Messaging: Сообщения
-Support requests: Поддержка
+Support helpdesk: Служба поддержки
 User avatar: Аватар пользователя
 Chats: Беседы
 Interlocutor avatar: Аватар собеседника
@@ -638,6 +638,25 @@ Chat: Чат
 Members: Участники
 User: Пользователь
 Gamer: Игрок
+# Support
+No reply: Без ответа
+Open: Открыто
+Done: Готово
+Number of requests: Количество запросов
+Request: Запрос
+Mark as open: Пометить открытым
+Status: Статус
+WF User: Ож. польз.
+Subject: Тема
+Go to chat: Перейти к чату
+Related tickets: Связанные запросы
+Linked to: Связан
+Duplicate of: Дубликат
+Create a relationship: Создать связь
+Choose a type ...: Выберите тип ...
+Enter ID ...: Введите ID ...
+Apply: Применить
+Back to chats: Назад к сообщениям
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
