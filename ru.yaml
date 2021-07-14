@@ -640,15 +640,16 @@ User: Пользователь
 Gamer: Игрок
 # Support
 No reply: Без ответа
-Open: Открыто
-Done: Готово
+Open: Открытые
+Done: Готовые
 Number of requests: Количество запросов
 Request: Запрос
-Mark as open: Пометить открытым
+Mark as open: Вернуть в открытые
 Status: Статус
 WF User: Ож. польз.
 Subject: Тема
-Go to chat: Перейти к чату
+Go to chat: К чату
+Replies: Ответы
 Related tickets: Связанные запросы
 Linked to: Связан
 Duplicate of: Дубликат
