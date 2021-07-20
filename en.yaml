@@ -329,6 +329,13 @@ ITEM_SOURCE_mailer: Event by mail
 ITEM_SOURCE_promo: Event by Promo
 ITEM_SOURCE_wheel: Wheel of Luck
 ITEM_SOURCE_wheel_old: Was in Wheel of Luck
+# Item quality
+ITEM_QUALITY_0: See all
+ITEM_QUALITY_1: Regular
+ITEM_QUALITY_2: Advanced
+ITEM_QUALITY_3: Special
+ITEM_QUALITY_4: Artifact
+ITEM_QUALITY_5: Legend
 # Dungeon levels
 DUNGEON_NORMAL: Normal (F1)
 DUNGEON_RARE: Rare (F2)
