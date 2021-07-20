@@ -336,6 +336,12 @@ ITEM_QUALITY_2: Advanced
 ITEM_QUALITY_3: Special
 ITEM_QUALITY_4: Artifact
 ITEM_QUALITY_5: Legend
+# Jobs
+JOB_0: See all
+JOB_1: Swordsman
+JOB_2: Mage
+JOB_3: Archer
+JOB_4: Thief
 # Dungeon levels
 DUNGEON_NORMAL: Normal (F1)
 DUNGEON_RARE: Rare (F2)

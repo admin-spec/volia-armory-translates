@@ -978,6 +978,12 @@ ITEM_QUALITY_2: Улучшенное
 ITEM_QUALITY_3: Особое
 ITEM_QUALITY_4: Артефакт
 ITEM_QUALITY_5: Легендарное
+# Jobs
+JOB_0: Все
+JOB_1: Мечник
+JOB_2: Маг
+JOB_3: Лучник
+JOB_4: Вор
 # remeslo
 REMESLO1_1: Рубка леса
 REMESLO1_2: Горное дело
