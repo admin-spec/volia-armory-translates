@@ -662,6 +662,30 @@ Choose a type ...: Выберите тип ...
 Enter ID ...: Введите ID ...
 Apply: Применить
 Back to chats: Назад к сообщениям
+# Market
+Armory | Market: Оружейная | Рынок
+Job: Класс
+Quality: Качество
+Enter an item name ...: Введите название предмета
+Equipment: Вещи
+Consumable: Предметы
+Miscellaneous: Прочее
+Item Mall: Cash
+Consumables: Расход
+Materials: Материалы
+Zodiac: Галактика
+Coin: Монеты
+Weapon: Оружие
+Accessories: Аксессуары
+Windy: Ремесло
+Cards: Карты
+Shop name: Магазин
+Grade: Категория
+Points: Очки
+Seller: Продавец
+Premium Shop: Элитный
+Enter a seller name ...: Введите имя продавца
+Price per piece: Цена за штуку
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
