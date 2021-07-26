@@ -387,6 +387,8 @@ cant_afford_chest: You can't afford this chest yet.
 each_25_evan_progress: Each 25% of Evan's quests progress, you will open access to useful chests. To increase your level you must to complete quests from the list below, in any order. You can click on any chest to view what contains in it.
 get_continental_explorer: Get achievement "Continental Explorer"
 get_total_control: Get achievement "Total control"
+# Character
+item_1: Item
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description

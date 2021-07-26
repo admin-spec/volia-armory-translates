@@ -717,10 +717,10 @@ Special: Специальные
 Max ATK: Макс АТК
 Max MATK: Макс МАТК
 ATK Speed: Скорость атаки
-Attack range: Дальность атаки
+Attack Range: Дальность атаки
 DEF: ЗАЩ
 MDEF: МЗАЩ
-Evade rate: Уклонение
+Evade Rate: Уклонение
 Aim Rate: Точность
 Critical Rate: Шанс крит. удара
 Critical Damage: Крит. удар
@@ -731,7 +731,14 @@ INT Bonus: Бонус ИНТ
 HTL Bonus: Бонус ЗДР
 DEX Bonus: Бонус ЛОВ
 Total: Общий
-Back to character list: Обратно к поиску персонажа
+Back to character list: Вернуться к поиску персонажа
+Growth: Рост
+World: Мир
+Mission: Тропа войны
+item_1: Вещь
+special_1: Особые
+Best: Лучшие
+Medal: Орден
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
