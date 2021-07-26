@@ -696,7 +696,7 @@ Your characters: Ваши персонажи
 Achievements: Достижения
 Hide character information: Скрывать информацию о персонаже
 Stats: Характеристика
-Save info hiding settings: Сохранить настройки сокрытия информации
+Save info hiding settings: Сохранить настройки
 More: Подробнее
 Enter a charater name ...: Введите имя персонажа ...
 Enter a guild name ...: Введите название гильдии ...
@@ -732,6 +732,7 @@ HTL Bonus: Бонус ЗДР
 DEX Bonus: Бонус ЛОВ
 Total: Общий
 Back to character list: Вернуться к поиску персонажа
+Categories: Категория
 Growth: Рост
 World: Мир
 Mission: Тропа войны
