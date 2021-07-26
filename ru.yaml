@@ -690,6 +690,47 @@ Seller: Продавец
 Premium Shop: Элитный
 Enter a seller name ...: Введите имя продавца
 Price per piece: Цена за штуку
+# Character
+Your characters: Ваши персонажи
+Achievements: Достижения
+Hide character information: Скрывать информацию о персонаже
+Stats: Характеристика
+Save info hiding settings: Сохранить настройки сокрытия информации
+More: Подробнее
+Enter a charater name ...: Введите имя персонажа ...
+Enter a guild name ...: Введите название гильдии ...
+Character name: Имя персонажа
+Guild: Гильдия
+Default: Базовые
+Item Mall: Cash
+Costume: Костюм
+Character stats: Характеристика персонажа
+STR Up: СИЛ
+INT Up: ИНТ
+HTL Up: ЗДР
+AGI Up: ЛОВ
+Mov. Speed: Скорость
+Attack: Атака
+Defence: Защита
+Special: Специальные
+Max ATK: Макс АТК
+Max MATK: Макс МАТК
+ATK Speed: Скорость атаки
+Attack range: Дальность атаки
+DEF: ЗАЩ
+MDEF: МЗАЩ
+Evade rate: Уклонение
+Aim Rate: Точность
+Critical Rate: Шанс крит. удара
+Critical Damage: Крит. удар
+HP Recovery: Восст-е ОЗ
+MP Recovery: Восст-е ОМ
+STR Bonus: Бонус СИЛ
+INT Bonus: Бонус ИНТ
+HTL Bonus: Бонус ЗДР
+DEX Bonus: Бонус ЛОВ
+Total: Общий
+Back to character list: Обратно к поиску персонажа
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
