@@ -742,6 +742,32 @@ item_1: Вещь
 special_1: Особые
 Best: Лучшие
 Medal: Орден
+# Guilds
+Guilds: Гильдии
+Guild: Гильдия
+Your guilds: Ваши гильдии
+Size: Состав
+Online: Онлайн
+Lvl: Ур
+Created before: Создана до
+Member: Участник
+Guild name: Название гильдии
+Guild leader: Глава гильдии
+About guild: О гильдии
+XP: Опыт
+Date of creation: Дата создания
+Guild skills: Гильдейские навыки
+Emporia status: Статус Эмпория
+Emporia-1: Эмпорий-1
+Emporia-2: Эмпорий-2
+Guild message: Сообщение гильдии
+Guild members: Участники гильдии
+Channel: Канал
+Location: Место
+Back to guild list: Назад к списку гильдий
+Captain: Капитан
+Sergeant: Сержант
+Leader: Лидер
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
