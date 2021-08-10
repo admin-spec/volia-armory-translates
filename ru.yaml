@@ -774,6 +774,9 @@ Back to guild list: Назад к списку гильдий
 Captain: Капитан
 Sergeant: Сержант
 Leader: Лидер
+# Wishlist
+remove_from_wishlist: Удалить из желаемого
+add_to_wishlist: Добавить в желаемое
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!

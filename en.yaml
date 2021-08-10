@@ -389,6 +389,9 @@ get_continental_explorer: Get achievement "Continental Explorer"
 get_total_control: Get achievement "Total control"
 # Character
 item_1: Item
+# Wishlist
+remove_from_wishlist: Remove from wishlist
+add_to_wishlist: Add to wishlist
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description
