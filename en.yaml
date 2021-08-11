@@ -392,6 +392,91 @@ item_1: Item
 # Wishlist
 remove_from_wishlist: Remove from wishlist
 add_to_wishlist: Add to wishlist
+# About
+hero1_title: Swordsman
+hero1_alt: Swordsman
+hero1_text: The swordsman's strength and courage allows him to withstand the colossal damage of the enemy and not bend under the weight of the responsibility that he takes on in protecting his friends of the Brotherhood.
+hero1_attack: ★★★
+hero1_defence: ★★★★
+hero1_sattack: ★★★
+hero1_rattack: ★★★
+hero1_ppower: ★★★★★
+hero1_mpower: ★★
+hero_modal_grade_0: 1 lvl
+hero_modal_grade_1: 20 lvl
+hero_modal_grade_2: 40 lvl
+hero_modal_grade_3: 60 lvl
+hero_modal_professions: Professions
+hero_modal_strong_sides: Strong sides
+hero1_modal_title: Melee Master
+hero1_modal_description: Swordsmen are always in pursuit of raw strength and power. They specialize in close melee combat and try to overpower their foes with brute strength.
+hero1_modal_grade1_1: Knight
+hero1_modal_grade1_2: Gladiator
+hero1_modal_grade2_1: Paladin
+hero1_modal_grade2_2: Myrmidon
+hero1_modal_grade3_1: Guardian
+hero1_modal_grade3_2: Champion
+hero1_modal_weapon: <span>weapon</span> | sword, two-hand sword
+hero2_title: Archer
+hero2_alt: Archer
+hero2_text: The speed and ability to fight the enemy not only on the ground or long distances but also in the air make this hero indispensable in the engaging enemies before they notice it.
+hero2_attack: ★★★
+hero2_defence: ★★★
+hero2_sattack: ★★★★★
+hero2_rattack: ★★★★★
+hero2_ppower: ★★★
+hero2_mpower: ★★
+hero2_modal_title: Sharp arrows, nothing superfluous
+hero2_modal_description: Archers prefer attacking from afar, utilizing their high movement speed to evade their enemies, and high attack speed to take them out quickly.
+hero2_modal_grade1_1: Hunter
+hero2_modal_grade1_2: Mercenary
+hero2_modal_grade2_1: Pathfinder
+hero2_modal_grade2_2: Gunslinger
+hero2_modal_grade3_1: Scout
+hero2_modal_grade3_2: Destroyer
+hero2_modal_weapon: <span>weapon</span> | bow, crossbow
+hero3_title: Mage
+hero3_alt: Mage
+hero3_text: Let the mantle of the magician not confuse you, but behind this thoughtfulness is hidden huge damage and great support for the team in difficult times. If your team has a magician, then be sure that together you will be able to go through many difficulties.
+hero3_attack: ★★★
+hero3_defence: ★★★★
+hero3_sattack: ★★★
+hero3_rattack: ★★★★
+hero3_ppower: ★★★
+hero3_mpower: ★★★★★
+hero3_modal_title: Magical power for you
+hero3_modal_description: The combination of wisdom, knowledge, and magic produce limitless possibilities. Magicians are physically weak, but their strength lies within powerful magic attacks and healing abilities.
+hero3_modal_grade1_1: Cleric
+hero3_modal_grade1_2: Wizard
+hero3_modal_grade2_1: Priest
+hero3_modal_grade2_2: Archmage
+hero3_modal_grade3_1: Bishop
+hero3_modal_grade3_2: Heretic
+hero3_modal_weapon: <span>weapon</span> | spear, staff
+hero4_title: Thief
+hero4_alt: Thief
+hero4_text: The thief can be stealthy and fast in a variety of situations, precise strikes will inflict colossal damage that kills the enemy before they even feel the pain.
+hero4_attack: ★★★★
+hero4_defence: ★★★
+hero4_sattack: ★★★★★
+hero4_rattack: ★★★
+hero4_ppower: ★★★
+hero4_mpower: ★★
+hero4_modal_title: Master of deadly combos
+hero4_modal_description: Though lacking in attacking groups of enemies, thieves excel in one-on-one combat, relying on their evasive skills to dodge enemy attack while they hack them away one by one.
+hero4_modal_grade1_1: Jester
+hero4_modal_grade1_2: Assassin
+hero4_modal_grade2_1: Harlequin
+hero4_modal_grade2_2: Ninja
+hero4_modal_grade3_1: Joker
+hero4_modal_grade3_2: Shadow
+hero4_modal_weapon: <span>weapon</span> | claw, katar
+attack0: Attack
+defence: Defence
+sattack: Attack speed
+rattack: Attack range
+ppower: Physical power
+mpower: Magical power
 # Mistakes
 mistake_armory_item_name: Name
 mistake_armory_item_description: Description
