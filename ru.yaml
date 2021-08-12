@@ -865,6 +865,15 @@ sattack: Скорость Атаки
 rattack: Диапазон Атаки
 ppower: Физическая Сила
 mpower: Магическая Сила
+screenshot1_text: Хребет Охотника
+screenshot2_text: Храм Богов
+screenshot3_text: Тлеющие Топи
+screenshot4_text: Убежище Духов
+screenshot5_text: Валид-Раэт
+screenshot6_text: Деревня Пепельный Туман и Замок Ван-Клиффа
+screenshot7_text: Ламиета
+screenshot8_text: Опасные Пещеры
+screenshot9_text: Либра
 # API
 enter_email_code: Введите код из письма
 incorrect_new_password: Некорректный новый пароль!
