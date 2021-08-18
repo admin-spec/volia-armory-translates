@@ -1,5 +1,6 @@
 ---
 # Text
+social_items: <a href="https://discord.gg/3DfUDXBzcQ" target="_blank">Discord</a><li class="page-nav__list-item"><a href="https://vk.com/dragonica_rh" target="_blank">{{ 'Vkontakte' | trans }}</a></li>
 Dragonica Volia: Драконика Воля
 Support: Поддержка
 Tech Support: Техподдержка

@@ -24,6 +24,7 @@ bug_report_success: Your report has been sent! Thank you for contributing!
 bug_report_failed: Something went wrong. Please try again.
 bug_report_no_mistakes: Select at least one type of bug, please.
 # Text
+social_items: a href="https://discord.gg/pJ54Pdtufz" target="_blank">Discord</a>
 days_text: days
 verify_msg: Please verify you are a human.
 join_discord: Join <a href="https://discord.com/invite/bwsFBeh" target="_blank">Discord</a> server (not necessary).
