@@ -1,6 +1,6 @@
 ---
 # Text
-social_items: <li class="page-nav__list-item"><a href="https://discord.gg/3DfUDXBzcQ" target="_blank">Discord</a></li><li class="page-nav__list-item"><a href="https://vk.com/dragonica_rh" target="_blank">{{ 'Vkontakte' | trans }}</a></li>
+social_items: <li class="page-nav__list-item"><a href="https://discord.gg/3DfUDXBzcQ" target="_blank">Discord</a></li><li class="page-nav__list-item"><a href="https://vk.com/dragonica_rh" target="_blank">Vkontakte</a></li>
 Dragonica Volia: Драконика Воля
 Support: Поддержка
 Tech Support: Техподдержка
@@ -919,6 +919,10 @@ checkbox_failed: Вы должны выбрать хотя бы один вар�
 bug_report_success: Ваш отчет был отправлен! Спасибо за Ваш вклад в развитие проекта!
 bug_report_failed: Что-то пошло не так. Пожалуйста, попробуйте еще раз.
 bug_report_no_mistakes: Пожалуйста, выберите хотя бы один тип ошибки.
+pass_change_success: Пароль был изменен успешно!
+pass_change_not_confirm: Новые пароли не совпадают. Попробуйте еще раз.
+smth_went_wrong: Что-то пошло не так. Пожалуйста, попробуйте еще раз.
+all_fields_must_be_filled: Пожалуйста, заполните все поля.
 # Pagenames
 pagename_index: Главная
 # Dungeon levels

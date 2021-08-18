@@ -23,6 +23,11 @@ checkbox_failed: You must check at least one checkbox.
 bug_report_success: Your report has been sent! Thank you for contributing!
 bug_report_failed: Something went wrong. Please try again.
 bug_report_no_mistakes: Select at least one type of bug, please.
+pass_change_success: Your password has been successfully changed!
+pass_change_not_confirm: New passwords do not match. Please try again.
+smth_went_wrong: Something went wrong. Please try again.
+new_pass_equal_to_current: The new password matches the current one. Please try again.
+all_fields_must_be_filled: Please fill in all the fields.
 # Text
 social_items: <li class="page-nav__list-item"><a href="https://discord.gg/pJ54Pdtufz" target="_blank">Discord</a></li>
 days_text: days
