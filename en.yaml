@@ -2,7 +2,7 @@
 # API
 enter_email_code: Enter code from E-Mail
 incorrect_new_password: Incorrect new password!
-incorrect_current_password: Entered current password incorrect!
+incorrect_current_password: Your current password is incorrect!
 name_unavialable: Nickname unavialable, try another.
 error_read_rules: Error! Please, follow rules writen below!
 email_unavialable: E-Mail unavialable, try another.
@@ -28,6 +28,10 @@ pass_change_not_confirm: New passwords do not match. Please try again.
 smth_went_wrong: Something went wrong. Please try again.
 new_pass_equal_to_current: The new password matches the current one. Please try again.
 all_fields_must_be_filled: Please fill in all the fields.
+password_does_not_meet_requirements: New password does not meet requirements. Please try again.
+enter_the_activation_code: Please enter the activation code you received by E-Mail.
+activation_code_mail_subject: Your password change activation code
+mail_failure: Failed to send E-Mail. Please try again.
 # Text
 social_items: <li class="page-nav__list-item"><a href="https://discord.gg/pJ54Pdtufz" target="_blank">Discord</a></li>
 days_text: days

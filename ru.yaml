@@ -923,6 +923,10 @@ pass_change_success: Пароль был изменен успешно!
 pass_change_not_confirm: Новые пароли не совпадают. Попробуйте еще раз.
 smth_went_wrong: Что-то пошло не так. Пожалуйста, попробуйте еще раз.
 all_fields_must_be_filled: Пожалуйста, заполните все поля.
+password_does_not_meet_requirements: Новый пароль не отвечает требованиям. Пожалуйста, попробуйте еще раз.
+enter_the_activation_code: Пожалуйста, введите код активации, который вы получили по E-Mail.
+activation_code_mail_subject: Ваш код активации для смены пароля
+mail_failure: Не удалось отправить письмо. Пожалуйста, попробуйте еще раз.
 # Pagenames
 pagename_index: Главная
 # Dungeon levels
