@@ -30,8 +30,10 @@ new_pass_equal_to_current: The new password matches the current one. Please try 
 all_fields_must_be_filled: Please fill in all the fields.
 password_does_not_meet_requirements: New password does not meet requirements. Please try again.
 enter_the_activation_code: Please enter the activation code you received by E-Mail.
-activation_code_mail_subject: Your password change activation code
+activation_code_mail_subject: Your activation code
 mail_failure: Failed to send E-Mail. Please try again.
+invalid_email: Please enter a valid E-Mail.
+same_email: The new email is the same as the current one. Please try again.
 # Text
 social_items: <li class="page-nav__list-item"><a href="https://discord.gg/pJ54Pdtufz" target="_blank">Discord</a></li>
 days_text: days
