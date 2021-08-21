@@ -930,6 +930,7 @@ activation_code_mail_subject: Ваш код активации
 mail_failure: Не удалось отправить письмо. Пожалуйста, попробуйте еще раз.
 invalid_email: Пожалуйста, введите правильный E-Mail.
 same_email: Новый E-Mail совпадает с текущим. Пожалуйста, попробуйте еще раз.
+failed_to_refresh: Не удалось обновить страницу. Пожалуйста, попробуйте еще раз.
 # Pagenames
 pagename_index: Главная
 # Dungeon levels
