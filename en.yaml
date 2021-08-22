@@ -1,516 +1,820 @@
 ---
-# API
-enter_email_code: Enter code from E-Mail
-incorrect_new_password: Incorrect new password!
-incorrect_current_password: Your current password is incorrect!
-name_unavialable: Nickname unavialable, try another.
-error_read_rules: Error! Please, follow rules writen below!
-email_unavialable: E-Mail unavialable, try another.
-email_already: This E-Mail already connected with this account.
-permission_denied: Permission denied, contact support team.
-no_method: No method defined!
-unknown_method: Unknown method!
-incorrect_credentials: Incorrect credentials!
-no_cookie: Auth cookie is absent!
-invalid_cookie: Invalid cookie
-redirect_to_personal: You will be redirected to your personal account within 5 seconds.
-authentication_success: Authentication success!
-failed_to_register: Failed to register. Please try again later.
-failed_to_find_such_user: Failed to find such user.
-activation_success: Activation completed successfully!
-activation_failed: Wrong activation code! Please try again.
-checkbox_failed: You must check at least one checkbox.
-bug_report_success: Your report has been sent! Thank you for contributing!
-bug_report_failed: Something went wrong. Please try again.
-bug_report_no_mistakes: Select at least one type of bug, please.
-pass_change_success: Your password has been successfully changed!
-pass_change_not_confirm: New passwords do not match. Please try again.
-smth_went_wrong: Something went wrong. Please try again.
-new_pass_equal_to_current: The new password matches the current one. Please try again.
-all_fields_must_be_filled: Please fill in all the fields.
-password_does_not_meet_requirements: New password does not meet requirements. Please try again.
-enter_the_activation_code: Please enter the activation code you received by E-Mail.
-activation_code_mail_subject: Your activation code
-mail_failure: Failed to send E-Mail. Please try again.
-invalid_email: Please enter a valid E-Mail.
-same_email: The new email is the same as the current one. Please try again.
-failed_to_refresh: Failed to refresh the page. Please try again.
-# Text
-social_items: <li class="page-nav__list-item"><a href="https://discord.gg/pJ54Pdtufz" target="_blank">Discord</a></li>
-days_text: days
-verify_msg: Please verify you are a human.
-join_discord: Join <a href="https://discord.com/invite/bwsFBeh" target="_blank">Discord</a> server (not necessary).
-installed_original_version: Installed original version of game 2011-2013 years, update <span class="strong">"New Origin"</span>.
-improved_graphics: <span class="strong">Improved graphics</span> in towns and continuing improvement in other places.
-secure_from_hacking_game_client: <span class="strong">Secure from hacking game client.</span>
-combined_server: Combined server for <span class="strong">european and russian</span> players.
-players_support: Quick <span class="strong">players support</span> over ticket system.
-opened_to_suggestions: <span class="strong">Opened to suggestions</span> for improving the game the development team, and that is not all!
-when_registering_right_now: When registering <span class="strong">right now</span> you will get a free riding mount and a ball of friendship!
-in_the_window_that_appears_enter_the_username_and_password: In the window that appears, enter the username and password, indicated at registration on <a href="/">Dragonica website</a>.
-launch_the_game_text: Launch the game. Wait a few seconds until the game's start window appears on the screen
-if_you_want_to_start_the_game_text: If you want to start the game right now, press the button "Game start"
-after_you_enter_all_the_data_text: After you enter all the data, you need to click the "Enter" button and start creating the character
-this_is_really_fast_source_text: This is really fast source. If you don't have torrent-client, download
-description: Dragon Saga is a fast action 3D side-scroller MMORPG that attracts casual gamers with quest based leveling system, while challenging the hardcore gamers with 6 different PVP modes and multi-level instance dungeons. The partner, friends, and marriage systems in-game make it extremely easy for any gamer to make new friends!
-keywords: Dragon Saga, Dragonica, MMORPG, fast action, 3D side-scroller MMORPG, casual gamers, quest based leveling system, hardcore gamers, PVP, PVE, different PVP modes, multi-level instance dungeons, partner system, friends system, marriage systems, easy to make new friends
-processing_of_personal_data_text: I, the subject of personal data, in accordance with the Russian Federal Law of July 27, 2006 No. 152 "On Personal Data" and EU GDPR I provide to the website volia.biz (hereinafter - the Operator), consent to the processing of personal data specified by me in the registration form on the website, owned by the Operator.
-processing_of_personal_data_list_items: <li>The composition of my personal data is as follows&colon; E-Mail address.</li><li>Other my personal data&colon; IP-address to provide technically ability access to the game, it can not be used for any other goals; E-Mail for sending transactional and marketing letters (with the possibility of rejecting).</li><li>The purposes of processing my personal data are&colon; notifications about technical support responses, new personal messages and Operator's news, as well as providing the possibility to restore and change the password and E-Mail on the Operator's website.</li><li>In case of partial or complete unavailability of the game service for all players through the fault of the Operator, compensation and gifts to the players can be sent within 24 hours from the moment of problem resolve.</li><li>I understand that all data sended between my device and this website is encrypted with SSL.</li><li>Consent is granted for the following actions (operations) with the personal data specified in this consent&colon; collection, systematization, accumulation, storage, clarification (updating, modification), use, transfer (provision, access), blocking, removal, destruction, using automation tools (automated processing) and without using such tools (manual processing).</li><li>I understand and agree that providing the Operator with any information about myself that is not related to the purposes of this consent, as well as providing information related to state, banking and/or commercial secrets, information about the race and/or national affiliation, political views, religious or philosophical convictions, health status, intimate life is prohibited.</li><li>If I make a decision to provide the Operator with any information (any data), I undertake to provide only accurate and up-to-date information and do not have the right to mislead the Operator about my identity, to report false or unreliable information about myself.</li><li>I understand and agree that the Operator does not verify the authenticity of the personal data provided by me and does not have the ability to assess my legal capacity and assumes that I provide reliable personal data and maintain such data up-to-date.</li><li>Consent shall be effective upon the achievement of treatment objectives or in the event of the loss of the need to achieve these goals, unless otherwise provided by federal law.</li>
+# api_unfinished_texts
+api_bug_report_: api_bug_report_
+api_email_change_success: api_email_change_success
+api_invalid_nickname: api_invalid_nickname
+api_mistake_: api_mistake_
+# texts
+$100: $100
+1-st place: 1-st place
 1_st_place: 1-st place "Hot Lava"
+2-nd place: 2-nd place
+2021 Paymentwall. All rights reserved.: 2021 Paymentwall. All rights reserved.
 2_nd_place: 2-nd place "Dangerous Goo"
+3-rd place: 3-rd place
+3D world with a side perspective: 3D world with a side perspective
 3_rd_place: 3-rd place "Deep Ocean"
-The armory is in test mode. We welcome bug reports from players. Please use a dedicated button.: The armory is in active development. You are welcome to send bug reports with a "Report a bug" button or to Support team.
-# Events
-attack: Kill Monster
-ratnoe: Ratnoe Dungeon
-race: Race 
-# Slots
-ITEM_NONE: "-"
-ITEM_PAINT: Paint
-ITEM_HAIR: Hair
-ITEM_FACE: Face
-ITEM_SHOULDER: Shoulders
-ITEM_MANTLE: Mantle
-ITEM_GLASSES: Glasses
-ITEM_WEAPON: Weapon
-ITEM_SHIELD: Shield
-ITEM_NECKLESS: Neck
-ITEM_EARRING: Earring
-ITEM_RING: Ring
-ITEM_BELT: Belt
-ITEM_OTHER: Other
-ITEM_HELM: Helm
-ITEM_JACKET: Jacket
-ITEM_PANTS: Pants
-ITEM_SHOES: Shoes
-ITEM_GLOVES: Gloves
-ITEM_CARD: Card
-ITEM_PET: Pet
-ITEM_FURNITURE: Furniture
-# Pagenames
-pagename_index: Main
-# Classes
+AGI Up: AGI Up
+ATK Speed: ATK Speed
+About: About
+About guild: About guild
+Accessories: Accessories
+According to the: According to the
+Account Vault increase: Account Vault increase
+Account activation: Account activation
+Account number for transfer: Account number for transfer
+Account numbers for transfer: Account numbers for transfer
+Achieve the first profession in the game: Achieve the first profession in the game
+Achieve the second profession in the game: Achieve the second profession in the game
+Achieve the third profession in game: Achieve the third profession in game
+Achievement: Achievement
+Achievements: Achievements
+Activate: Activate
+Activation Page: Activation Page
+Activation code: Activation code
+Add reply: Add reply
+Additional information: Additional information
+Additionaly: Additionaly
+Admin: Admin
+After setting the item to the appearance, you can enter the game and remove the copied item. It will be displayed on the character until it is replaced by another.: After setting the item to the appearance, you can enter the game and remove the copied item. It will be displayed on the character until it is replaced by another.
+Aim Rate: Aim Rate
+All: All
+All levels: All levels
+All news: All news
+All slots: All slots
+Already with us? Login and get access to: Already with us? Login and get access to
+An excellent server awaits you, its features: An excellent server awaits you, its features
+And medals: And medals
+And much more ...: And much more ...
+Apply: Apply
+Archer: Archer
+Arena stats: Arena stats
+Armory: Armory
+Armory - know your game!: Armory - know your game!
+Armory | Character: Armory | Character
+Armory | Characters: Armory | Characters
+Armory | Guild: Armory | Guild
+Armory | Guilds: Armory | Guilds
+Armory | Item: Armory | Item
+Armory | Items List: Armory | Items List
+Armory | Market: Armory | Market
+Armory | Quest: Armory | Quest
+Armory | Quests List: Armory | Quests List
+Ask Your Questions: Ask Your Questions
+Attach file: Attach file
+Attack: Attack
+Attack Range: Attack Range
+Back: Back
+Back to Odelia: Back to Odelia
+Back to character list: Back to character list
+Back to chats: Back to chats
+Back to guild list: Back to guild list
+Back to pay methods: Back to pay methods
+Back to services: Back to services
+Backpack: Backpack
+Balance: Balance
+Banner: Banner
+Be prepared to name the time, amount of replenishment and wallet to send.: Be prepared to name the time, amount of replenishment and wallet to send.
+Be the first to leave a comment about this item: Be the first to leave a comment about this item
+Belt: Belt
+Best: Best
+Blast-off Kit: Blast-off Kit
+Blast-off kit: Blast-off kit
+Blast-off kit for an easy game start.: Blast-off kit for an easy game start.
+Blocked: Blocked
+Bonus: Bonus
+Both: Both
+Bottom: Bottom
+Branch arrow icon: Branch arrow icon
+Branch icon: Branch icon
+Buy: Buy
+Buy 100 Cash package: Buy 100 Cash package
+Buy 400 Cash package: Buy 400 Cash package
+Buy currency: Buy currency
+By continuing to register, I confirm my familiarization with: By continuing to register, I confirm my familiarization with
+By registering, you are accepting: By registering, you are accepting
 CLASS_0: All classes
-CLASS_1: Swordsman
-CLASS_2: Mage
-CLASS_3: Archer
-CLASS_4: Thief
-CLASS_5: Knight
-CLASS_6: Gladiator
-CLASS_7: Cleric
-CLASS_8: Wizard
-CLASS_9: Hunter
-CLASS_10: Mercenary
-CLASS_11: Jester
-CLASS_12: Assassin
-CLASS_13: Paladin
-CLASS_14: Myrmidon
-CLASS_15: Priest
-CLASS_16: Archmage
-CLASS_17: Pathfinder
-CLASS_18: Gunslinger
-CLASS_19: Harlequin
-CLASS_20: Ninja
-CLASS_21: Guardian
-CLASS_22: Champion
-CLASS_23: Bishop
-CLASS_24: Heretic
-CLASS_25: Scout
-CLASS_26: Destroyer
-CLASS_27: Joker
-CLASS_28: Shadow
-# Grade
-grade_0: Regular
-grade_1: Regular
-grade_2: Advanced 
-grade_3: Special 
-grade_4: Artifact
-# Items Stats
-ITEM_STAT_2051: Effect
-ITEM_STAT_1005: Extra gold
-ITEM_STAT_3171: 3171
-ITEM_STAT_3912: Final block success rate against enemy weapons
-ITEM_STAT_3914: Chance to block 100% physical attack damage
-ITEM_STAT_3915: Chance to block 100% magic attack damage
-ITEM_STAT_3920: Increasing Damage during attack Normal monsters
-ITEM_STAT_3921: Increasing Damage during attack Upgraded monsters
-ITEM_STAT_3922: Increasing Damage during attack Elite monsters
-ITEM_STAT_3923: Increasing Damage during attack Boss
-ITEM_STAT_3930: Enchant Success Rate
-ITEM_STAT_3931: SoulCraft Success Rate
-ITEM_STAT_3932: Soul consumption reduction for SoulCraft
-ITEM_STAT_7001: HP
-ITEM_STAT_7002: HP
-ITEM_STAT_7012: HP Recovery Speed
-ITEM_STAT_7021: MP
-ITEM_STAT_7022: MP
-ITEM_STAT_7032: MP Recovery Speed
-ITEM_STAT_7041: Strength
-ITEM_STAT_7042: STR Up
-ITEM_STAT_7051: Intelligence
-ITEM_STAT_7052: INT Up
-ITEM_STAT_7061: Health
-ITEM_STAT_7071: Agility
-ITEM_STAT_7072: AGI Up
-ITEM_STAT_7081: Movement Speed
-ITEM_STAT_7082: Movement Speed
-ITEM_STAT_7091: Def
-ITEM_STAT_7092: Def
-ITEM_STAT_7101: Mdef
-ITEM_STAT_7102: Mdef
-ITEM_STAT_7112: ATK Speed
-ITEM_STAT_7121: Final Block Success Rate
-ITEM_STAT_7122: Absolute Def Rate
-ITEM_STAT_7131: Evade Rate
-ITEM_STAT_7132: Evade Rate
-ITEM_STAT_7141: Critical Rate
-ITEM_STAT_7142: Critical Rate
-ITEM_STAT_7151: Critical Damage
-ITEM_STAT_7152: Critical Damage
-ITEM_STAT_7182: Attack Range
-ITEM_STAT_7192: HP Recovery
-ITEM_STAT_7202: MP Recovery
-ITEM_STAT_7221: Max Physical Attack
-ITEM_STAT_7222: Max Physical Attack
-ITEM_STAT_7223: ATK
-ITEM_STAT_7231: Min Physical Attack
-ITEM_STAT_7232: Min Physical Attack
-ITEM_STAT_7233: ATK
-ITEM_STAT_7281: MATK
-ITEM_STAT_7282: MATK
-ITEM_STAT_7283: MATK
-ITEM_STAT_7291: ATK
-ITEM_STAT_7292: ATK
-ITEM_STAT_7293: ATK
-ITEM_STAT_7311: Aim Rate
-ITEM_STAT_7312: Aim Rate
-ITEM_STAT_7331: Max Magic Attack
-ITEM_STAT_7332: Max Magic Attack
-ITEM_STAT_7333: MATK
-ITEM_STAT_7341: Min Magic Attack
-ITEM_STAT_7342: Min Magic Attack
-ITEM_STAT_7343: MATK
-ITEM_STAT_7351: Physical Damage Drop
-ITEM_STAT_7352: Physical Damage Drop
-ITEM_STAT_7361: Magic Damage Drop
-ITEM_STAT_7362: Magic Damage Drop
-ITEM_STAT_7821: Block Damage
-ITEM_STAT_8001: Success rate in evading Move Freezing
-ITEM_STAT_8011: Success rate in evading Ice Freezing
-ITEM_STAT_9001: Final Aim Rate
-ITEM_STAT_9011: Final Evade rate
-ITEM_STAT_9021: Final Block Success Rate
-ITEM_STAT_9031: Final Critical Success Rate
-ITEM_STAT_9061: Critical Defense
-ITEM_STAT_9071: Critical resistance
-ITEM_STAT_9081: Penetrate Block
-ITEM_STAT_9091: Debuff resistance
-ITEM_STAT_9101: Debuff success rate
-ITEM_STAT_9111: Poisoning time decrease
-ITEM_STAT_9121: Poisoning time increase
-ITEM_STAT_9131: Penetrate Defense
-ITEM_STAT_30011: Fire element attack
-ITEM_STAT_30012: Ice element attack
-ITEM_STAT_30013: Nature element attack
-ITEM_STAT_30014: Dark element attack
-ITEM_STAT_30015: Demolition element attack
-ITEM_STAT_30021: Increase Fire element attack
-ITEM_STAT_30021: Increase Fire element attack
-ITEM_STAT_30022: Increase Ice element attack
-ITEM_STAT_30022: Increase Ice element attack
-ITEM_STAT_30023: Increase Nature element attack
-ITEM_STAT_30023: Increase Nature element attack
-ITEM_STAT_30024: Increase Dark element attack
-ITEM_STAT_30024: Increase Dark element attack
-ITEM_STAT_30025: Increase Demolition element attack
-ITEM_STAT_30025: Increase Demolition element attack
-ITEM_STAT_30031: Bonus Fire element attack (Phy)
-ITEM_STAT_30031: Bonus Fire element attack (Phy)
-ITEM_STAT_30032: Bonus Ice element attack (Phy)
-ITEM_STAT_30032: Bonus Ice element attack (Phy)
-ITEM_STAT_30033: Bonus Nature element attack (Phy)
-ITEM_STAT_30033: Bonus Nature element attack (Phy)
-ITEM_STAT_30034: Bonus Dark element attack (Phy)
-ITEM_STAT_30034: Bonus Dark element attack (Phy)
-ITEM_STAT_30035: Bonus Demolition element attack (Phy)
-ITEM_STAT_30035: Bonus Demolition element attack (Phy)
-ITEM_STAT_30041: Bonus Fire element attack (Mag)
-ITEM_STAT_30042: Bonus Ice element attack (Mag)
-ITEM_STAT_30043: Bonus Nature element attack (Mag)
-ITEM_STAT_30044: Bonus Dark element attack (Mag)
-ITEM_STAT_30045: Bonus Demolition element attack (Mag)
-ITEM_STAT_30051: Fire element resistance
-ITEM_STAT_30052: Ice element resistance
-ITEM_STAT_30053: Nature element resistance
-ITEM_STAT_30054: Dark element  resistance
-ITEM_STAT_30055: Demolition element  resistance
-ITEM_STAT_30061: Increase Fire element resistance
-ITEM_STAT_30061: Increase Fire element resistance
-ITEM_STAT_30062: Increase Ice element resistance
-ITEM_STAT_30062: Increase Ice element resistance
-ITEM_STAT_30063: Increase Nature element resistance
-ITEM_STAT_30063: Increase Nature element resistance
-ITEM_STAT_30064: Increase Dark element resistance
-ITEM_STAT_30064: Increase Dark element resistance
-ITEM_STAT_30065: Increase Demolition element resistance
-ITEM_STAT_30065: Increase Demolition element resistance
-ITEM_STAT_30071: Bonus Fire element resistance (Phy)
-ITEM_STAT_30071: Bonus Fire element resistance (Phy)
-ITEM_STAT_30072: Bonus Ice element resistance (Phy)
-ITEM_STAT_30072: Bonus Ice element resistance (Phy)
-ITEM_STAT_30073: Bonus Nature element resistance (Phy)
-ITEM_STAT_30073: Bonus Nature element resistance (Phy)
-ITEM_STAT_30074: Bonus Dark element resistance (Phy)
-ITEM_STAT_30074: Bonus Dark element resistance (Phy)
-ITEM_STAT_30075: Bonus Demolition element resistance (Phy)
-ITEM_STAT_30075: Bonus Demolition element resistance (Phy)
-ITEM_STAT_30081: Bonus Fire element resistance (Mag)
-ITEM_STAT_30082: Bonus Ice element resistance (Mag)
-ITEM_STAT_30083: Bonus Nature element resistance (Mag)
-ITEM_STAT_30084: Bonus Dark element resistance (Mag)
-ITEM_STAT_30085: Bonus Demolition element resistance (Mag)
-ITEM_STAT_30180: Four elements attack
-ITEM_STAT_30181: Five elements attack
-ITEM_STAT_30190: Increase Four elements attack
-ITEM_STAT_30190: Increase Four elements attack
-ITEM_STAT_30191: Increase Five elements attack
-ITEM_STAT_30200: Bonus Four elements attack (Phy)
-ITEM_STAT_30200: Bonus Four elements attack (Phy)
-ITEM_STAT_30201: Bonus Five elements attack (Phy)
-ITEM_STAT_30210: Bonus Four elements attack (Mag)
-ITEM_STAT_30211: Bonus Five elements attack (Mag)
-ITEM_STAT_30220: Four elements resistance
-ITEM_STAT_30220: Four elements resistance
-ITEM_STAT_30221: Five elements resistance
-ITEM_STAT_30230: Increase Four elements resistance
-ITEM_STAT_30231: Increase Five elements resistance
-ITEM_STAT_30240: Bonus Four elements resistance (Phy)
-ITEM_STAT_30240: Bonus Four elements resistance (Phy)
-ITEM_STAT_30241: Bonus Five elements resistance (Phy)
-ITEM_STAT_30250: Bonus Four elements resistance (Mag)
-ITEM_STAT_30251: Bonus Five elements resistance (Mag)
-ITEM_STAT_53000: 53000
-# items denials
-ITEM_DENIAL_1: sold at shop
-ITEM_DENIAL_2: trade
-ITEM_DENIAL_4: guild vault
-ITEM_DENIAL_8: mail attachment
-ITEM_DENIAL_16: destroy
-ITEM_DENIAL_32: registered at open market
-ITEM_DENIAL_64: use in PvP
-ITEM_DENIAL_128: enchant
-ITEM_DENIAL_256: soulcraft
-ITEM_DENIAL_512: create socket
-ITEM_DENIAL_1024: use
-ITEM_DENIAL_2048: seal
-ITEM_DENIAL_4096: lottery
-ITEM_DENIAL_8192: repair
-ITEM_DENIAL_16384: account vault
-ITEM_DENIAL_0: unknown
-# items sources
-ITEM_SOURCE_change: Exchange with NPC
-ITEM_SOURCE_roulette: Big Wheel
-ITEM_SOURCE_superdospeh: Mix Board
-ITEM_SOURCE_gameroulette: Slot Machine
-ITEM_SOURCE_shopingame: Purchase from NPC
-ITEM_SOURCE_emporiareward: Emporia Reward
+CP: CP
+CPU: CPU
+Can be improved with Julie: Can be improved with Julie
+Can be improved with a blacksmith: Can be improved with a blacksmith
+Can be remotely accepted: Can be remotely accepted
+Can be remotely completed: Can be remotely completed
+Captain: Captain
+Cards: Cards
+Cash: Cash
+Cash coin: Cash coin
+Categories: Categories
+Change Your Avatar: Change Your Avatar
+Change Your E-Mail: Change Your E-Mail
+Change Your Password: Change Your Password
+Change character gender: Change character gender
+Change character name: Change character name
+Change gender: Change gender
+Change guild name: Change guild name
+Change name: Change name
+Change password: Change password
+Change pet name: Change pet name
+Change the gender of your character. Realize your fantasies. Exit from the game is required.: Change the gender of your character. Realize your fantasies. Exit from the game is required.
+Change the name of your character, guild or pet.: Change the name of your character, guild or pet.
+Change the style of your character. You can set any available items.: Change the style of your character. You can set any available items.
+Changing the appearance of the character: Changing the appearance of the character
+Channel: Channel
+Chaos mode: Chaos mode
+Character: Character
+Character Slot Expansion: Character Slot Expansion
+Character gender reassignment: Character gender reassignment
+Character information: Character information
+Character name: Character name
+Character picture: Character picture
+Character recovery: Character recovery
+Character stats: Character stats
+Chat: Chat
+Chats: Chats
+Chest: Chest
+Chests: Chests
+Choose a character: Choose a character
+Choose a character to change appearance: Choose a character to change appearance
+Choose a character to change gender: Choose a character to change gender
+Choose a character to decrease level: Choose a character to decrease level
+Choose a chat or create new one: Choose a chat or create new one
+Choose a package with a gift: Choose a package with a gift
+Choose a service: Choose a service
+Choose a type ...: Choose a type ...
+Choose password: Choose password
+Choose your class: Choose your class
+Class: Class
+Classes: Classes
+Click to learn more about rating.: Click to learn more about rating.
+Closed Slot!: Closed Slot!
+Code from E-Mail: Code from E-Mail
+Coin: Coin
+Combat Points: Combat Points
+Comments: Comments
+Community: Community
+Compatible with DirectX 9.0 or higher: Compatible with DirectX 9.0 or higher
+Congratulations!: Congratulations!
+Consumable: Consumable
+Consumables: Consumables
+Contacts: Contacts
+Costume: Costume
+Create a relationship: Create a relationship
+Create character in the game and sail toward adventures!: Create character in the game and sail toward adventures!
+Created before: Created before
+Crediting funds to the account takes from 10 minutes to several hours. In case of a delay in crediting, send a request to the: Crediting funds to the account takes from 10 minutes to several hours. In case of a delay in crediting, send a request to the
+Critical Damage: Critical Damage
+Critical Rate: Critical Rate
+Current avatar: Current avatar
+Current exchange rate: Current exchange rate
+Current password: Current password
+Cute characters: Cute characters
+DEF: DEF
+DEX Bonus: DEX Bonus
+Daily event: Daily event
+Dangerous Goo: Dangerous Goo
+Date of creation: Date of creation
+Day: Day
+Deaths: Deaths
+Decrease character level: Decrease character level
+Decrease from 1 to 10 levels for the character. A service for characters level 60 and above.: Decrease from 1 to 10 levels for the character. A service for characters level 60 and above.
+Decrease in character level: Decrease in character level
+Deep Ocean: Deep Ocean
+Default: Default
+Defence: Defence
+Deposit: Deposit
+Deposit user account: Deposit user account
+Deposit using cryptocurrency: Deposit using cryptocurrency
+Deposit with no fees: Deposit with no fees
+Description: Description
+Diamond: Diamond
+Die or kill 50 times at arena: Die or kill 50 times at arena
+Done: Done
+Download: Download
+Download and install the game on your computer.: Download and install the game on your computer.
+Download and play: Download and play
+Download client: Download client
+Download the game: Download the game
+Dragonica Volia: Dragonica Volia
+Dragonica Volia shortcut: Dragonica Volia shortcut
+Drop rate: Drop rate
+Dungeon level: Dungeon level
+Duplicate of: Duplicate of
+E-Mail: E-Mail
+EXP Boost: EXP Boost
+Ear: Ear
+Egg: Egg
+Egg content: Egg content
+Eggs: Eggs
+Elite market: Elite market
+Email Us: Email Us
+Emporia owners: Emporia owners
+Emporia status: Emporia status
+Emporia-1: Emporia-1
+Enchant Changer: Enchant Changer
+Enchant rate: Enchant rate
+Enchantment: Enchantment
+Enchantment effect: Enchantment effect
+End: End
+Enter ID ...: Enter ID ...
+Enter a character name ...: Enter a character name ...
+Enter a guild name ...: Enter a guild name ...
+Enter a new forum name: Enter a new forum name
+Enter a seller name ...: Enter a seller name ...
+Enter a subject ...: Enter a subject ...
+Enter an item name ...: Enter an item name ...
+Enter the activation code you received by E-Mail: Enter the activation code you received by E-Mail
+Enter the name of the item: Enter the name of the item
+Enter the name of the quest: Enter the name of the quest
+Enter your new E-Mail: Enter your new E-Mail
+Epic PvP and PvE battles: Epic PvP and PvE battles
+Equipment: Equipment
+Equipped item effect: Equipped item effect
+Equipped set effect: Equipped set effect
+Evade Rate: Evade Rate
+Evan: Evan
+Events & promotions: Events & promotions
+Exclamation mark: Exclamation mark
+Exp: Exp
+Experience: Experience
+Extra attempts for roulette. Cost: Extra attempts for roulette. Cost
+Extra tries for roulette: Extra tries for roulette
+F: F
+Fatigue Increased: Fatigue Increased
+Fatigue increased: Fatigue increased
+Fatigue recovery: Fatigue recovery
+Feature: Feature
+Features: Features
+Female: Female
+Finish registration, download game and enjoy one of the most non-standart MMORPG!: Finish registration, download game and enjoy one of the most non-standart MMORPG!
+Finish tutorial: Finish tutorial
+First you need to: First you need to
+For your character.: For your character.
+Forgot your password?: Forgot your password?
+Forum: Forum
+Forum conversations: Forum conversations
+Forum name: Forum name
+Forum updates: Forum updates
+Foul language: Foul language
+Free Slot!: Free Slot!
+Free items!: Free items!
+Free of charge: Free of charge
+Free teleportation to Odelia.: Free teleportation to Odelia.
+Full: Full
+GPU: GPU
+Galaxy name: Galaxy name
+Gallery: Gallery
+Game ID: Game ID
+Game news: Game news
+Game start button: Game start button
+Game updates: Game updates
+Game visits: Game visits
+Gamer: Gamer
+Gathering EXP: Gathering EXP
+Gathering exp: Gathering exp
+Gender: Gender
+Get Premium Diamond and receive the following benefits: Get Premium Diamond and receive the following benefits
+Get a bonus - 35% using this deposit method!: Get a bonus - 35% using this deposit method!
+Get achievement on 1000 gold: Get achievement on 1000 gold
+Ghost Sweeper: Ghost Sweeper
+GitHub: GitHub
+Gloves: Gloves
+Go to Main: Go to Main
+Go to QIWI.com: Go to QIWI.com
+Go to all news: Go to all news
+Go to chat: Go to chat
+Go to login page: Go to login page
+Good luck!: Good luck!
+Grade: Grade
+Green alchemical chest: Green alchemical chest
+Growth: Growth
+Guild: Guild
+Guild leader: Guild leader
+Guild members: Guild members
+Guild message: Guild message
+Guild name: Guild name
+Guild skill: Guild skill
+Guild skills: Guild skills
+HDD: HDD
+HP Recovery: HP Recovery
+HTL Bonus: HTL Bonus
+HTL Up: HTL Up
+Hands: Hands
+Head: Head
+Hide character information: Hide character information
+High: High
+Homecoming. Useful if you get stuck.: Homecoming. Useful if you get stuck.
+Hot Lava: Hot Lava
+How can I receive these rewards?: How can I receive these rewards?
+How it works: How it works
+How many attempts would you like to acquire: How many attempts would you like to acquire
+How many levels you want to decrease: How many levels you want to decrease
+How to receive the rewards: How to receive the rewards
+How to start to play: How to start to play
+Humans: Humans
+Hunter quest: Hunter quest
+Hunter quest and Guild can be completed twice: Hunter quest and Guild can be completed twice
+INT Bonus: INT Bonus
+INT Up: INT Up
 ITEM_SOURCE_cashshop: Item Mall
+ITEM_SOURCE_dungeon: Dungeon loot
+ITEM_SOURCE_emporiareward: Emporia Reward
 ITEM_SOURCE_event: Event
-ITEM_SOURCE_arena: BSQ Reward
-ITEM_SOURCE_f7: Loot F7
 ITEM_SOURCE_f6: Loot F6
 ITEM_SOURCE_remeslo1: Gathering
 ITEM_SOURCE_remeslo2: Production
 ITEM_SOURCE_remeslo3: Windy Farm
-ITEM_SOURCE_chest: Chest
-ITEM_SOURCE_craft: Craft
-ITEM_SOURCE_mission: WarPath
-ITEM_SOURCE_dungeon: Dungeon loot
-ITEM_SOURCE_drop_monster: Loot from monster
-ITEM_SOURCE_drop_boss: Loot from boss
-ITEM_SOURCE_drop_map: Loot at location
-ITEM_SOURCE_mission_rank: Mission Rank
-ITEM_SOURCE_quest: Quest
-ITEM_SOURCE_achievement: Achievement
-ITEM_SOURCE_monsterkill: Monster Count
-ITEM_SOURCE_roulette_old: Was in Big Wheel
-ITEM_SOURCE_superdospeh_old: Was in Mix Board
-ITEM_SOURCE_gameroulette_old: Was in Slot Machine
-ITEM_SOURCE_quest_drop: Quest Loot
-ITEM_SOURCE_registration: Ragistration Bonus
-ITEM_SOURCE_mailer: Event by mail
-ITEM_SOURCE_promo: Event by Promo
-ITEM_SOURCE_wheel: Wheel of Luck
-ITEM_SOURCE_wheel_old: Was in Wheel of Luck
-# Item quality
-ITEM_QUALITY_0: See all
-ITEM_QUALITY_1: Regular
-ITEM_QUALITY_2: Advanced
-ITEM_QUALITY_3: Special
-ITEM_QUALITY_4: Artifact
-ITEM_QUALITY_5: Legend
-# Jobs
-JOB_0: See all
-JOB_1: Swordsman
-JOB_2: Mage
-JOB_3: Archer
-JOB_4: Thief
-# Dungeon levels
-DUNGEON_NORMAL: Normal (F1)
-DUNGEON_RARE: Rare (F2)
-DUNGEON_HERO: Hero (F3) 
-DUNGEON_LEGEND: Legend (F4)
-# Emporia rewards
-WinnerItem: 1-st place of Emporia
-SecondItem: 2-nd place of Emporia
-SemiItem: Semifinal of Emporia
-QuarterItem: Quarterfinals of Emporia
-Grade1_Item: Emporia, 1 star
-Grade2_Item: Emporia, 2 stars
-Grade3_Item: Emporia, 3 stars
-# Shop
-curr: $
-purchase_cash: Buy "Cash" currency for your account. Delivered instantly.
-purchase_cp: Buy "CP" currency for any of your characters. Delivered instantly.
+If You still have any questions about installing and running the game please email us: If You still have any questions about installing and running the game please email us
+If a player has not been in the arena for 24 hours or more, they begin to lose 25 skill points per day.: If a player has not been in the arena for 24 hours or more, they begin to lose 25 skill points per day.
+Important: Important
+In a few minutes you will receive an email with a link to activate your account.: In a few minutes you will receive an email with a link to activate your account.
+In the case of sending funds from the terminal, you must send a request to the: In the case of sending funds from the terminal, you must send a request to the
+In the window that appears, enter your username and password.: In the window that appears, enter your username and password.
+Information about game: Information about game
+Information is not available: Information is not available
+Interlocutor avatar: Interlocutor avatar
+Internet: Internet
+Is your character stuck: Is your character stuck
+It is absolutely FREE! Participate in the daily event and get free items!: It is absolutely FREE! Participate in the daily event and get free items!
+Item ID: Item ID
+Item Information: Item Information
+Item Mall: Item Mall
+Item name: Item name
+Items: Items
+Items recovery: Items recovery
+Jack Beans: Jack Beans
+Job: Job
+K/D: K/D
+Key features: Key features
+Kick Ball: Kick Ball
+Kill: Kill
+Kills: Kills
+Kits: Kits
+Large kit of useful items: Large kit of useful items
+Last 25 updates. For players with auto-update problems: Last 25 updates. For players with auto-update problems
+Last data update: Last data update
+Last week winners: Last week winners
+Latest version: Latest version
+Leader: Leader
+Learn more about the event ...: Learn more about the event ...
+Learn two professions: Learn two professions
+Leave your comment: Leave your comment
+Legal information: Legal information
+Legs: Legs
+Level: Level
+Linked to: Linked to
+Links: Links
+Local payment methods: Local payment methods
+Location: Location
+Locations: Locations
+Log in: Log in
+Log out: Log out
+Login: Login
+Login Page: Login Page
+Login or E-Mail: Login or E-Mail
+Low: Low
+Low system requirements: Low system requirements
+Lvl: Lvl
+Lvl.: Lvl.
+M: M
+MDEF: MDEF
+MP Recovery: MP Recovery
+Main: Main
+Maintenance: Maintenance
+Male: Male
+Manual patch download links (if necessary): Manual patch download links (if necessary)
+Manual patches: Manual patches
+Many costumes and interesting items: Many costumes and interesting items
+Map: Map
+Map drop: Map drop
+Map name: Map name
+Mark as open: Mark as open
+Market notifications: Market notifications
+Materials: Materials
+Materials infringing on the rights of any social groups: Materials infringing on the rights of any social groups
+Max ATK: Max ATK
+Max MATK: Max MATK
+Max.: Max.
+Max. lvl: Max. lvl
+Maximum file size: Maximum file size
+Medal: Medal
+Medium: Medium
+Medium kit of useful items: Medium kit of useful items
+Member: Member
+Members: Members
+Messaging: Messaging
+Min.: Min.
+Min. lvl: Min. lvl
+Minimal: Minimal
+Miscellaneous: Miscellaneous
+Mission: Mission
+Mission mode: Mission mode
+Mon - Fri: Mon - Fri
+Money: Money
+Monster: Monster
+Monster counter: Monster counter
+Monsters: Monsters
+More: More
+More ...: More ...
+More details ...: More details ...
+More gold from NPC: More gold from NPC
+Mount Food: Mount Food
+Mov. Speed: Mov. Speed
+Neck: Neck
+New chat: New chat
+New password: New password
+New password again: New password again
+Next: Next
+Next PvP arena: Next PvP arena
+Nice graphics, beautiful locations: Nice graphics, beautiful locations
+No comments have been posted yet: No comments have been posted yet
+No item!: No item!
+No items found: No items found
+No quests found: No quests found
+No reply: No reply
+Non-target combat system: Non-target combat system
+Normal mode: Normal mode
+Not allowed to: Not allowed to
+Now there is a "Happy Hour" promotion, the bonus level has been increased by 5%!: Now there is a "Happy Hour" promotion, the bonus level has been increased by 5%!
+Number of requests: Number of requests
+OS: OS
+Offline: Offline
+Online: Online
+Open: Open
+Open your own shop on the game market: Open your own shop on the game market
+Orange alchemical chest: Orange alchemical chest
+Other: Other
+PVP Rating: PVP Rating
+Pads: Pads
+Page: Page
+Participation in the daily event: Participation in the daily event
+Password: Password
+Password can contain only english letters and numbers.: Password can contain only english letters and numbers.
+Password length must be from 5 to 20 symbols.: Password length must be from 5 to 20 symbols.
+Password recovery: Password recovery
+Patch icon: Patch icon
+Paymentwall Platform: Paymentwall Platform
+Personal account: Personal account
+Personal data: Personal data
+Pet: Pet
+Placed items do not give characteristics and become visible only when the display of regular and Cash items in the corresponding slots is turned off.: Placed items do not give characteristics and become visible only when the display of regular and Cash items in the corresponding slots is turned off.
+Places: Places
+Play: Play
+Play 5 times in roulette: Play 5 times in roulette
+Play and get gifts!: Play and get gifts!
+Player: Player
+Please check your E-Mail.: Please check your E-Mail.
+Please describe the problem...: Please describe the problem...
+Please modify your search criteria and you will find results matching your needs.: Please modify your search criteria and you will find results matching your needs.
+Points: Points
+Potion 50% EXP: Potion 50% EXP
+Premium: Premium
+Premium Diamond: Premium Diamond
+Price per piece: Price per piece
+Profile: Profile
+Profile settings: Profile settings
+Puff Tower discount: Puff Tower discount
+PvP Tournament 1st place: PvP Tournament 1st place
+PvP Tournament 2nd place: PvP Tournament 2nd place
+PvP Tournament 3rd place: PvP Tournament 3rd place
+Quality: Quality
+Quest: Quest
+Quest ID: Quest ID
+Quest Information: Quest Information
+Quest name: Quest name
+Question mark: Question mark
+Quests: Quests
+RAM: RAM
+Rank: Rank
+Rate Us: Rate Us
+Re-enter your new E-Mail: Re-enter your new E-Mail
+Reach unprecedented heights in less time! Faster character growth, improved enchantments, crafts and more ...: Reach unprecedented heights in less time! Faster character growth, improved enchantments, crafts and more ...
+Read and like game server rules: Read and like game server rules
+Read more ...: Read more ...
+Read more about rewards system: Read more about rewards system
+Read more about the event here ...: Read more about the event here ...
+Read more...: Read more...
+Realize your fantasies.: Realize your fantasies.
+Recent forum posts: Recent forum posts
+Recipes: Recipes
+Recommended: Recommended
+Recover characters deleted in 6 months. The market cannot be restored.: Recover characters deleted in 6 months. The market cannot be restored.
+Red alchemical chest: Red alchemical chest
+Refresh: Refresh
+Register: Register
+Register on the website.: Register on the website.
+Registration: Registration
+Registration agreement: Registration agreement
+Registration bonus: Registration bonus
+Registration is required to enter the game: Registration is required to enter the game
+Regular: Regular
+Reinforced Enchant Gacha Item Box (Cash).: Reinforced Enchant Gacha Item Box (Cash).
+Related tickets: Related tickets
+Replenishment of CP currency for your account. Delivered instantly.: Replenishment of CP currency for your account. Delivered instantly.
+Replenishment of Cash currency for your account. Delivered instantly.: Replenishment of Cash currency for your account. Delivered instantly.
+Replies: Replies
+Report a bug: Report a bug
+Request: Request
+Required Items: Required Items
+Required for: Required for
+Required level: Required level
+Requires quests: Requires quests
+Reset: Reset
+Restoration of destroyed items in the last 25 days.: Restoration of destroyed items in the last 25 days.
+Restore items: Restore items
+Restore my password: Restore my password
+Results for: Results for
+Reward: Reward
+Reward Chest: Reward Chest
+Ring: Ring
+Russian flag: Russian flag
+STR Bonus: STR Bonus
+STR Up: STR Up
+Save info hiding settings: Save info hiding settings
+Screenshot: Screenshot
+Screenshots: Screenshots
+Search: Search
+Search ...: Search ...
+Search results: Search results
+Security: Security
+Seed online: Seed online
+Select a character to participate: Select a character to participate
+Select the amount to replenish: Select the amount to replenish
+Select the server you want to play on.: Select the server you want to play on.
+Select the type of bug: Select the type of bug
+Seller : Seller 
+Send the desired top-up amount to the specified address and notify the: Send the desired top-up amount to the specified address and notify the
+Sergeant: Sergeant
+Server load: Server load
+Server status: Server status
+Server time: Server time
+Services: Services
+Set: Set
+Set up avatar: Set up avatar
+Set up forum name: Set up forum name
+Sharable: Sharable
+Shield: Shield
+Shoes: Shoes
+Shop: Shop
+Shop name: Shop name
+Shop | Deposit: Shop | Deposit
+Shop | Services: Shop | Services
+Sign In: Sign In
+Sign Up: Sign Up
+Sign up: Sign up
+Size: Size
+Skill: Skill
+Slot: Slot
+Someman: Someman
+Sorry! No result found.: Sorry! No result found.
+Sorry, your browser doesn\'t support embedded videos.: Sorry, your browser doesn\'t support embedded videos.
+Soul: Soul
+Soul craft rate: Soul craft rate
+SoulCraft rate: SoulCraft rate
+Souls: Souls
+Sound: Sound
+Special: Special
+Spirit magic effect: Spirit magic effect
+Standard: Standard
+Start: Start
+Start the Game: Start the Game
+Start your journey: Start your journey
+Starter Kit: Starter Kit
+Starter kit: Starter kit
+Starter kit for an easy game start.: Starter kit for an easy game start.
+Starting equipment: Starting equipment
+Stats: Stats
+Status: Status
+Stay in the game for 300 hours: Stay in the game for 300 hours
+Style: Style
+Style / Slot: Style / Slot
+Subject: Subject
+Submit: Submit
+Support: Support
+Support agent: Support agent
+Support helpdesk: Support helpdesk
+Support team: Support team
+System requirements: System requirements
+System works with Elo rating.: System works with Elo rating.
+TOP3 in Rating: TOP3 in Rating
+TOP3 players are receiving Cash.: TOP3 players are receiving Cash.
+TOP4-7 players are receiving 5x: TOP4-7 players are receiving 5x
+Task list: Task list
+Tech Support: Tech Support
+Terms And Conditions: Terms And Conditions
+Terms of use: Terms of use
+Thanks for registering!: Thanks for registering!
+The PvP tournament starts every Wednesday and lasts 7 days.: The PvP tournament starts every Wednesday and lasts 7 days.
+The ability to play both alone and with friends: The ability to play both alone and with friends
+The armory is in test mode. We welcome bug reports from players. Please use a dedicated button.: The armory is in active development. You are welcome to send bug reports with a "Report a bug" button or to Support team.
+The bonus level is equal to the percentage by which the amount from your account replenishment will increase. The maximum bonus level is 35%, with this level of bonuses, by replenishing your account with $100, you will be credited with an amount of $135. Every $20 increase the bonus level by 1% for future replenishment.: The bonus level is equal to the percentage by which the amount from your account replenishment will increase. The maximum bonus level is 35%, with this level of bonuses, by replenishing your account with $100, you will be credited with an amount of $135. Every $20 increase the bonus level by 1% for future replenishment.
+The chest includes: The chest includes
+The consent can be withdrawn by me at any time on the basis of my application to E-Mail: The consent can be withdrawn by me at any time on the basis of my application to E-Mail
+The cost of the service is: The cost of the service is
+The deleted character name may already be taken by another player.: The deleted character name may already be taken by another player.
+The exchange rate is in constant motion, you can track the current rate by following the: The exchange rate is in constant motion, you can track the current rate by following the
+The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol.: The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol.
+The kit includes: The kit includes
+The name must contain between 3 and 10 letters.: The name must contain between 3 and 10 letters.
+The name must not be occupied by a character or pet.: The name must not be occupied by a character or pet.
+The rest of the time a specialist on duty works: The rest of the time a specialist on duty works
+The start window of the game.: The start window of the game.
+The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.: The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.
+Then select the server you want to play on, one server is now available, in the future there may be more: Then select the server you want to play on, one server is now available, in the future there may be more
+This is an example, you can deposit your account with any amount.: This is an example, you can deposit your account with any amount.
+To Odelia: To Odelia
+To take the quest complete on of these: To take the quest complete on of these
+Top: Top
+Top up balance: Top up balance
+Top up balance using your local payment methods.: Top up balance using your local payment methods.
+Torrent: Torrent
+Total: Total
+Tournament Rules: Tournament Rules
+Try your luck.: Try your luck.
+Type a message ...: Type a message ...
+Up to: Up to
+Update photo: Update photo
+Updated: Updated
+Upon completion, the quests will be available: Upon completion, the quests will be available
+Usage forbidden: Usage forbidden
+Used: Used
+Useful items kit: Useful items kit
+Useful items kits: Useful items kits
+User avatar: User avatar
+VIP Icon: VIP Icon
+Verify password: Verify password
+Vkontakte: Vkontakte
+WF User: WF User
+WMB: WMB
+WME: WME
+WMR: WMR
+WMZ: WMZ
+Wallets numbers for transfer: Wallets numbers for transfer
+We are online: We are online
+We will be happy to answer Your questions: We will be happy to answer Your questions
+We will send confirmation mail to your current E-Mail.: We will send confirmation mail to your current E-Mail.
+We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.: We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.
+We wish you to be in style!: We wish you to be in style!
+Weap: Weap
+Weapon: Weapon
+Website shop: Website shop
+Welcome to Dragonica Shop!: Welcome to Dragonica Shop!
+Welcome to your personal account!: Welcome to your personal account!
+When sending funds from a computer, be sure to specify the text: When sending funds from a computer, be sure to specify the text
+Where to get: Where to get
+Which character lost the item: Which character lost the item
+Which character should be credited with CP: Which character should be credited with CP
+While using the service, the user should not be on the game server.: While using the service, the user should not be on the game server.
+Who is this?: Who is this?
+Will be used as login in the game: Will be used as login in the game
+Windy: Windy
+Winners of Arena lvl: Winners of Arena lvl
+Wishlist: Wishlist
+World: World
+XP: XP
+XP Boost: XP Boost
+Yellow alchemical chest: Yellow alchemical chest
+You are in two steps from big adventure!: You are in two steps from big adventure!
+You can download the game in these ways: You can download the game in these ways
+You can return the standard appearance to the character.: You can return the standard appearance to the character.
+You have not visited the game yet.: You have not visited the game yet.
+Your avatar: Your avatar
+Your balance: Your balance
+Your bonus: Your bonus
+Your characters: Your characters
+Your contacts: Your contacts
+Your forum name change: Your forum name change
+Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation.: Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation.
+Your game characters: Your game characters
+Your guilds: Your guilds
+Your login: Your login
+Your style: Your style
+Your wishlist: Your wishlist
+Zodiac: Zodiac
+acceptance_of_the_rules: Images that violate the rules will be deleted and the user may be blocked. Clicking the "Next" button means your acceptance of the rules.
+account active from: account active from
+after_you_enter_all_the_data_text: After you enter all the data, you need to click the "Enter" button and start creating the character
+and the consequences if they are violated.: and the consequences if they are violated.
+at: at
+at Dragonica website: at Dragonica website
+attack0: Attack
+attempts1: attempts1
+attempts2: attempts2
+authentication_success: authentication_success
+base Twig Template: base Twig Template
+be ready to name the time, the amount of replenishment and the sending wallet.: be ready to name the time, the amount of replenishment and the sending wallet.
+buy_2: Buy
 buy_cash: Buy "Cash" currency
 buy_cp: Buy "CP" currency
-place_items: You can place items in the slots&colon; Chest, Hands, Legs and Shoes.
 can_place: The player can place any item (regular or Cash) worn in the corresponding slot to the character's appearance.
-# Shop Payment Methods
-iomoney_service: Payment service "IOMoney"
-top_up_iomoney: Top up your account through the "IOMoney" payment service without commission.
-qiwi_service: Payment service "Qiwi"
-top_up_qiwi: Top up your account through the "Qiwi" payment service without commission.
-webmoney_service: Payment service "WebMoney"
-top_up_webmoney: Top up your account through the "WebMoney" payment service without commission.
-yoomoney_copyright: 2021 "YooMoney", NBCO LLC. License for performing banking transactions No. 3510-K
-support_service1: support service
-support_service2: support service
-link1: link
-link2: link
-# Personal account
-evans_quests: Evan's quests
-buy_2: Buy
-consumable_scroll: Consumable" > "Scrolls
-fill_and_press_next: Fill this form and press "Next" button.
-in_case_cant_find_mail: In case can't find mail, check "Spam" folder and mail filters (ex. "Shop" or "Social"). In case you can't find mail after that, write to
-materials_blocked: Materials, blocked by Russian law&colon; porn, nazi signs, etc.
-acceptance_of_the_rules: Images that violate the rules will be deleted and the user may be blocked. Clicking the "Next" button means your acceptance of the rules.
 cant_afford_chest: You can't afford this chest yet.
+category: category
+consumable_scroll: Consumable" > "Scrolls
+curr: $
+days: days
+days from the removal of the item: days from the removal of the item
+defence: Defence
+deleted: deleted
+description: Dragon Saga is a fast action 3D side-scroller MMORPG that attracts casual gamers with quest based leveling system, while challenging the hardcore gamers with 6 different PVP modes and multi-level instance dungeons. The partner, friends, and marriage systems in-game make it extremely easy for any gamer to make new friends!
 each_25_evan_progress: Each 25% of Evan's quests progress, you will open access to useful chests. To increase your level you must to complete quests from the list below, in any order. You can click on any chest to view what contains in it.
+email_change_success: email_change_success
+evans_quests: Evan's quests
+failed_to_refresh: failed_to_refresh
+field: field
+fill_and_press_next: Fill this form and press "Next" button.
+for: for
+from: from
+gallery_description: There are a lot of things you can do in Dragonica World. Along with the pleasant atmosphere of the game, you can engage in trade, destroying hordes of monsters, creating a guild, as well as collecting rare sets of armor.
 get_continental_explorer: Get achievement "Continental Explorer"
 get_total_control: Get achievement "Total control"
-# Character
-item_1: Item
-# Wishlist
-remove_from_wishlist: Remove from wishlist
-add_to_wishlist: Add to wishlist
-# About
-main_video_title: The world of Dragonica is waiting for you!
-main_video_description: The world of the Dragon looks very peaceful and welcoming, but this will continue until you equip your arsenal with candy gloves, a snowman costume and go to clear the ancient catacombs of the Castle of the vampire Count Van Cliff from the forces of evil.
-slider_description: How do you feel about a giant monochromatic weight falling on a mighty dragon? Or an airstrike blowing up ancient enchanted armor? All this you can experience in the World of the Dragon, where cute heroes do not stop at the usual ways of fighting opponents. Their combo attacks go far beyond the limits of the accessible.
-gallery_description: There are a lot of things you can do in Dragonica World. Along with the pleasant atmosphere of the game, you can engage in trade, destroying hordes of monsters, creating a guild, as well as collecting rare sets of armor.
-screenshot1_text: Rancorous Forest
-screenshot2_text: God's Sanctuary
-screenshot3_text: Smoldering Swamp
-screenshot4_text: Haven of Peace
-screenshot5_text: Valid Raeth
-screenshot6_text: Village of Ash Mist and VanCliff Castle
-screenshot7_text: Lamieta
-screenshot8_text: Dangerous Caverns
-screenshot9_text: Libra
-hero1_title: Swordsman
-hero1_alt: Swordsman
-hero1_text: The swordsman's strength and courage allows him to withstand the colossal damage of the enemy and not bend under the weight of the responsibility that he takes on in protecting his friends of the Brotherhood.
-hero1_attack: ★★★
-hero1_defence: ★★★★
-hero1_sattack: ★★★
-hero1_rattack: ★★★
-hero1_ppower: ★★★★★
-hero1_mpower: ★★
+h: h
 hero_modal_grade_0: 1 lvl
 hero_modal_grade_1: 20 lvl
 hero_modal_grade_2: 40 lvl
 hero_modal_grade_3: 60 lvl
 hero_modal_professions: Professions
 hero_modal_strong_sides: Strong sides
-hero1_modal_title: Melee Master
-hero1_modal_description: Swordsmen are always in pursuit of raw strength and power. They specialize in close melee combat and try to overpower their foes with brute strength.
-hero1_modal_grade1_1: Knight
-hero1_modal_grade1_2: Gladiator
-hero1_modal_grade2_1: Paladin
-hero1_modal_grade2_2: Myrmidon
-hero1_modal_grade3_1: Guardian
-hero1_modal_grade3_2: Champion
-hero1_modal_weapon: <span>weapon</span> | sword, two-hand sword
-hero2_title: Archer
-hero2_alt: Archer
-hero2_text: The speed and ability to fight the enemy not only on the ground or long distances but also in the air make this hero indispensable in the engaging enemies before they notice it.
-hero2_attack: ★★★
-hero2_defence: ★★★
-hero2_sattack: ★★★★★
-hero2_rattack: ★★★★★
-hero2_ppower: ★★★
-hero2_mpower: ★★
-hero2_modal_title: Sharp arrows, nothing superfluous
-hero2_modal_description: Archers prefer attacking from afar, utilizing their high movement speed to evade their enemies, and high attack speed to take them out quickly.
-hero2_modal_grade1_1: Hunter
-hero2_modal_grade1_2: Mercenary
-hero2_modal_grade2_1: Pathfinder
-hero2_modal_grade2_2: Gunslinger
-hero2_modal_grade3_1: Scout
-hero2_modal_grade3_2: Destroyer
-hero2_modal_weapon: <span>weapon</span> | bow, crossbow
-hero3_title: Mage
-hero3_alt: Mage
-hero3_text: Let the mantle of the magician not confuse you, but behind this thoughtfulness is hidden huge damage and great support for the team in difficult times. If your team has a magician, then be sure that together you will be able to go through many difficulties.
-hero3_attack: ★★★
-hero3_defence: ★★★★
-hero3_sattack: ★★★
-hero3_rattack: ★★★★
-hero3_ppower: ★★★
-hero3_mpower: ★★★★★
-hero3_modal_title: Magical power for you
-hero3_modal_description: The combination of wisdom, knowledge, and magic produce limitless possibilities. Magicians are physically weak, but their strength lies within powerful magic attacks and healing abilities.
-hero3_modal_grade1_1: Cleric
-hero3_modal_grade1_2: Wizard
-hero3_modal_grade2_1: Priest
-hero3_modal_grade2_2: Archmage
-hero3_modal_grade3_1: Bishop
-hero3_modal_grade3_2: Heretic
-hero3_modal_weapon: <span>weapon</span> | spear, staff
-hero4_title: Thief
-hero4_alt: Thief
-hero4_text: The thief can be stealthy and fast in a variety of situations, precise strikes will inflict colossal damage that kills the enemy before they even feel the pain.
-hero4_attack: ★★★★
-hero4_defence: ★★★
-hero4_sattack: ★★★★★
-hero4_rattack: ★★★
-hero4_ppower: ★★★
-hero4_mpower: ★★
-hero4_modal_title: Master of deadly combos
-hero4_modal_description: Though lacking in attacking groups of enemies, thieves excel in one-on-one combat, relying on their evasive skills to dodge enemy attack while they hack them away one by one.
-hero4_modal_grade1_1: Jester
-hero4_modal_grade1_2: Assassin
-hero4_modal_grade2_1: Harlequin
-hero4_modal_grade2_2: Ninja
-hero4_modal_grade3_1: Joker
-hero4_modal_grade3_2: Shadow
-hero4_modal_weapon: <span>weapon</span> | claw, katar
-attack0: Attack
-defence: Defence
-sattack: Attack speed
-rattack: Attack range
-ppower: Physical power
+hrs: hrs
+if_you_want_to_start_the_game_text: If you want to start the game right now, press the button "Game start"
+in the Cash-shop: in the Cash-shop
+in the comment to the transfer!: in the comment to the transfer!
+in_case_cant_find_mail: In case can't find mail, check "Spam" folder and mail filters (ex. "Shop" or "Social"). In case you can't find mail after that, write to
+iomoney_service: Payment service "IOMoney"
+item(s): item(s)
+item_1: Item
+keywords: Dragon Saga, Dragonica, MMORPG, fast action, 3D side-scroller MMORPG, casual gamers, quest based leveling system, hardcore gamers, PVP, PVE, different PVP modes, multi-level instance dungeons, partner system, friends system, marriage systems, easy to make new friends
+launch_the_game_text: Launch the game. Wait a few seconds until the game's start window appears on the screen
+link2: link
+lvl: lvl
+m: m
+main_video_description: The world of the Dragon looks very peaceful and welcoming, but this will continue until you equip your arsenal with candy gloves, a snowman costume and go to clear the ancient catacombs of the Castle of the vampire Count Van Cliff from the forces of evil.
+main_video_title: The world of Dragonica is waiting for you!
+male: male
+min: min
+monsters on the: monsters on the
+month: month
 mpower: Magical power
-# Mistakes
-mistake_armory_item_name: Name
-mistake_armory_item_description: Description
-mistake_armory_item_translation: Translation
-mistake_armory_item_source: Where to get
-mistake_armory_item_stat: Item stats
-mistake_armory_quest_name: Name
-mistake_armory_quest_description: Description
-mistake_armory_quest_translation: Translation
-mistake_armory_quest_reward: Reward
-mistake_armory_quest_npc: NPC
+nickname_change_success: nickname_change_success
+of: of
+or: or
+pass_change_success: pass_change_success
+pc(s): pc(s)
+pc.: pc.
+place_items: You can place items in the slots&colon; Chest, Hands, Legs and Shoes.
+players.: players.
+ppower: Physical power
+processing_of_personal_data_text: I, the subject of personal data, in accordance with the Russian Federal Law of July 27, 2006 No. 152 "On Personal Data" and EU GDPR I provide to the website volia.biz (hereinafter - the Operator), consent to the processing of personal data specified by me in the registration form on the website, owned by the Operator.
+project rules: project rules
+promotion: promotion
+purchase_cash: Buy "Cash" currency for your account. Delivered instantly.
+purchase_cp: Buy "CP" currency for any of your characters. Delivered instantly.
+qiwi_service: Payment service "Qiwi"
+rattack: Attack range
+remove_from_wishlist: Remove from wishlist
+replenish your account!: replenish your account!
+sattack: Attack speed
+sec: sec
+sex: sex
+slider_description: How do you feel about a giant monochromatic weight falling on a mighty dragon? Or an airstrike blowing up ancient enchanted armor? All this you can experience in the World of the Dragon, where cute heroes do not stop at the usual ways of fighting opponents. Their combo attacks go far beyond the limits of the accessible.
+special_1: special_1
+specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!: specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!
+summary: summary
+support team: support team
+support_service2: support service
+this_is_really_fast_source_text: This is really fast source. If you don't have torrent-client, download
+top_up_iomoney: Top up your account through the "IOMoney" payment service without commission.
+top_up_qiwi: Top up your account through the "Qiwi" payment service without commission.
+top_up_webmoney: Top up your account through the "WebMoney" payment service without commission.
+user agreement: user agreement
+verify_msg: Please verify you are a human.
+webmoney_service: Payment service "WebMoney"
+x5 EXP: x5 EXP
+year: year
+yoomoney_copyright: 2021 "YooMoney", NBCO LLC. License for performing banking transactions No. 3510-K
+you will receive a 35% bonus using this deposit method!: you will receive a 35% bonus using this deposit method!
+Сhanging the gender of the character: Сhanging the gender of the character
+Сhanging the name of a character, guild or pet: Сhanging the name of a character, guild or pet
+Сryptocurrencies BTC, ETH, XMR: Сryptocurrencies BTC, ETH, XMR
+250000: 250000
+500000: 500000
+1000000: 1000000
+# api_texts
+api_activation_code_mail_subject: Your activation code
+api_activation_failed: Wrong activation code! Please try again.
+api_activation_success: Activation completed successfully!
+api_all_fields_must_be_filled: Please fill in all the fields.
+api_enter_the_activation_code: Please enter the activation code you received by E-Mail.
+api_failed_to_find_such_user: Failed to find such user.
+api_failed_to_register: Failed to register. Please try again later.
+api_incorrect_credentials: Incorrect credentials!
+api_incorrect_current_password: Your current password is incorrect!
+api_invalid_cookie: Invalid cookie
+api_invalid_email: Please enter a valid E-Mail.
+api_mail_failure: Failed to send E-Mail. Please try again.
+api_no_cookie: Auth cookie is absent!
+api_no_method: No method defined!
+api_pass_change_not_confirm: New passwords do not match. Please try again.
+api_pass_change_success: Your password has been successfully changed!
+api_password_does_not_meet_requirements: New password does not meet requirements. Please try again.
+api_redirect_to_personal: You will be redirected to your personal account within 5 seconds.
+api_same_email: The new email is the same as the current one. Please try again.
+api_unknown_method: Unknown method!
