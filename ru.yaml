@@ -1,821 +1,832 @@
 ---
 # api_unfinished_texts
-api_bug_report_: api_bug_report_
-api_invalid_nickname: api_invalid_nickname
-api_mistake_: api_mistake_
+"api_bug_report_": "api_bug_report_"
+"api_invalid_nickname": "api_invalid_nickname"
+"api_mistake_": "api_mistake_"
 # unfinished_texts
-$100: $100
-2021 Paymentwall. All rights reserved.: 2021 Paymentwall. All rights reserved.
-Add reply: Add reply
-All: All
-And medals: And medals
-Backpack: Backpack
-Belt: Belt
-Blocked: Blocked
-Bottom: Bottom
-Branch arrow icon: Branch arrow icon
-Branch icon: Branch icon
-Cash: Cash
-Cash coin: Cash coin
-Character picture: Character picture
-Choose a character to decrease level: Choose a character to decrease level
-Code from E-Mail: Code from E-Mail
-Congratulations!: Congratulations!
-Current avatar: Current avatar
-Deaths: Deaths
-Diamond: Diamond
-E-Mail: E-Mail
-Ear: Ear
-Egg: Egg
-Enchant Changer: Enchant Changer
-Enchantment: Enchantment
-Enter a new forum name: Enter a new forum name
-Fatigue increased: Fatigue increased
-Features: Features
-Forum name: Forum name
-Gallery: Gallery
-Game ID: Game ID
-Ghost Sweeper: Ghost Sweeper
-GitHub: GitHub
-Gloves: Gloves
-Guild skill: Guild skill
-Head: Head
-Hunter quest: Hunter quest
-Jack Beans: Jack Beans
-Kick Ball: Kick Ball
-Kills: Kills
-Last data update: Last data update
-Local payment methods: Local payment methods
-Mount Food: Mount Food
-Neck: Neck
-Now there is a "Happy Hour" promotion, the bonus level has been increased by 5%!: Now there is a "Happy Hour" promotion, the bonus level has been increased by 5%!
-Pads: Pads
-Paymentwall Platform: Paymentwall Platform
-Pet: Pet
-Places: Places
-Player: Player
-Please check your E-Mail.: Please check your E-Mail.
-Potion 50% EXP: Potion 50% EXP
-Refresh: Refresh
-Ring: Ring
-Seller : Seller 
-Shield: Shield
-Sign In: Sign In
-Sign Up: Sign Up
-Someman: Someman
-Sorry, your browser doesn\'t support embedded videos.: Sorry, your browser doesn\'t support embedded videos.
-Soul: Soul
-Soul craft rate: Soul craft rate
-System works with Elo rating.: System works with Elo rating.
-The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol.: The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol.
-Top: Top
-Top up balance using your local payment methods.: Top up balance using your local payment methods.
-Torrent: Torrent
-Update photo: Update photo
-WMB: WMB
-WME: WME
-WMR: WMR
-WMZ: WMZ
-We wish you to be in style!: We wish you to be in style!
-Weap: Weap
-XP Boost: XP Boost
-You have not visited the game yet.: You have not visited the game yet.
-Your forum name change: Your forum name change
-Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation.: Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation.
-at: at
-authentication_success: authentication_success
-base Twig Template: base Twig Template
-email_change_success: email_change_success
-failed_to_refresh: failed_to_refresh
-nickname_change_success: nickname_change_success
-pass_change_success: pass_change_success
-verify_msg: verify_msg
-x5 EXP: x5 EXP
-250000: 250000
-500000: 500000
-1000000: 1000000
+"$100": "$100"
+"2021 Paymentwall. All rights reserved.": "2021 Paymentwall. All rights reserved."
+"Add reply": "Add reply"
+"All": "All"
+"And medals": "And medals"
+"Backpack": "Backpack"
+"Belt": "Belt"
+"Blocked": "Blocked"
+"Bottom": "Bottom"
+"Branch arrow icon": "Branch arrow icon"
+"Branch icon": "Branch icon"
+"Cash": "Cash"
+"Cash coin": "Cash coin"
+"Character picture": "Character picture"
+"Choose a character to decrease level": "Choose a character to decrease level"
+"Code from E-Mail": "Code from E-Mail"
+"Congratulations!": "Congratulations!"
+"Deaths": "Deaths"
+"Diamond": "Diamond"
+"E-Mail": "E-Mail"
+"Ear": "Ear"
+"Egg": "Egg"
+"Enchant Changer": "Enchant Changer"
+"Enchantment": "Enchantment"
+"Enter a new forum name": "Enter a new forum name"
+"Fatigue increased": "Fatigue increased"
+"Features": "Features"
+"Forum name": "Forum name"
+"Gallery": "Gallery"
+"Game ID": "Game ID"
+"Ghost Sweeper": "Ghost Sweeper"
+"GitHub": "GitHub"
+"Gloves": "Gloves"
+"Guild skill": "Guild skill"
+"Head": "Head"
+"Hunter quest": "Hunter quest"
+"Jack Beans": "Jack Beans"
+"Kick Ball": "Kick Ball"
+"Kills": "Kills"
+"Last data update": "Last data update"
+"Local payment methods": "Local payment methods"
+"Mount Food": "Mount Food"
+"Neck": "Neck"
+"Now there is a \"Happy Hour\" promotion, the bonus level has been increased by 5%!": "Now there is a \"Happy Hour\" promotion, the bonus level has been increased by 5%!"
+"Pads": "Pads"
+"Paymentwall Platform": "Paymentwall Platform"
+"Pet": "Pet"
+"Places": "Places"
+"Player": "Player"
+"Please check your E-Mail.": "Please check your E-Mail."
+"Potion 50% EXP": "Potion 50% EXP"
+"Refresh": "Refresh"
+"Ring": "Ring"
+"Seller ": "Seller "
+"Shield": "Shield"
+"Sign In": "Sign In"
+"Sign Up": "Sign Up"
+"Someman": "Someman"
+"Sorry, your browser doesn\\\'t support embedded videos.": "Sorry, your browser doesn\\\'t support embedded videos."
+"Soul": "Soul"
+"Soul craft rate": "Soul craft rate"
+"System works with Elo rating.": "System works with Elo rating."
+"The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol.": "The forum name must be unique, be from 2 to 15 characters long and may contain letters of the English (Latin), as well as numbers and _ symbol."
+"Top": "Top"
+"Top up balance using your local payment methods.": "Top up balance using your local payment methods."
+"Torrent": "Torrent"
+"Update photo": "Update photo"
+"WMB": "WMB"
+"WME": "WME"
+"WMR": "WMR"
+"WMZ": "WMZ"
+"We are online (test): %s days": "We are online (test): %s days"
+"We wish you to be in style!": "We wish you to be in style!"
+"Weap": "Weap"
+"XP Boost": "XP Boost"
+"You have not visited the game yet.": "You have not visited the game yet."
+"Your forum name change": "Your forum name change"
+"Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation.": "Your forum name will be displayed when communicating on the forum and must be different from your username. You can change your forum name at any time, without any additional confirmation."
+"at": "at"
+"authentication_success": "authentication_success"
+"base Twig Template": "base Twig Template"
+"combined_server": "combined_server"
+"email_change_success": "email_change_success"
+"failed_to_refresh": "failed_to_refresh"
+"improved_graphics": "improved_graphics"
+"in_the_window_that_appears_enter_the_username_and_password": "in_the_window_that_appears_enter_the_username_and_password"
+"installed_original_version": "installed_original_version"
+"join_discord": "join_discord"
+"materials_blocked": "materials_blocked"
+"nickname_change_success": "nickname_change_success"
+"opened_to_suggestions": "opened_to_suggestions"
+"pass_change_success": "pass_change_success"
+"players_support": "players_support"
+"processing_of_personal_data_list_items": "processing_of_personal_data_list_items"
+"secure_from_hacking_game_client": "secure_from_hacking_game_client"
+"verify_msg": "verify_msg"
+"when_registering_right_now": "when_registering_right_now"
+"x5 EXP": "x5 EXP"
+"250000": "250000"
+"500000": "500000"
+"1000000": "1000000"
 # texts
-1-st place: 1-е место
-1_st_place: 1-е место "Горячая лава"
-2-nd place: 2-е место
-2_nd_place: 2-е место "Опасная жижа"
-3-rd place: 3-е место
-3D world with a side perspective: 3D мир с перспективой сбоку
-3_rd_place: 3-е место "Пучина океана"
-AGI Up: ЛОВ
-ATK Speed: Скорость атаки
-About: Об игре
-About guild: О гильдии
-Accessories: Аксессуары
-According to the: В соответствии с
-Account Vault increase: Склад
-Account activation: Активация учетной записи
-Account number for transfer: Номер счета для перевода
-Account numbers for transfer: Номера счетов для перевода
-Achieve the first profession in the game: Получите одним из персонажей первую профессию
-Achieve the second profession in the game: Получите одним из персонажей вторую профессию
-Achieve the third profession in game: Получите одним из персонажей третью профессию
-Achievement: Достижение
-Achievements: Достижения
-Activate: Активировать
-Activation Page: Страница активации учетной записи
-Activation code: Код активации
-Additional information: Дополнительная информация
-Additionaly: Дополнительно
-Admin: Администратор
-After setting the item to the appearance, you can enter the game and remove the copied item. It will be displayed on the character until it is replaced by another.: После установки предмета на внешний вид, можно войти в игру и снять копируемый предмет. Он будет отображаться на персонаже до тех пор, пока не будет заменён другим.
-Aim Rate: Точность
-All levels: Все уровни
-All news: Все новости
-All slots: Все слоты
-Already with us? Login and get access to: Зарегистрированы? Следующие функции ждут Вас
-An excellent server awaits you, its features: Вас ждет отличный сервер, его особенности
-And much more ...: И многое другое ...
-Apply: Применить
-Archer: Лучник
-Arena stats: Статистика арены
-Armory: Оружейная
-Armory - know your game!: Оружейная - узнай свою игру!
-Armory | Character: Оружейная | Персонаж
-Armory | Characters: Оружейная | Персонажи
-Armory | Guild: Оружейная | Гильдия
-Armory | Guilds: Оружейная | Гильдии
-Armory | Item: Оружейная | Предмет
-Armory | Items List: Оружейная | Список предметов
-Armory | Market: Оружейная | Рынок
-Armory | Quest: Оружейная | Задание
-Armory | Quests List: Оружейная | Список заданий
-Ask Your Questions: Задать вопрос
-Attach file: Прикрепить файл
-Attack: Атака
-Attack Range: Дальность атаки
-Back: Назад
-Back to Odelia: Возвращение персонажа в Оделию
-Back to character list: Вернуться к поиску персонажа
-Back to chats: Назад к сообщениям
-Back to guild list: Назад к списку гильдий
-Back to pay methods: Вернуться к способам оплаты
-Back to services: Вернуться к выбору услуг
-Balance: Баланс
-Banner: Банер
-Be prepared to name the time, amount of replenishment and wallet to send.: Будьте готовы назвать время, сумму пополнения и кошелек отправки.
-Be the first to leave a comment about this item: Станьте первым, кто оставит комментарий к этому предмету
-Best: Лучшие
-Blast-off Kit: Набор "Взлет"
-Blast-off kit: Набор “Взлет”
-Blast-off kit for an easy game start.: Взлетный набор для легкого начала игры.
-Bonus: Бонус
-Both: Оба
-Buy: Купить
-Buy 100 Cash package: Купите пакет на 100 Cash
-Buy 400 Cash package: Купите пакет на 400 Cash
-Buy currency: Купить валюту
-By continuing to register, I confirm my familiarization with: Продолжая регистрацию, я подтверждаю своё ознакомление с
-By registering, you are accepting: Регистрируясь, вы подтверждаете свое согласие с
-CLASS_0: Все классы
-CP: ОБ
-CPU: Процессор
-Can be improved with Julie: Можно улучшить у Джули
-Can be improved with a blacksmith: Можно улучшить у кузнеца
-Can be remotely accepted: Можно принять дистанционно
-Can be remotely completed: Можно сдать дистанционно
-Captain: Капитан
-Cards: Карты
-Categories: Категория
-Change Your Avatar: Смена Вашего аватара
-Change Your E-Mail: Смена Вашего E-Mail
-Change Your Password: Смена Вашего пароля
-Change character gender: Смените пол персонажу
-Change character name: Смените имя персонажу
-Change gender: Сменить пол
-Change guild name: Сменить название гильдии
-Change name: Сменить имя / название
-Change password: Сменить пароль
-Change pet name: Смените имя питомцу
-Change the gender of your character. Realize your fantasies. Exit from the game is required.: Смена пола Вашего персонажа. Реализуйте свои фантазии. Требуется выход из игры.
-Change the name of your character, guild or pet.: Смените имя своего персонажа, питомца или название гильдии.
-Change the style of your character. You can set any available items.: Измените стиль Вашего персонажа. Можно установить любые доступные вещи.
-Changing the appearance of the character: Изменение внешнего вида персонажа
-Channel: Канал
-Chaos mode: Хаос режим
-Character: Персонаж
-Character Slot Expansion: Активатор доп. ячейки
-Character gender reassignment: Смена пола персонажа
-Character information: Информация о персонаже
-Character name: Имя персонажа
-Character recovery: Восстановление персонажа
-Character stats: Характеристика персонажа
-Chat: Чат
-Chats: Беседы
-Chest: Грудь
-Chests: Контейнеры
-Choose a character: Выберите персонажа
-Choose a character to change appearance: Выберите персонажа для смены внешности
-Choose a character to change gender: Выберите персонажа для смены пола
-Choose a chat or create new one: Выберите беседу или создайте новую
-Choose a package with a gift: Выберите пакет с подарком
-Choose a service: Выберите услугу
-Choose a type ...: Выберите тип ...
-Choose password: Выберите пароль
-Choose your class: Выберите класс
-Class: Класс
-Classes: Классы
-Click to learn more about rating.: Нажмите, чтобы узнать подробности о работе рейтинга.
-Closed Slot!: Закрытый слот!
-Coin: Монеты
-Combat Points: Очки Боя
-Comments: Комментарии
-Community: Сообщество
-Compatible with DirectX 9.0 or higher: Совместимый с DirectX 9.0 или выше
-Consumable: Предметы
-Consumables: Расход
-Contacts: Контакты
-Costume: Костюм
-Create a relationship: Создать связь
-Create character in the game and sail toward adventures!: Создайте персонажа в игре и отправьтесь навстречу приключениям!
-Created before: Создана до
-Crediting funds to the account takes from 10 minutes to several hours. In case of a delay in crediting, send a request to the: Зачисление средств на счет длится от 10 минут до нескольких часов. В случае задержки зачисления отправьте запрос в
-Critical Damage: Крит. удар
-Critical Rate: Шанс крит. удара
-Current exchange rate: Текущий курс
-Current password: Текущий пароль
-Cute characters: Милые персонажи
-DEF: ЗАЩ
-DEX Bonus: Бонус ЛОВ
-Daily event: Ежедневное событие
-Dangerous Goo: Опасная жижа
-Date of creation: Дата создания
-Day: День
-Decrease character level: Снижение уровня персонажа
-Decrease from 1 to 10 levels for the character. A service for characters level 60 and above.: Снижение от 1 до 10 уровней у персонажа. Услуга для персонажей 60 уровня и выше.
-Decrease in character level: Снижение уровня персонажа
-Deep Ocean: Пучина океана
-Default: Базовые
-Defence: Защита
-Deposit: Пополнить
-Deposit user account: Пополнение счета пользователя
-Deposit using cryptocurrency: Пополнение счета с помощью криптовалюты
-Deposit with no fees: Пополнение счета без комиссии
-Description: Описание
-Die or kill 50 times at arena: Умрите или убейте 50 раз на арене
-Done: Готовые
-Download: Скачать
-Download and install the game on your computer.: Скачайте и установите игру.
-Download and play: Начать игру
-Download client: Загрузить клиент
-Download the game: Скачать игру
-Dragonica Volia: Драконика Воля
-Dragonica Volia shortcut: Ярлык игры Драконика Воля
-Drop rate: Шанс выпадения
-Dungeon level: Уровень подземелья
-Duplicate of: Дубликат
-EXP Boost: Прирост опыта
-Egg content: Содержимое яйца
-Eggs: Яйца
-Elite market: Элитный рынок
-Email Us: Задать вопрос
-Emporia owners: Гильдии Эмпория
-Emporia status: Статус Эмпория
-Emporia-1: Эмпорий-1
-Enchant rate: Шанс зачарования
-Enchantment effect: Воздействие чар
-End: Конец
-Enter ID ...: Введите ID ...
-Enter a character name ...: Введите имя персонажа ...
-Enter a guild name ...: Введите название гильдии ...
-Enter a seller name ...: Введите имя продавца
-Enter a subject ...: Укажите тему запроса ...
-Enter an item name ...: Введите название предмета
-Enter the activation code you received by E-Mail: Введите код активации полученный Вами по электронной почте
-Enter the name of the item: Введите название предмета
-Enter the name of the quest: Введите название задания
-Enter your new E-Mail: Введите новый E-Mail
-Epic PvP and PvE battles: Эпические PvP и PvE сражения
-Equipment: Вещи
-Equipped item effect: Эффект от надетого предмета
-Equipped set effect: Эффект от надетого комплекта
-Evade Rate: Уклонение
-Evan: Эван
-Events & promotions: События и акции
-Exclamation mark: Восклицательный знак
-Exp: Опыт
-Experience: Опыт
-Extra attempts for roulette. Cost: Дополнительные попытки для рулетки. Стоимость
-Extra tries for roulette: Дополнительные попытки для рулетки
-F: Ж
-Fatigue Increased: Запас бодрости
-Fatigue recovery: Восстановление бодрости
-Feature: Особенность
-Female: Женщина
-Finish registration, download game and enjoy one of the most non-standart MMORPG!: Пройдите регистрацию, скачайте игру и ворвитесь в удивительный мир одной из самых нестандартных MMORPG!
-Finish tutorial: Пройдите обучение
-First you need to: Сначала Вам необходимо
-For your character.: Для Вашего персонажа
-Forgot your password?: Забыли пароль?
-Forum: Форум
-Forum conversations: Общение на форуме
-Forum updates: Новое на форуме
-Foul language: Нецензурная лексика
-Free Slot!: Свободный слот!
-Free items!: Бесплатные предметы!
-Free of charge: Бесплатные услуги
-Free teleportation to Odelia.: Бесплатное возвращение персонажа в Оделию.
-Full: Переполнено
-GPU: Видеокарта
-Galaxy name: Название созвездия
-Game news: Новости игры
-Game start button: Кнопка запуска игры
-Game updates: Обновления игры
-Game visits: Посещения игры
-Gamer: Игрок
-Gathering EXP: Опыт ремесла
-Gathering exp: Опыт ремесла
-Gender: Пол
-Get Premium Diamond and receive the following benefits: Приобретите "Алмазную премиум-систему" и получите следующие преимущества
-Get a bonus - 35% using this deposit method!: Получите бонус - 35% используя данный метод пополнения счета!
-Get achievement on 1000 gold: Получите достижение "Триллионер"
-Go to Main: Перейти на главную
-Go to QIWI.com: Перейти на сайт QIWI.com
-Go to all news: Перейти ко всем новостям
-Go to chat: Перейти к чату
-Go to login page: Перейти на страницу входа
-Good luck!: Желаем удачи!
-Grade: Категория
-Green alchemical chest: Зеленый алхимический сундук
-Growth: Рост
-Guild: Гильдия
-Guild leader: Глава гильдии
-Guild members: Участники гильдии
-Guild message: Сообщение гильдии
-Guild name: Название гильдии
-Guild skills: Гильдейские навыки
-HDD: Жесткий диск
-HP Recovery: Восст-е ОЗ
-HTL Bonus: Бонус ЗДР
-HTL Up: ЗДР
-Hands: Руки
-Hide character information: Скрывать информацию о персонаже
-High: Высокая
-Homecoming. Useful if you get stuck.: Возвращение домой. Пригодится, если Вы застряли.
-Hot Lava: Горячая лава
-How can I receive these rewards?: Как я могу получить эти награды?
-How it works: Как это работает
-How many attempts would you like to acquire: Сколько попыток Вы желаете приобрести
-How many levels you want to decrease: На сколько уровней снизить
-How to receive the rewards: Как получить награды
-How to start to play: Как начать играть
-Humans: Люди
-Hunter quest and Guild can be completed twice: Задания гильдии и охотника Джи дважды в день
-INT Bonus: Бонус ИНТ
-INT Up: ИНТ
-ITEM_SOURCE_cashshop: Cash-магазин
-ITEM_SOURCE_dungeon: Добыча в подземелье
-ITEM_SOURCE_emporiareward: Битва за Эмпорий
-ITEM_SOURCE_event: Событие
-ITEM_SOURCE_f6: Добыча на F6
-ITEM_SOURCE_remeslo1: Ремесло
-ITEM_SOURCE_remeslo2: Обработка
-ITEM_SOURCE_remeslo3: Добыча на лунке
-If You still have any questions about installing and running the game please email us: Если у Вас остались вопросы по установке и запуску игры, пожалуйста, напишите нам
-If a player has not been in the arena for 24 hours or more, they begin to lose 25 skill points per day.: Если игрок не находился на арене 24 часа и более, он начинает терять 25 очков навыков в день.
-Important: Важное
-In a few minutes you will receive an email with a link to activate your account.: Через несколько минут придёт письмо со ссылкой для активации учётной записи.
-In the case of sending funds from the terminal, you must send a request to the: В случае отправки средств с терминала, необходимо отправить запрос в
-In the window that appears, enter your username and password.: В появившемся окне введите логин и пароль, указанные при регистрации на сайте «Драконики»
-Information about game: Информация об игре
-Information is not available: Информация недоступна
-Interlocutor avatar: Аватар собеседника
-Internet: Интернет
-Is your character stuck: Ваш персонаж застрял
-It is absolutely FREE! Participate in the daily event and get free items!: Услуга бесплатна! Участвуйте в ежедневных событиях и получайте подарки!
-Item ID: ID Предмета
-Item Information: Информация о предмете
-Item Mall: Cash
-Item name: Название предмета
-Items: Предметы
-Items recovery: Восстановление предметов
-Job: Класс
-K/D: У/С
-Key features: Ключевые особенности
-Kill: Убейте
-Kits: Наборы
-Large kit of useful items: Большой набор полезных предметов
-Last 25 updates. For players with auto-update problems: Последние 25 версий. Могут быть необходимы игрокам, у которых наблюдаются проблемы при автообновлении
-Last week winners: Победители прошлой недели
-Latest version: Последняя версия
-Leader: Лидер
-Learn more about the event ...: Подробности акции ...
-Learn two professions: Изучите две мирные профессии
-Leave your comment: Оставьте Ваш комментарий
-Legal information: Юридическая информация
-Legs: Ноги
-Level: Уровень
-Linked to: Связан
-Links: Рекомендуется
-Location: Место
-Locations: Локации
-Log in: Вход
-Log out: Выйти
-Login: Имя пользователя
-Login Page: Страница входа
-Login or E-Mail: Ваш логин или E-Mail
-Low: Низкая
-Low system requirements: Низкие системные требования
-Lvl: Ур
-Lvl.: Ур.
-M: М
-MDEF: МЗАЩ
-MP Recovery: Восст-е ОМ
-Main: Главная
-Maintenance: Технические работы
-Male: Мужчина
-Manual patch download links (if necessary): Также, предлагаем Вашему вниманию файлы обновлений
-Manual patches: Файлы обновлений
-Many costumes and interesting items: Множество костюмов и интересных предметов
-Map: Карта
-Map drop: Добыча на локациях
-Map name: Название карты
-Mark as open: Вернуть в открытые
-Market notifications: Оповещения рынка
-Materials: Материалы
-Materials infringing on the rights of any social groups: Материалы, ущемляющие права каких-либо cоциальных групп
-Max ATK: Макс АТК
-Max MATK: Макс МАТК
-Max.: Макс.
-Max. lvl: Макс. ур.
-Maximum file size: Максимальный размер файла
-Medal: Орден
-Medium: Средняя
-Medium kit of useful items: Средний набор полезных предметов
-Member: Участник
-Members: Участники
-Messaging: Сообщения
-Min.: Мин.
-Min. lvl: Мин. ур.
-Minimal: Минимальные требования
-Miscellaneous: Прочее
-Mission: Тропа войны
-Mission mode: Тропа войны
-Mon - Fri: Пн - Пт
-Money: Деньги
-Monster: Монстр
-Monster counter: Счетчик монстров
-Monsters: Монстры
-More: Подробнее
-More ...: Подробно ...
-More details ...: Подробнее
-More gold from NPC: Доход от торговли с НИП
-Mov. Speed: Скорость
-New chat: Новая беседа
-New password: Новый пароль
-New password again: Новый пароль еще раз
-Next: Далее
-Next PvP arena: Следующая PvP арена
-Nice graphics, beautiful locations: Приятная графика, красивые локации
-No comments have been posted yet: Пока нет ни одного комментария
-No item!: Нет предмета!
-No items found: Предметов не найдено
-No quests found: Заданий не найдено
-No reply: Без ответа
-Non-target combat system: Non-target боевка
-Normal mode: Обычный режим
-Not allowed to: Нельзя
-Number of requests: Количество запросов
-OS: ОС
-Offline: Не в сети
-Online: Онлайн
-Open: Открытые
-Open your own shop on the game market: Откройте свой Магазин на рынке
-Orange alchemical chest: Оранжевый алхимический сундук
-Other: Другое
-PVP Rating: PVP Рейтинг
-Page: Страница
-Participation in the daily event: Участие в ежедневном событии
-Password: Пароль
-Password can contain only english letters and numbers.: Пароль может состоять из букв английского алфавита и цифр.
-Password length must be from 5 to 20 symbols.: Длина пароля должна составлять от 5 до 20 символов.
-Password recovery: Восстановление пароля
-Patch icon: Иконка патча
-Personal account: Личный кабинет
-Personal data: Личные данные
-Placed items do not give characteristics and become visible only when the display of regular and Cash items in the corresponding slots is turned off.: Установленные предметы не дают характеристики и становятся видны только при отключении отображения обычных и Cash предметов в соответствующих ячейках.
-Play: Играть
-Play 5 times in roulette: Сыграйте 5 раз в рулетку
-Play and get gifts!: Играй и получай подарки!
-Please describe the problem...: Пожалуйста, опишите проблему
-Please modify your search criteria and you will find results matching your needs.: Пожалуйста, измените критерии поиска, и вы найдете результаты, соответствующие вашему запросу.
-Points: Очки
-Premium: Премиум
-Premium Diamond: Алмазная премиум-система
-Price per piece: Цена за штуку
-Profile: Профиль
-Profile settings: Настройки профиля
-Puff Tower discount: Башня телепорт
-PvP Tournament 1st place: PvP Турнир первое место
-PvP Tournament 2nd place: PvP Турнир второе место
-PvP Tournament 3rd place: PvP Турнир третье место
-Quality: Качество
-Quest: Задание
-Quest ID: ID Задания
-Quest Information: Информация о задании
-Quest name: Название задания
-Question mark: Знак вопроса
-Quests: Задания
-RAM: ОЗУ
-Rank: Ранг
-Rate Us: Оцените нас
-Re-enter your new E-Mail: Повторите новый E-Mail
-Reach unprecedented heights in less time! Faster character growth, improved enchantments, crafts and more ...: Достигните небывалых высот за более короткий срок! Ускорение роста персонажа, улучшение зачарования, ремесла и многое другое ...
-Read and like game server rules: Поставьте лайк правилам проекта
-Read more ...: Подробнее
-Read more about rewards system: Узнать подробнее о системе наград
-Read more about the event here ...: Подробнее о мероприятии можно прочесть здесь ...
-Read more...: Читать далее...
-Realize your fantasies.: Реализуйте свои фантазии.
-Recent forum posts: Последние сообщения на форуме
-Recipes: Рецепты
-Recommended: Рекомендуемые требования
-Recover characters deleted in 6 months. The market cannot be restored.: Восстановление удаленных персонажей за 6 месяцев. Рынок не восстанавливается.
-Red alchemical chest: Красный алхимический сундук
-Register: Зарегистрируйтесь
-Register on the website.: Зарегистрируйтесь на сайте.
-Registration: Регистрация
-Registration agreement: Пользовательское соглашение
-Registration bonus: Бонус за регистрацию
-Registration is required to enter the game: Регистрация необходима для входа в игру
-Regular: Обычный
-Reinforced Enchant Gacha Item Box (Cash).: Усиленный зачарованный пакет - коробка с предметом (платная).
-Related tickets: Связанные запросы
-Replenishment of CP currency for your account. Delivered instantly.: Пополнение "ОБ" валюты для Вашей учетной записи. Доставляется мгновенно.
-Replenishment of Cash currency for your account. Delivered instantly.: Пополнение "Cash" валюты для Вашей учетной записи. Доставляется мгновенно.
-Replies: Ответы
-Report a bug: Сообщить об ошибке
-Request: Запрос
-Required Items: Необходимые предметы
-Required for: Необходимо для
-Required level: Требуемый уровень
-Requires quests: Предыдущие задания
-Reset: Сброс
-Restoration of destroyed items in the last 25 days.: Восстановление уничтоженных предметов за последние 25 дней.
-Restore items: Вернуть вещи
-Restore my password: Восстановить пароль
-Results for: Зафиксированы результаты
-Reward: Награда
-Reward Chest: Сундук награда
-Russian flag: Российский флаг
-STR Bonus: Бонус СИЛ
-STR Up: СИЛ
-Save info hiding settings: Сохранить настройки
-Screenshot: Скриншот
-Screenshots: Скриншоты
-Search: Найти
-Search ...: Поиск ...
-Search results: Результаты поиска
-Security: Безопасность
-Seed online: На текущий момент сидов в сети
-Select a character to participate: Выберите персонажа для участия
-Select the amount to replenish: Выберите сумму для пополнения
-Select the server you want to play on.: Выберите сервер, на котором хотите играть.
-Select the type of bug: Выберите тип ошибки
-Send the desired top-up amount to the specified address and notify the: Отправьте желаемую сумму пополнения на указанный адрес и сообщите об этом в
-Sergeant: Сержант
-Server load: Загруженность
-Server status: Статус серверов
-Server time: Время серверов
-Services: Услуги
-Set: Комплект
-Set up avatar: Установите аватарку на форуме
-Set up forum name: Установите имя на форуме
-Sharable: Можно поделиться
-Shoes: Обувь
-Shop: Магазин
-Shop name: Магазин
-Shop | Deposit: Магазин | Пополнение счета
-Shop | Services: Магазин | Услуги
-Sign up: Регистрация
-Size: Состав
-Skill: Навык
-Slot: Слот
-Sorry! No result found.: Извините! Результатов не найдено.
-SoulCraft rate: Шанс одушевления
-Souls: Больше душ
-Sound: Звук
-Special: Специальные
-Spirit magic effect: Эффект магии духа
-Standard: Стандартный
-Start: Начало
-Start the Game: Начать игру
-Start your journey: Начните приключение
-Starter Kit: Набор "Старт"
-Starter kit: Набор “Старт”
-Starter kit for an easy game start.: Стартовый набор для легкого начала игры.
-Starting equipment: Стартовое снаряжение
-Stats: Характеристика
-Status: Статус
-Stay in the game for 300 hours: Проведите в игре 300 часов
-Style: Стиль
-Style / Slot: Инвентарь / Слот
-Subject: Тема
-Submit: Отправить
-Support: Поддержка
-Support agent: Агент поддержки
-Support helpdesk: Служба поддержки
-Support team: Служба поддержки
-System requirements: Системные требования
-TOP3 in Rating: ТОП3 в Рейтинге
-TOP3 players are receiving Cash.: TOP3 игроки получают Cash.
-TOP4-7 players are receiving 5x: TOP4-7 игроки получают 5x
-Task list: Список заданий, повышающих уровень Вашего профиля
-Tech Support: Техподдержка
-Terms And Conditions: Соглашение пользователя
-Terms of use: Пользовательское соглашение
-Thanks for registering!: Благодарим за регистрацию!
-The PvP tournament starts every Wednesday and lasts 7 days.: Турнир PvP начинается каждую среду и длится 7 дней.
-The ability to play both alone and with friends: Возможность играть как в одиночку, так и с друзьями
-The armory is in test mode. We welcome bug reports from players. Please use a dedicated button.: Оружейная находится в состоянии активной разработки. Для сообщения об ошибках используйте специальную кнопку или обращайтесь в службу поддержки.
-The bonus level is equal to the percentage by which the amount from your account replenishment will increase. The maximum bonus level is 35%, with this level of bonuses, by replenishing your account with $100, you will be credited with an amount of $135. Every $20 increase the bonus level by 1% for future replenishment.: Уровень бонуса равен проценту, на который увеличится сумма от пополнения вашего счета. Максимальный уровень бонуса составляет 35%, при этом уровне бонусов при пополнении счета на 1000 рублей вам будет начислено 1350 рублей. Каждые 1000 рублей увеличивайте уровень бонуса на 1% для последующего пополнения.
-The chest includes: Сундук содержит
-The consent can be withdrawn by me at any time on the basis of my application to E-Mail: Согласие может быть отозвано мною в любое время на основании моего заявления на E-Mail
-The cost of the service is: Стоимость услуги
-The deleted character name may already be taken by another player.: Имя удалённого персонажа может быть уже занято другим игроком.
-The exchange rate is in constant motion, you can track the current rate by following the: Курс находится в постоянном движении, отслеживать актуальный курс можно
-The kit includes: В наборе Вы найдете
-The name must contain between 3 and 10 letters.: Имя должно содержать от 3 до 10 букв.
-The name must not be occupied by a character or pet.: Имя не должно быть занято персонажем или питомцем.
-The rest of the time a specialist on duty works: В остальное время работает дежурный специалист
-The start window of the game.: Стартовое окно игры.
-The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.: Воспроизводимые на данном сайте торговые марки WEBMONEY и WEBMONEY TRANSFER используются держателями сайта с разрешения правообладателя.
-Then select the server you want to play on, one server is now available, in the future there may be more: Затем выберите сервер, на котором хотите играть, сейчас доступен один сервер, в будущем их может стать больше
-This is an example, you can deposit your account with any amount.: Это пример, вы можете пополнить счёт на любую сумму.
-To Odelia: В Оделию
-To take the quest complete on of these: Задание будет доступно, выполнив одно из
-Top up balance: Пополнить баланс
-Total: Общий
-Tournament Rules: Правила турнира
-Try your luck.: Испытайте свою удачу.
-Type a message ...: Напечатайте сообщение ...
-Up to: До
-Updated: Обновлено
-Upon completion, the quests will be available: Выполнив задание, Вам будет доступно
-Usage forbidden: К использованию запрещаются
-Used: Надето
-Useful items kit: Набор полезных предметов
-Useful items kits: Наборы полезных предметов
-User avatar: Аватар пользователя
-VIP Icon: Иконка VIP
-Verify password: Введите пароль еще раз
-Vkontakte: ВКонтакте
-WF User: Ож. польз.
-Wallets numbers for transfer: Номера кошельков для перевода
-We are online: Мы работаем уже
-We will be happy to answer Your questions: Будем рады ответить на Ваши вопросы
-We will send confirmation mail to your current E-Mail.: На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений.
-We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.: На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений. Будьте внимательны, убедитесь в том, что новый E-Mail существует и Вам принадлежит.
-Weapon: Оружие
-Website shop: Покупки в магазине
-Welcome to Dragonica Shop!: Добро пожаловать в магазин Драконики!
-Welcome to your personal account!: Добро пожаловать в Ваш личный кабинет!
-When sending funds from a computer, be sure to specify the text: При отправке средств с компьютера, необходимо обязательно указать текст
-Where to get: Способы добычи предмета
-Which character lost the item: Какой персонаж потерял предмет
-Which character should be credited with CP: Какому персонажу зачислить ОБ
-While using the service, the user should not be on the game server.: Во время пользования услугой, пользователь не должен находиться на игровом сервере.
-Who is this?: Что за Эван?
-Will be used as login in the game: Требуется для входа в игру
-Windy: Ремесло
-Winners of Arena lvl: Победители арены ур.
-Wishlist: Список желаемого
-World: Мир
-XP: Опыт
-Yellow alchemical chest: Желтый алхимический сундук
-You are in two steps from big adventure!: Вы всего в двух шагах от большого приключения!
-You can download the game in these ways: Скачать игру можно такими способами
-You can return the standard appearance to the character.: Можно вернуть стандартный внешний вид персонажу.
-Your avatar: Ваш аватар
-Your balance: Ваш баланс
-Your bonus: Ваш бонус
-Your characters: Ваши персонажи
-Your contacts: Ваши контакты
-Your game characters: Ваши игровые персонажи
-Your guilds: Ваши гильдии
-Your login: Ваш логин
-Your style: Ваш стиль
-Your wishlist: Ваш список желаемого
-Zodiac: Галактика
-acceptance_of_the_rules: Изображения, нарушающие правила, будут удалены а пользователь может быть заблокирован. Нажатие кнопки "Вперед", означает Ваше согласие с правилами.
-account active from: аккаунт активен с
-after_you_enter_all_the_data_text: После того, как вы введёте все данные, нужно нажать кнопку «Войти» и приступить к созданию персонажа
-and the consequences if they are violated.: и последствиях, в случае их нарушения.
-at Dragonica website: на сайте «Драконики»
-attack0: Атака
-attempts1: попытки
-attempts2: попыток
-be ready to name the time, the amount of replenishment and the sending wallet.: будьте готовы назвать время, сумму пополнения и кошелек отправки.
-buy_2: Приобретите
-buy_cash: Купить "Cash" валюту
-buy_cp: Купить "ОБ" валюту
-can_place: Игрок может установить на внешний вид персонажа любой из надетых в соответствующей ячейке предмет (Обычный или Cash).
-cant_afford_chest: Вам пока недоступен этот сундук.
-category: раздел
-consumable_scroll: Расход" > "Свитки
-curr: ₽
-days: дней
-days from the removal of the item: дней от удаления предмета
-defence: Защита
-deleted: удален
-description: Драконика - бесплатная игра, в которой Вы познакомитесь с удивительным миром драконов, попробуете захватить замок Эмпорий и, возможно, встретите свою вторую половинку!
-each_25_evan_progress: По достижению каждых 25 процентов уровня профиля, Вы будете получать доступ к особенным сундукам. Для повышения уровня достаточно в любом порядке выполнять задачи из списка ниже. Также, вы можете нажать на сундуки, чтобы узнать их содержимое.
-evans_quests: Задания Эвана
-field: поле
-fill_and_press_next: Заполните все поля и нажмите кнопку "Далее".
-for: за
-from: от
-gallery_description: В Мире Драконики вы можете делать очень многое. Вместе с приятной атмосферой игры вы можете заниматься торговлей, уничтожением толп монстров, созданием гильдии, а также сбором редких комплектов брони.
-get_continental_explorer: Получите достижение "Исследователь континентов"
-get_total_control: Получите достижение "Полный контроль"
-h: ч
-hero_modal_grade_0: 1 ур.
-hero_modal_grade_1: 20 ур.
-hero_modal_grade_2: 40 ур.
-hero_modal_grade_3: 60 ур.
-hero_modal_professions: Профессии
-hero_modal_strong_sides: Характеристики
-hrs: час
-if_you_want_to_start_the_game_text: Если вы хотите начать игру прямо сейчас, нажмите кнопку «Старт игры»
-in the Cash-shop: в Cash-магазине
-in the comment to the transfer!: в комментарии к переводу!
-in_case_cant_find_mail: В случае если письмо с подтверждением изменений не приходит, проверьте папку "Спам" и не подпадает ли оно под какие-либо почтовые фильтры (напр. "Покупки" или "Соц. сети"). В случае если после вышеуказанных действий Вы все равно не обнаружите письмо, обратитесь в
-iomoney_service: Платежный сервис "ЮMoney"
-item(s): предмет(а)
-item_1: Вещь
-keywords: Драконика, ММОРПГ, 3D, вид сбоку, казуальная игра, система уровней на основе квестов, хардкорная игра, ПВП, ПВЕ, различные режимы ПВП, многоуровневые подземелья, партнерская система, система друзей, системы брака, легко завести друзей
-launch_the_game_text: Запустите игру. Подождите несколько секунд, пока на экране появится стартовое окно игры
-link2: по ссылке
-lvl: ур.
-m: м
-main_video_description: Мир Драконики выглядит очень миролюбивым и приветливым, но это будет происходить до тех пор, пока вы не возьмёте на вооружение конфетные перчатки, костюм снеговика и не пойдёте расчищать древние катакомбы Замка графа-вампира Ван-Клиффа от сил зла.
-main_video_title: Мир Драконики ждет Вас!
-male: муж.
-min: мин
-monsters on the: монстров на
-month: мес.
-mpower: Магическая Сила
-of: из
-or: или
-pc(s): шт
-pc.: шт.
-place_items: Установить можно предметы в ячейки&colon; Грудь, Руки, Ноги, Обувь.
-players.: игроков.
-ppower: Физическая Сила
-processing_of_personal_data_text: Я, субъект персональных данных, в соответствии с Федеральным законом от 27 июля 2006 года № 152 «О персональных данных» а также EU GDPR предоставляю сайту volia.biz (далее - Оператор), согласие на обработку персональных данных, указанных мной в форме регистрации на сайте в сети «Интернет», владельцем которого является Оператор.
-project rules: правилами проекта
-promotion: акцией
-purchase_cash: Покупка "Cash" валюты для Вашей учетной записи. Доставляется мгновенно.
-purchase_cp: Покупка "ОБ" валюты для любого из Ваших персонажей. Доставляется мгновенно.
-qiwi_service: Платежный сервис "Qiwi"
-rattack: Диапазон Атаки
-remove_from_wishlist: Удалить из желаемого
-replenish your account!: пополнить счет!
-sattack: Скорость Атаки
-sec: сек
-sex: пол
-slider_description: Какие чувства у вас вызывает падающая на могучего дракона гигантская однотонная гиря? Или подрыв авиаударом древних заколдованных доспехов? Всё это вы можете испытать в Мире Драконики, где милые герои не останавливаются на привычных способах сражения с противниками. Их комбо-удары выходят далеко за грани доступного.
-special_1: Особые
-specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!: с указанием времени и высланной суммы. Также служба поддержки может запросить фотографию чека, сохраните его!
-summary: сводка
-support team: службу поддержки
-support_service2: службу поддержки
-this_is_really_fast_source_text: Это очень быстрый источник. Если у Вас отсутствует Torrent-клиент, загрузите
-top_up_iomoney: Пополните счет через платежный сервис "ЮMoney" без комиссии.
-top_up_qiwi: Пополните счет через платежный сервис "Qiwi" без комиссии.
-top_up_webmoney: Пополните счет через платежный сервис "WebMoney" без комиссии.
-user agreement: пользовательским соглашением
-webmoney_service: Платежный сервис "WebMoney"
-year: года
-yoomoney_copyright: 2021 ООО НКО «ЮМани». Лицензия Банка России № 3510‑К
-you will receive a 35% bonus using this deposit method!: вы получите бонус 35%, используя этот метод пополнения!
-Сhanging the gender of the character: Смена пола персонажа
-Сhanging the name of a character, guild or pet: Смена имени персонажа, гильдии или питомца
-Сryptocurrencies BTC, ETH, XMR: Криптовалюты BTC, ETH, XMR
+"1-st place": "1-е место"
+"1_st_place": "1-е место \"Горячая лава\""
+"2-nd place": "2-е место"
+"2_nd_place": "2-е место \"Опасная жижа\""
+"3-rd place": "3-е место"
+"3D world with a side perspective": "3D мир с перспективой сбоку"
+"3_rd_place": "3-е место \"Пучина океана\""
+"AGI Up": "ЛОВ"
+"ATK Speed": "Скорость атаки"
+"About": "Об игре"
+"About guild": "О гильдии"
+"Accessories": "Аксессуары"
+"According to the": "В соответствии с"
+"Account Vault increase": "Склад"
+"Account activation": "Активация учетной записи"
+"Account number for transfer": "Номер счета для перевода"
+"Account numbers for transfer": "Номера счетов для перевода"
+"Achieve the first profession in the game": "Получите одним из персонажей первую профессию"
+"Achieve the second profession in the game": "Получите одним из персонажей вторую профессию"
+"Achieve the third profession in game": "Получите одним из персонажей третью профессию"
+"Achievement": "Достижение"
+"Achievements": "Достижения"
+"Activate": "Активировать"
+"Activation Page": "Страница активации учетной записи"
+"Activation code": "Код активации"
+"Additional information": "Дополнительная информация"
+"Additionaly": "Дополнительно"
+"Admin": "Администратор"
+"After setting the item to the appearance, you can enter the game and remove the copied item. It will be displayed on the character until it is replaced by another.": "После установки предмета на внешний вид, можно войти в игру и снять копируемый предмет. Он будет отображаться на персонаже до тех пор, пока не будет заменён другим."
+"Aim Rate": "Точность"
+"All levels": "Все уровни"
+"All news": "Все новости"
+"All slots": "Все слоты"
+"Already with us? Login and get access to": "Зарегистрированы? Следующие функции ждут Вас"
+"An excellent server awaits you, its features": "Вас ждет отличный сервер, его особенности"
+"And much more ...": "И многое другое ..."
+"Apply": "Применить"
+"Archer": "Лучник"
+"Arena stats": "Статистика арены"
+"Armory": "Оружейная"
+"Armory - know your game!": "Оружейная - узнай свою игру!"
+"Armory | Character": "Оружейная | Персонаж"
+"Armory | Characters": "Оружейная | Персонажи"
+"Armory | Guild": "Оружейная | Гильдия"
+"Armory | Guilds": "Оружейная | Гильдии"
+"Armory | Item": "Оружейная | Предмет"
+"Armory | Items List": "Оружейная | Список предметов"
+"Armory | Market": "Оружейная | Рынок"
+"Armory | Quest": "Оружейная | Задание"
+"Armory | Quests List": "Оружейная | Список заданий"
+"Ask Your Questions": "Задать вопрос"
+"Attach file": "Прикрепить файл"
+"Attack": "Атака"
+"Attack Range": "Дальность атаки"
+"Back": "Назад"
+"Back to Odelia": "Возвращение персонажа в Оделию"
+"Back to character list": "Вернуться к поиску персонажа"
+"Back to chats": "Назад к сообщениям"
+"Back to guild list": "Назад к списку гильдий"
+"Back to pay methods": "Вернуться к способам оплаты"
+"Back to services": "Вернуться к выбору услуг"
+"Balance": "Баланс"
+"Banner": "Банер"
+"Be prepared to name the time, amount of replenishment and wallet to send.": "Будьте готовы назвать время, сумму пополнения и кошелек отправки."
+"Be the first to leave a comment about this item": "Станьте первым, кто оставит комментарий к этому предмету"
+"Best": "Лучшие"
+"Blast-off Kit": "Набор \"Взлет\""
+"Blast-off kit": "Набор “Взлет”"
+"Blast-off kit for an easy game start.": "Взлетный набор для легкого начала игры."
+"Bonus": "Бонус"
+"Both": "Оба"
+"Buy": "Купить"
+"Buy 100 Cash package": "Купите пакет на 100 Cash"
+"Buy 400 Cash package": "Купите пакет на 400 Cash"
+"Buy currency": "Купить валюту"
+"By continuing to register, I confirm my familiarization with": "Продолжая регистрацию, я подтверждаю своё ознакомление с"
+"By registering, you are accepting": "Регистрируясь, вы подтверждаете свое согласие с"
+"CLASS_0": "Все классы"
+"CP": "ОБ"
+"CPU": "Процессор"
+"Can be improved with Julie": "Можно улучшить у Джули"
+"Can be improved with a blacksmith": "Можно улучшить у кузнеца"
+"Can be remotely accepted": "Можно принять дистанционно"
+"Can be remotely completed": "Можно сдать дистанционно"
+"Captain": "Капитан"
+"Cards": "Карты"
+"Categories": "Категория"
+"Change Your Avatar": "Смена Вашего аватара"
+"Change Your E-Mail": "Смена Вашего E-Mail"
+"Change Your Password": "Смена Вашего пароля"
+"Change character gender": "Смените пол персонажу"
+"Change character name": "Смените имя персонажу"
+"Change gender": "Сменить пол"
+"Change guild name": "Сменить название гильдии"
+"Change name": "Сменить имя / название"
+"Change password": "Сменить пароль"
+"Change pet name": "Смените имя питомцу"
+"Change the gender of your character. Realize your fantasies. Exit from the game is required.": "Смена пола Вашего персонажа. Реализуйте свои фантазии. Требуется выход из игры."
+"Change the name of your character, guild or pet.": "Смените имя своего персонажа, питомца или название гильдии."
+"Change the style of your character. You can set any available items.": "Измените стиль Вашего персонажа. Можно установить любые доступные вещи."
+"Changing the appearance of the character": "Изменение внешнего вида персонажа"
+"Channel": "Канал"
+"Chaos mode": "Хаос режим"
+"Character": "Персонаж"
+"Character Slot Expansion": "Активатор доп. ячейки"
+"Character gender reassignment": "Смена пола персонажа"
+"Character information": "Информация о персонаже"
+"Character name": "Имя персонажа"
+"Character recovery": "Восстановление персонажа"
+"Character stats": "Характеристика персонажа"
+"Chat": "Чат"
+"Chats": "Беседы"
+"Chest": "Грудь"
+"Chests": "Контейнеры"
+"Choose a character": "Выберите персонажа"
+"Choose a character to change appearance": "Выберите персонажа для смены внешности"
+"Choose a character to change gender": "Выберите персонажа для смены пола"
+"Choose a chat or create new one": "Выберите беседу или создайте новую"
+"Choose a package with a gift": "Выберите пакет с подарком"
+"Choose a service": "Выберите услугу"
+"Choose a type ...": "Выберите тип ..."
+"Choose password": "Выберите пароль"
+"Choose your class": "Выберите класс"
+"Class": "Класс"
+"Classes": "Классы"
+"Click to learn more about rating.": "Нажмите, чтобы узнать подробности о работе рейтинга."
+"Closed Slot!": "Закрытый слот!"
+"Coin": "Монеты"
+"Combat Points": "Очки Боя"
+"Comments": "Комментарии"
+"Community": "Сообщество"
+"Compatible with DirectX 9.0 or higher": "Совместимый с DirectX 9.0 или выше"
+"Consumable": "Предметы"
+"Consumables": "Расход"
+"Contacts": "Контакты"
+"Costume": "Костюм"
+"Create a relationship": "Создать связь"
+"Create character in the game and sail toward adventures!": "Создайте персонажа в игре и отправьтесь навстречу приключениям!"
+"Created before": "Создана до"
+"Crediting funds to the account takes from 10 minutes to several hours. In case of a delay in crediting, send a request to the": "Зачисление средств на счет длится от 10 минут до нескольких часов. В случае задержки зачисления отправьте запрос в"
+"Critical Damage": "Крит. удар"
+"Critical Rate": "Шанс крит. удара"
+"Current exchange rate": "Текущий курс"
+"Current password": "Текущий пароль"
+"Cute characters": "Милые персонажи"
+"DEF": "ЗАЩ"
+"DEX Bonus": "Бонус ЛОВ"
+"Daily event": "Ежедневное событие"
+"Dangerous Goo": "Опасная жижа"
+"Date of creation": "Дата создания"
+"Day": "День"
+"Decrease character level": "Снижение уровня персонажа"
+"Decrease from 1 to 10 levels for the character. A service for characters level 60 and above.": "Снижение от 1 до 10 уровней у персонажа. Услуга для персонажей 60 уровня и выше."
+"Decrease in character level": "Снижение уровня персонажа"
+"Deep Ocean": "Пучина океана"
+"Default": "Базовые"
+"Defence": "Защита"
+"Deposit": "Пополнить"
+"Deposit user account": "Пополнение счета пользователя"
+"Deposit using cryptocurrency": "Пополнение счета с помощью криптовалюты"
+"Deposit with no fees": "Пополнение счета без комиссии"
+"Description": "Описание"
+"Die or kill 50 times at arena": "Умрите или убейте 50 раз на арене"
+"Done": "Готовые"
+"Download": "Скачать"
+"Download and install the game on your computer.": "Скачайте и установите игру."
+"Download and play": "Начать игру"
+"Download client": "Загрузить клиент"
+"Download the game": "Скачать игру"
+"Dragonica Volia": "Драконика Воля"
+"Dragonica Volia shortcut": "Ярлык игры Драконика Воля"
+"Drop rate": "Шанс выпадения"
+"Dungeon level": "Уровень подземелья"
+"Duplicate of": "Дубликат"
+"EXP Boost": "Прирост опыта"
+"Egg content": "Содержимое яйца"
+"Eggs": "Яйца"
+"Elite market": "Элитный рынок"
+"Email Us": "Задать вопрос"
+"Emporia owners": "Гильдии Эмпория"
+"Emporia status": "Статус Эмпория"
+"Emporia-1": "Эмпорий-1"
+"Enchant rate": "Шанс зачарования"
+"Enchantment effect": "Воздействие чар"
+"End": "Конец"
+"Enter ID ...": "Введите ID ..."
+"Enter a character name ...": "Введите имя персонажа ..."
+"Enter a guild name ...": "Введите название гильдии ..."
+"Enter a seller name ...": "Введите имя продавца"
+"Enter a subject ...": "Укажите тему запроса ..."
+"Enter an item name ...": "Введите название предмета"
+"Enter the activation code you received by E-Mail": "Введите код активации полученный Вами по электронной почте"
+"Enter the name of the item": "Введите название предмета"
+"Enter the name of the quest": "Введите название задания"
+"Enter your new E-Mail": "Введите новый E-Mail"
+"Epic PvP and PvE battles": "Эпические PvP и PvE сражения"
+"Equipment": "Вещи"
+"Equipped item effect": "Эффект от надетого предмета"
+"Equipped set effect": "Эффект от надетого комплекта"
+"Evade Rate": "Уклонение"
+"Evan": "Эван"
+"Events & promotions": "События и акции"
+"Exclamation mark": "Восклицательный знак"
+"Exp": "Опыт"
+"Experience": "Опыт"
+"Extra attempts for roulette. Cost": "Дополнительные попытки для рулетки. Стоимость"
+"Extra tries for roulette": "Дополнительные попытки для рулетки"
+"F": "Ж"
+"Fatigue Increased": "Запас бодрости"
+"Fatigue recovery": "Восстановление бодрости"
+"Feature": "Особенность"
+"Female": "Женщина"
+"Finish registration, download game and enjoy one of the most non-standart MMORPG!": "Пройдите регистрацию, скачайте игру и ворвитесь в удивительный мир одной из самых нестандартных MMORPG!"
+"Finish tutorial": "Пройдите обучение"
+"First you need to": "Сначала Вам необходимо"
+"For your character.": "Для Вашего персонажа"
+"Forgot your password?": "Забыли пароль?"
+"Forum": "Форум"
+"Forum conversations": "Общение на форуме"
+"Forum updates": "Новое на форуме"
+"Foul language": "Нецензурная лексика"
+"Free Slot!": "Свободный слот!"
+"Free items!": "Бесплатные предметы!"
+"Free of charge": "Бесплатные услуги"
+"Free teleportation to Odelia.": "Бесплатное возвращение персонажа в Оделию."
+"Full": "Переполнено"
+"GPU": "Видеокарта"
+"Galaxy name": "Название созвездия"
+"Game news": "Новости игры"
+"Game start button": "Кнопка запуска игры"
+"Game updates": "Обновления игры"
+"Game visits": "Посещения игры"
+"Gamer": "Игрок"
+"Gathering EXP": "Опыт ремесла"
+"Gathering exp": "Опыт ремесла"
+"Gender": "Пол"
+"Get Premium Diamond and receive the following benefits": "Приобретите \"Алмазную премиум-систему\" и получите следующие преимущества"
+"Get a bonus - 35% using this deposit method!": "Получите бонус - 35% используя данный метод пополнения счета!"
+"Get achievement on 1000 gold": "Получите достижение \"Триллионер\""
+"Go to Main": "Перейти на главную"
+"Go to QIWI.com": "Перейти на сайт QIWI.com"
+"Go to all news": "Перейти ко всем новостям"
+"Go to chat": "Перейти к чату"
+"Go to login page": "Перейти на страницу входа"
+"Good luck!": "Желаем удачи!"
+"Grade": "Категория"
+"Green alchemical chest": "Зеленый алхимический сундук"
+"Growth": "Рост"
+"Guild": "Гильдия"
+"Guild leader": "Глава гильдии"
+"Guild members": "Участники гильдии"
+"Guild message": "Сообщение гильдии"
+"Guild name": "Название гильдии"
+"Guild skills": "Гильдейские навыки"
+"HDD": "Жесткий диск"
+"HP Recovery": "Восст-е ОЗ"
+"HTL Bonus": "Бонус ЗДР"
+"HTL Up": "ЗДР"
+"Hands": "Руки"
+"Hide character information": "Скрывать информацию о персонаже"
+"High": "Высокая"
+"Homecoming. Useful if you get stuck.": "Возвращение домой. Пригодится, если Вы застряли."
+"Hot Lava": "Горячая лава"
+"How can I receive these rewards?": "Как я могу получить эти награды?"
+"How it works": "Как это работает"
+"How many attempts would you like to acquire": "Сколько попыток Вы желаете приобрести"
+"How many levels you want to decrease": "На сколько уровней снизить"
+"How to receive the rewards": "Как получить награды"
+"How to start to play": "Как начать играть"
+"Humans": "Люди"
+"Hunter quest and Guild can be completed twice": "Задания гильдии и охотника Джи дважды в день"
+"INT Bonus": "Бонус ИНТ"
+"INT Up": "ИНТ"
+"ITEM_SOURCE_cashshop": "Cash-магазин"
+"ITEM_SOURCE_dungeon": "Добыча в подземелье"
+"ITEM_SOURCE_emporiareward": "Битва за Эмпорий"
+"ITEM_SOURCE_event": "Событие"
+"ITEM_SOURCE_f6": "Добыча на F6"
+"ITEM_SOURCE_remeslo1": "Ремесло"
+"ITEM_SOURCE_remeslo2": "Обработка"
+"ITEM_SOURCE_remeslo3": "Добыча на лунке"
+"If You still have any questions about installing and running the game please email us": "Если у Вас остались вопросы по установке и запуску игры, пожалуйста, напишите нам"
+"If a player has not been in the arena for 24 hours or more, they begin to lose 25 skill points per day.": "Если игрок не находился на арене 24 часа и более, он начинает терять 25 очков навыков в день."
+"Important": "Важное"
+"In a few minutes you will receive an email with a link to activate your account.": "Через несколько минут придёт письмо со ссылкой для активации учётной записи."
+"In the case of sending funds from the terminal, you must send a request to the": "В случае отправки средств с терминала, необходимо отправить запрос в"
+"In the window that appears, enter your username and password.": "В появившемся окне введите логин и пароль, указанные при регистрации на сайте «Драконики»"
+"Information about game": "Информация об игре"
+"Information is not available": "Информация недоступна"
+"Interlocutor avatar": "Аватар собеседника"
+"Internet": "Интернет"
+"Is your character stuck": "Ваш персонаж застрял"
+"It is absolutely FREE! Participate in the daily event and get free items!": "Услуга бесплатна! Участвуйте в ежедневных событиях и получайте подарки!"
+"Item ID": "ID Предмета"
+"Item Information": "Информация о предмете"
+"Item Mall": "Cash"
+"Item name": "Название предмета"
+"Items": "Предметы"
+"Items recovery": "Восстановление предметов"
+"Job": "Класс"
+"K/D": "У/С"
+"Key features": "Ключевые особенности"
+"Kill": "Убейте"
+"Kits": "Наборы"
+"Large kit of useful items": "Большой набор полезных предметов"
+"Last 25 updates. For players with auto-update problems": "Последние 25 версий. Могут быть необходимы игрокам, у которых наблюдаются проблемы при автообновлении"
+"Last week winners": "Победители прошлой недели"
+"Latest version": "Последняя версия"
+"Leader": "Лидер"
+"Learn more about the event ...": "Подробности акции ..."
+"Learn two professions": "Изучите две мирные профессии"
+"Leave your comment": "Оставьте Ваш комментарий"
+"Legal information": "Юридическая информация"
+"Legs": "Ноги"
+"Level": "Уровень"
+"Linked to": "Связан"
+"Links": "Рекомендуется"
+"Location": "Место"
+"Locations": "Локации"
+"Log in": "Вход"
+"Log out": "Выйти"
+"Login": "Имя пользователя"
+"Login Page": "Страница входа"
+"Login or E-Mail": "Ваш логин или E-Mail"
+"Low": "Низкая"
+"Low system requirements": "Низкие системные требования"
+"Lvl": "Ур"
+"Lvl.": "Ур."
+"M": "М"
+"MDEF": "МЗАЩ"
+"MP Recovery": "Восст-е ОМ"
+"Main": "Главная"
+"Maintenance": "Технические работы"
+"Male": "Мужчина"
+"Manual patch download links (if necessary)": "Также, предлагаем Вашему вниманию файлы обновлений"
+"Manual patches": "Файлы обновлений"
+"Many costumes and interesting items": "Множество костюмов и интересных предметов"
+"Map": "Карта"
+"Map drop": "Добыча на локациях"
+"Map name": "Название карты"
+"Mark as open": "Вернуть в открытые"
+"Market notifications": "Оповещения рынка"
+"Materials": "Материалы"
+"Materials infringing on the rights of any social groups": "Материалы, ущемляющие права каких-либо cоциальных групп"
+"Max ATK": "Макс АТК"
+"Max MATK": "Макс МАТК"
+"Max.": "Макс."
+"Max. lvl": "Макс. ур."
+"Maximum file size": "Максимальный размер файла"
+"Medal": "Орден"
+"Medium": "Средняя"
+"Medium kit of useful items": "Средний набор полезных предметов"
+"Member": "Участник"
+"Members": "Участники"
+"Messaging": "Сообщения"
+"Min.": "Мин."
+"Min. lvl": "Мин. ур."
+"Minimal": "Минимальные требования"
+"Miscellaneous": "Прочее"
+"Mission": "Тропа войны"
+"Mission mode": "Тропа войны"
+"Mon - Fri": "Пн - Пт"
+"Money": "Деньги"
+"Monster": "Монстр"
+"Monster counter": "Счетчик монстров"
+"Monsters": "Монстры"
+"More": "Подробнее"
+"More ...": "Подробно ..."
+"More details ...": "Подробнее"
+"More gold from NPC": "Доход от торговли с НИП"
+"Mov. Speed": "Скорость"
+"New chat": "Новая беседа"
+"New password": "Новый пароль"
+"New password again": "Новый пароль еще раз"
+"Next": "Далее"
+"Next PvP arena": "Следующая PvP арена"
+"Nice graphics, beautiful locations": "Приятная графика, красивые локации"
+"No comments have been posted yet": "Пока нет ни одного комментария"
+"No item!": "Нет предмета!"
+"No items found": "Предметов не найдено"
+"No quests found": "Заданий не найдено"
+"No reply": "Без ответа"
+"Non-target combat system": "Non-target боевка"
+"Normal mode": "Обычный режим"
+"Not allowed to": "Нельзя"
+"Number of requests": "Количество запросов"
+"OS": "ОС"
+"Offline": "Не в сети"
+"Online": "Онлайн"
+"Open": "Открытые"
+"Open your own shop on the game market": "Откройте свой Магазин на рынке"
+"Orange alchemical chest": "Оранжевый алхимический сундук"
+"Other": "Другое"
+"PVP Rating": "PVP Рейтинг"
+"Page": "Страница"
+"Participation in the daily event": "Участие в ежедневном событии"
+"Password": "Пароль"
+"Password can contain only english letters and numbers.": "Пароль может состоять из букв английского алфавита и цифр."
+"Password length must be from 5 to 20 symbols.": "Длина пароля должна составлять от 5 до 20 символов."
+"Password recovery": "Восстановление пароля"
+"Patch icon": "Иконка патча"
+"Personal account": "Личный кабинет"
+"Personal data": "Личные данные"
+"Placed items do not give characteristics and become visible only when the display of regular and Cash items in the corresponding slots is turned off.": "Установленные предметы не дают характеристики и становятся видны только при отключении отображения обычных и Cash предметов в соответствующих ячейках."
+"Play": "Играть"
+"Play 5 times in roulette": "Сыграйте 5 раз в рулетку"
+"Play and get gifts!": "Играй и получай подарки!"
+"Please describe the problem...": "Пожалуйста, опишите проблему"
+"Please modify your search criteria and you will find results matching your needs.": "Пожалуйста, измените критерии поиска, и вы найдете результаты, соответствующие вашему запросу."
+"Points": "Очки"
+"Premium": "Премиум"
+"Premium Diamond": "Алмазная премиум-система"
+"Price per piece": "Цена за штуку"
+"Profile": "Профиль"
+"Profile settings": "Настройки профиля"
+"Puff Tower discount": "Башня телепорт"
+"PvP Tournament 1st place": "PvP Турнир первое место"
+"PvP Tournament 2nd place": "PvP Турнир второе место"
+"PvP Tournament 3rd place": "PvP Турнир третье место"
+"Quality": "Качество"
+"Quest": "Задание"
+"Quest ID": "ID Задания"
+"Quest Information": "Информация о задании"
+"Quest name": "Название задания"
+"Question mark": "Знак вопроса"
+"Quests": "Задания"
+"RAM": "ОЗУ"
+"Rank": "Ранг"
+"Rate Us": "Оцените нас"
+"Re-enter your new E-Mail": "Повторите новый E-Mail"
+"Reach unprecedented heights in less time! Faster character growth, improved enchantments, crafts and more ...": "Достигните небывалых высот за более короткий срок! Ускорение роста персонажа, улучшение зачарования, ремесла и многое другое ..."
+"Read and like game server rules": "Поставьте лайк правилам проекта"
+"Read more ...": "Подробнее"
+"Read more about rewards system": "Узнать подробнее о системе наград"
+"Read more about the event here ...": "Подробнее о мероприятии можно прочесть здесь ..."
+"Read more...": "Читать далее..."
+"Realize your fantasies.": "Реализуйте свои фантазии."
+"Recent forum posts": "Последние сообщения на форуме"
+"Recipes": "Рецепты"
+"Recommended": "Рекомендуемые требования"
+"Recover characters deleted in 6 months. The market cannot be restored.": "Восстановление удаленных персонажей за 6 месяцев. Рынок не восстанавливается."
+"Red alchemical chest": "Красный алхимический сундук"
+"Register": "Зарегистрируйтесь"
+"Register on the website.": "Зарегистрируйтесь на сайте."
+"Registration": "Регистрация"
+"Registration agreement": "Пользовательское соглашение"
+"Registration bonus": "Бонус за регистрацию"
+"Registration is required to enter the game": "Регистрация необходима для входа в игру"
+"Regular": "Обычный"
+"Reinforced Enchant Gacha Item Box (Cash).": "Усиленный зачарованный пакет - коробка с предметом (платная)."
+"Related tickets": "Связанные запросы"
+"Replenishment of CP currency for your account. Delivered instantly.": "Пополнение \"ОБ\" валюты для Вашей учетной записи. Доставляется мгновенно."
+"Replenishment of Cash currency for your account. Delivered instantly.": "Пополнение \"Cash\" валюты для Вашей учетной записи. Доставляется мгновенно."
+"Replies": "Ответы"
+"Report a bug": "Сообщить об ошибке"
+"Request": "Запрос"
+"Required Items": "Необходимые предметы"
+"Required for": "Необходимо для"
+"Required level": "Требуемый уровень"
+"Requires quests": "Предыдущие задания"
+"Reset": "Сброс"
+"Restoration of destroyed items in the last 25 days.": "Восстановление уничтоженных предметов за последние 25 дней."
+"Restore items": "Вернуть вещи"
+"Restore my password": "Восстановить пароль"
+"Results for": "Зафиксированы результаты"
+"Reward": "Награда"
+"Reward Chest": "Сундук награда"
+"Russian flag": "Российский флаг"
+"STR Bonus": "Бонус СИЛ"
+"STR Up": "СИЛ"
+"Save info hiding settings": "Сохранить настройки"
+"Screenshot": "Скриншот"
+"Screenshots": "Скриншоты"
+"Search": "Найти"
+"Search ...": "Поиск ..."
+"Search results": "Результаты поиска"
+"Security": "Безопасность"
+"Seed online": "На текущий момент сидов в сети"
+"Select a character to participate": "Выберите персонажа для участия"
+"Select the amount to replenish": "Выберите сумму для пополнения"
+"Select the server you want to play on.": "Выберите сервер, на котором хотите играть."
+"Select the type of bug": "Выберите тип ошибки"
+"Send the desired top-up amount to the specified address and notify the": "Отправьте желаемую сумму пополнения на указанный адрес и сообщите об этом в"
+"Sergeant": "Сержант"
+"Server load": "Загруженность"
+"Server status": "Статус серверов"
+"Server time": "Время серверов"
+"Services": "Услуги"
+"Set": "Комплект"
+"Set up avatar": "Установите аватарку на форуме"
+"Set up forum name": "Установите имя на форуме"
+"Sharable": "Можно поделиться"
+"Shoes": "Обувь"
+"Shop": "Магазин"
+"Shop name": "Магазин"
+"Shop | Deposit": "Магазин | Пополнение счета"
+"Shop | Services": "Магазин | Услуги"
+"Sign up": "Регистрация"
+"Size": "Состав"
+"Skill": "Навык"
+"Slot": "Слот"
+"Sorry! No result found.": "Извините! Результатов не найдено."
+"SoulCraft rate": "Шанс одушевления"
+"Souls": "Больше душ"
+"Sound": "Звук"
+"Special": "Специальные"
+"Spirit magic effect": "Эффект магии духа"
+"Standard": "Стандартный"
+"Start": "Начало"
+"Start the Game": "Начать игру"
+"Start your journey": "Начните приключение"
+"Starter Kit": "Набор \"Старт\""
+"Starter kit": "Набор “Старт”"
+"Starter kit for an easy game start.": "Стартовый набор для легкого начала игры."
+"Starting equipment": "Стартовое снаряжение"
+"Stats": "Характеристика"
+"Status": "Статус"
+"Stay in the game for 300 hours": "Проведите в игре 300 часов"
+"Style": "Стиль"
+"Style / Slot": "Инвентарь / Слот"
+"Subject": "Тема"
+"Submit": "Отправить"
+"Support": "Поддержка"
+"Support agent": "Агент поддержки"
+"Support helpdesk": "Служба поддержки"
+"Support team": "Служба поддержки"
+"System requirements": "Системные требования"
+"TOP3 in Rating": "ТОП3 в Рейтинге"
+"TOP3 players are receiving Cash.": "TOP3 игроки получают Cash."
+"TOP4-7 players are receiving 5x": "TOP4-7 игроки получают 5x"
+"Task list": "Список заданий, повышающих уровень Вашего профиля"
+"Tech Support": "Техподдержка"
+"Terms And Conditions": "Соглашение пользователя"
+"Terms of use": "Пользовательское соглашение"
+"Thanks for registering!": "Благодарим за регистрацию!"
+"The PvP tournament starts every Wednesday and lasts 7 days.": "Турнир PvP начинается каждую среду и длится 7 дней."
+"The ability to play both alone and with friends": "Возможность играть как в одиночку, так и с друзьями"
+"The armory is in test mode. We welcome bug reports from players. Please use a dedicated button.": "Оружейная находится в состоянии активной разработки. Для сообщения об ошибках используйте специальную кнопку или обращайтесь в службу поддержки."
+"The bonus level is equal to the percentage by which the amount from your account replenishment will increase. The maximum bonus level is 35%, with this level of bonuses, by replenishing your account with $100, you will be credited with an amount of $135. Every $20 increase the bonus level by 1% for future replenishment.": "Уровень бонуса равен проценту, на который увеличится сумма от пополнения вашего счета. Максимальный уровень бонуса составляет 35%, при этом уровне бонусов при пополнении счета на 1000 рублей вам будет начислено 1350 рублей. Каждые 1000 рублей увеличивайте уровень бонуса на 1% для последующего пополнения."
+"The chest includes": "Сундук содержит"
+"The consent can be withdrawn by me at any time on the basis of my application to E-Mail": "Согласие может быть отозвано мною в любое время на основании моего заявления на E-Mail"
+"The cost of the service is": "Стоимость услуги"
+"The deleted character name may already be taken by another player.": "Имя удалённого персонажа может быть уже занято другим игроком."
+"The exchange rate is in constant motion, you can track the current rate by following the": "Курс находится в постоянном движении, отслеживать актуальный курс можно"
+"The kit includes": "В наборе Вы найдете"
+"The name must contain between 3 and 10 letters.": "Имя должно содержать от 3 до 10 букв."
+"The name must not be occupied by a character or pet.": "Имя не должно быть занято персонажем или питомцем."
+"The rest of the time a specialist on duty works": "В остальное время работает дежурный специалист"
+"The start window of the game.": "Стартовое окно игры."
+"The trademarks WEBMONEY and WEBMONEY TRANSFER reproduced on this site are used by the site holders with the permission of the copyright holder.": "Воспроизводимые на данном сайте торговые марки WEBMONEY и WEBMONEY TRANSFER используются держателями сайта с разрешения правообладателя."
+"Then select the server you want to play on, one server is now available, in the future there may be more": "Затем выберите сервер, на котором хотите играть, сейчас доступен один сервер, в будущем их может стать больше"
+"This is an example, you can deposit your account with any amount.": "Это пример, вы можете пополнить счёт на любую сумму."
+"To Odelia": "В Оделию"
+"To take the quest complete on of these": "Задание будет доступно, выполнив одно из"
+"Top up balance": "Пополнить баланс"
+"Total": "Общий"
+"Tournament Rules": "Правила турнира"
+"Try your luck.": "Испытайте свою удачу."
+"Type a message ...": "Напечатайте сообщение ..."
+"Up to": "До"
+"Updated": "Обновлено"
+"Upon completion, the quests will be available": "Выполнив задание, Вам будет доступно"
+"Usage forbidden": "К использованию запрещаются"
+"Used": "Надето"
+"Useful items kit": "Набор полезных предметов"
+"Useful items kits": "Наборы полезных предметов"
+"User avatar": "Аватар пользователя"
+"VIP Icon": "Иконка VIP"
+"Verify password": "Введите пароль еще раз"
+"Vkontakte": "ВКонтакте"
+"WF User": "Ож. польз."
+"Wallets numbers for transfer": "Номера кошельков для перевода"
+"We are online": "Мы работаем уже"
+"We will be happy to answer Your questions": "Будем рады ответить на Ваши вопросы"
+"We will send confirmation mail to your current E-Mail.": "На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений."
+"We will send confirmation mail to your current E-Mail. Please, make sure, that new E-Mail exists and owned by you.": "На Ваш текущий E-Mail будет отправлено письмо с подтверждением изменений. Будьте внимательны, убедитесь в том, что новый E-Mail существует и Вам принадлежит."
+"Weapon": "Оружие"
+"Website shop": "Покупки в магазине"
+"Welcome to Dragonica Shop!": "Добро пожаловать в магазин Драконики!"
+"Welcome to your personal account!": "Добро пожаловать в Ваш личный кабинет!"
+"When sending funds from a computer, be sure to specify the text": "При отправке средств с компьютера, необходимо обязательно указать текст"
+"Where to get": "Способы добычи предмета"
+"Which character lost the item": "Какой персонаж потерял предмет"
+"Which character should be credited with CP": "Какому персонажу зачислить ОБ"
+"While using the service, the user should not be on the game server.": "Во время пользования услугой, пользователь не должен находиться на игровом сервере."
+"Who is this?": "Что за Эван?"
+"Will be used as login in the game": "Требуется для входа в игру"
+"Windy": "Ремесло"
+"Winners of Arena lvl": "Победители арены ур."
+"Wishlist": "Список желаемого"
+"World": "Мир"
+"XP": "Опыт"
+"Yellow alchemical chest": "Желтый алхимический сундук"
+"You are in two steps from big adventure!": "Вы всего в двух шагах от большого приключения!"
+"You can download the game in these ways": "Скачать игру можно такими способами"
+"You can return the standard appearance to the character.": "Можно вернуть стандартный внешний вид персонажу."
+"Your avatar": "Ваш аватар"
+"Your balance": "Ваш баланс"
+"Your bonus": "Ваш бонус"
+"Your characters": "Ваши персонажи"
+"Your contacts": "Ваши контакты"
+"Your game characters": "Ваши игровые персонажи"
+"Your guilds": "Ваши гильдии"
+"Your login": "Ваш логин"
+"Your style": "Ваш стиль"
+"Your wishlist": "Ваш список желаемого"
+"Zodiac": "Галактика"
+"acceptance_of_the_rules": "Изображения, нарушающие правила, будут удалены а пользователь может быть заблокирован. Нажатие кнопки \"Вперед\", означает Ваше согласие с правилами."
+"account active from": "аккаунт активен с"
+"after_you_enter_all_the_data_text": "После того, как вы введёте все данные, нужно нажать кнопку «Войти» и приступить к созданию персонажа"
+"and the consequences if they are violated.": "и последствиях, в случае их нарушения."
+"at Dragonica website": "на сайте «Драконики»"
+"attack0": "Атака"
+"attempts1": "попытки"
+"attempts2": "попыток"
+"be ready to name the time, the amount of replenishment and the sending wallet.": "будьте готовы назвать время, сумму пополнения и кошелек отправки."
+"buy_2": "Приобретите"
+"buy_cash": "Купить \"Cash\" валюту"
+"buy_cp": "Купить \"ОБ\" валюту"
+"can_place": "Игрок может установить на внешний вид персонажа любой из надетых в соответствующей ячейке предмет (Обычный или Cash)."
+"cant_afford_chest": "Вам пока недоступен этот сундук."
+"category": "раздел"
+"consumable_scroll": "Расход\" > \"Свитки"
+"curr": "₽"
+"days": "дней"
+"days from the removal of the item": "дней от удаления предмета"
+"defence": "Защита"
+"deleted": "удален"
+"description": "Драконика - бесплатная игра, в которой Вы познакомитесь с удивительным миром драконов, попробуете захватить замок Эмпорий и, возможно, встретите свою вторую половинку!"
+"each_25_evan_progress": "По достижению каждых 25 процентов уровня профиля, Вы будете получать доступ к особенным сундукам. Для повышения уровня достаточно в любом порядке выполнять задачи из списка ниже. Также, вы можете нажать на сундуки, чтобы узнать их содержимое."
+"evans_quests": "Задания Эвана"
+"field": "поле"
+"fill_and_press_next": "Заполните все поля и нажмите кнопку \"Далее\"."
+"for": "за"
+"from": "от"
+"gallery_description": "В Мире Драконики вы можете делать очень многое. Вместе с приятной атмосферой игры вы можете заниматься торговлей, уничтожением толп монстров, созданием гильдии, а также сбором редких комплектов брони."
+"get_continental_explorer": "Получите достижение \"Исследователь континентов\""
+"get_total_control": "Получите достижение \"Полный контроль\""
+"h": "ч"
+"hero_modal_grade_0": "1 ур."
+"hero_modal_grade_1": "20 ур."
+"hero_modal_grade_2": "40 ур."
+"hero_modal_grade_3": "60 ур."
+"hero_modal_professions": "Профессии"
+"hero_modal_strong_sides": "Характеристики"
+"hrs": "час"
+"if_you_want_to_start_the_game_text": "Если вы хотите начать игру прямо сейчас, нажмите кнопку «Старт игры»"
+"in the Cash-shop": "в Cash-магазине"
+"in the comment to the transfer!": "в комментарии к переводу!"
+"in_case_cant_find_mail": "В случае если письмо с подтверждением изменений не приходит, проверьте папку \"Спам\" и не подпадает ли оно под какие-либо почтовые фильтры (напр. \"Покупки\" или \"Соц. сети\"). В случае если после вышеуказанных действий Вы все равно не обнаружите письмо, обратитесь в"
+"iomoney_service": "Платежный сервис \"ЮMoney\""
+"item(s)": "предмет(а)"
+"item_1": "Вещь"
+"keywords": "Драконика, ММОРПГ, 3D, вид сбоку, казуальная игра, система уровней на основе квестов, хардкорная игра, ПВП, ПВЕ, различные режимы ПВП, многоуровневые подземелья, партнерская система, система друзей, системы брака, легко завести друзей"
+"launch_the_game_text": "Запустите игру. Подождите несколько секунд, пока на экране появится стартовое окно игры"
+"link2": "по ссылке"
+"lvl": "ур."
+"m": "м"
+"main_video_description": "Мир Драконики выглядит очень миролюбивым и приветливым, но это будет происходить до тех пор, пока вы не возьмёте на вооружение конфетные перчатки, костюм снеговика и не пойдёте расчищать древние катакомбы Замка графа-вампира Ван-Клиффа от сил зла."
+"main_video_title": "Мир Драконики ждет Вас!"
+"male": "муж."
+"min": "мин"
+"monsters on the": "монстров на"
+"month": "мес."
+"mpower": "Магическая Сила"
+"of": "из"
+"or": "или"
+"pc(s)": "шт"
+"pc.": "шт."
+"place_items": "Установить можно предметы в ячейки&colon; Грудь, Руки, Ноги, Обувь."
+"players.": "игроков."
+"ppower": "Физическая Сила"
+"processing_of_personal_data_text": "Я, субъект персональных данных, в соответствии с Федеральным законом от 27 июля 2006 года № 152 «О персональных данных» а также EU GDPR предоставляю сайту volia.biz (далее - Оператор), согласие на обработку персональных данных, указанных мной в форме регистрации на сайте в сети «Интернет», владельцем которого является Оператор."
+"project rules": "правилами проекта"
+"promotion": "акцией"
+"purchase_cash": "Покупка \"Cash\" валюты для Вашей учетной записи. Доставляется мгновенно."
+"purchase_cp": "Покупка \"ОБ\" валюты для любого из Ваших персонажей. Доставляется мгновенно."
+"qiwi_service": "Платежный сервис \"Qiwi\""
+"rattack": "Диапазон Атаки"
+"remove_from_wishlist": "Удалить из желаемого"
+"replenish your account!": "пополнить счет!"
+"sattack": "Скорость Атаки"
+"sec": "сек"
+"sex": "пол"
+"slider_description": "Какие чувства у вас вызывает падающая на могучего дракона гигантская однотонная гиря? Или подрыв авиаударом древних заколдованных доспехов? Всё это вы можете испытать в Мире Драконики, где милые герои не останавливаются на привычных способах сражения с противниками. Их комбо-удары выходят далеко за грани доступного."
+"special_1": "Особые"
+"specifying the time and amount sent. Also, the support service may request a photo of the receipt, save it!": "с указанием времени и высланной суммы. Также служба поддержки может запросить фотографию чека, сохраните его!"
+"summary": "сводка"
+"support team": "службу поддержки"
+"support_service2": "службу поддержки"
+"this_is_really_fast_source_text": "Это очень быстрый источник. Если у Вас отсутствует Torrent-клиент, загрузите"
+"top_up_iomoney": "Пополните счет через платежный сервис \"ЮMoney\" без комиссии."
+"top_up_qiwi": "Пополните счет через платежный сервис \"Qiwi\" без комиссии."
+"top_up_webmoney": "Пополните счет через платежный сервис \"WebMoney\" без комиссии."
+"user agreement": "пользовательским соглашением"
+"webmoney_service": "Платежный сервис \"WebMoney\""
+"year": "года"
+"yoomoney_copyright": "2021 ООО НКО «ЮМани». Лицензия Банка России № 3510‑К"
+"you will receive a 35% bonus using this deposit method!": "вы получите бонус 35%, используя этот метод пополнения!"
+"Сhanging the gender of the character": "Смена пола персонажа"
+"Сhanging the name of a character, guild or pet": "Смена имени персонажа, гильдии или питомца"
+"Сryptocurrencies BTC, ETH, XMR": "Криптовалюты BTC, ETH, XMR"
 # api_texts
-api_activation_code_mail_subject: Ваш код активации
-api_activation_failed: Неверный код активации! Пожалуйста, попробуйте еще раз.
-api_activation_success: Активация произведена успешно!
-api_all_fields_must_be_filled: Пожалуйста, заполните все поля.
-api_email_change_success: Ваш E-Mail был успешно изменен!
-api_enter_the_activation_code: Пожалуйста, введите код активации, который вы получили по E-Mail.
-api_failed_to_find_such_user: Не удалось найти пользователя.
-api_failed_to_register: Не удалось зарегистрироваться. Пожалуйста, повторите попытку позже.
-api_incorrect_credentials: Логин или пароль не верен!
-api_incorrect_current_password: Введенный текущий пароль не верен!
-api_invalid_cookie: Некорректный cookie
-api_invalid_email: Пожалуйста, введите правильный E-Mail.
-api_mail_failure: Не удалось отправить письмо. Пожалуйста, попробуйте еще раз.
-api_no_cookie: Отсутствует cookie авторизации!
-api_no_method: Не указано действие!
-api_pass_change_not_confirm: Новые пароли не совпадают. Попробуйте еще раз.
-api_pass_change_success: Пароль был успешно изменен!
-api_password_does_not_meet_requirements: Новый пароль не отвечает требованиям. Пожалуйста, попробуйте еще раз.
-api_redirect_to_personal: Вы будете перенаправлены в личный кабинет в течение 5 секунд.
-api_same_email: Новый E-Mail совпадает с текущим. Пожалуйста, попробуйте еще раз.
-api_unknown_method: Неизвестное действие!
+"api_activation_code_mail_subject": "Ваш код активации"
+"api_activation_failed": "Неверный код активации! Пожалуйста, попробуйте еще раз."
+"api_activation_success": "Активация произведена успешно!"
+"api_all_fields_must_be_filled": "Пожалуйста, заполните все поля."
+"api_email_change_success": "Ваш E-Mail был успешно изменен!"
+"api_enter_the_activation_code": "Пожалуйста, введите код активации, который вы получили по E-Mail."
+"api_failed_to_find_such_user": "Не удалось найти пользователя."
+"api_failed_to_register": "Не удалось зарегистрироваться. Пожалуйста, повторите попытку позже."
+"api_incorrect_credentials": "Логин или пароль не верен!"
+"api_incorrect_current_password": "Введенный текущий пароль не верен!"
+"api_invalid_cookie": "Некорректный cookie"
+"api_invalid_email": "Пожалуйста, введите правильный E-Mail."
+"api_mail_failure": "Не удалось отправить письмо. Пожалуйста, попробуйте еще раз."
+"api_no_cookie": "Отсутствует cookie авторизации!"
+"api_no_method": "Не указано действие!"
+"api_pass_change_not_confirm": "Новые пароли не совпадают. Попробуйте еще раз."
+"api_pass_change_success": "Пароль был успешно изменен!"
+"api_password_does_not_meet_requirements": "Новый пароль не отвечает требованиям. Пожалуйста, попробуйте еще раз."
+"api_redirect_to_personal": "Вы будете перенаправлены в личный кабинет в течение 5 секунд."
+"api_same_email": "Новый E-Mail совпадает с текущим. Пожалуйста, попробуйте еще раз."
+"api_unknown_method": "Неизвестное действие!"
